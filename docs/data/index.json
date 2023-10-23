@@ -1,0 +1,1229 @@
+{
+  "apiVersion": "v1",
+  "entries": {
+    "ibm-ads": {
+      "latestAppVersion": "23.0.1-IF003",
+      "latestVersion": "1.1.3"
+    },
+    "ibm-ai-wmlrepo": {
+      "latestAppVersion": "1.1.0",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-ai-wmlserving": {
+      "latestAppVersion": "1.1.0",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-ai-wmltraining": {
+      "latestAppVersion": "1.1.1",
+      "latestVersion": "1.1.2"
+    },
+    "ibm-ai-wmlurm": {
+      "latestAppVersion": "1.1.0",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-aiopenscale": {
+      "latestAppVersion": "3.5.0",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-aiops-analytics": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "4.6.0"
+    },
+    "ibm-aiops-ir-core-operator": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "2.6.0"
+    },
+    "ibm-aiops-lifecycle": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "2.6.0"
+    },
+    "ibm-aiopsedge-bundle": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "1.7.0"
+    },
+    "ibm-analyticsengine": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "7.3.0"
+    },
+    "ibm-apicatalog": {
+      "latestAppVersion": "1.5.0",
+      "latestVersion": "1.5.0"
+    },
+    "ibm-apiconnect": {
+      "latestAppVersion": "10.0.1",
+      "latestVersion": "5.0.0"
+    },
+    "ibm-apm-ema-prod": {
+      "latestAppVersion": "1.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-appconnect": {
+      "latestAppVersion": "12.0.9.0-r3",
+      "latestVersion": "10.0.1"
+    },
+    "ibm-asm-operator-case": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "2.17.0"
+    },
+    "ibm-aspera-hsts-operator": {
+      "latestAppVersion": "1.5.11",
+      "latestVersion": "1.5.11"
+    },
+    "ibm-auditlogging": {
+      "latestAppVersion": "3.25.8",
+      "latestVersion": "1.20.8"
+    },
+    "ibm-auditwebhook-operator": {
+      "latestAppVersion": "1.0.1",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-automation-foundation-core": {
+      "latestAppVersion": "1.3.15",
+      "latestVersion": "1.3.15"
+    },
+    "ibm-automation-foundation-insights-engine": {
+      "latestAppVersion": "1.0.14",
+      "latestVersion": "1.0.14"
+    },
+    "ibm-b2bi": {
+      "latestAppVersion": "6.2.0.0",
+      "latestVersion": "1.2.0"
+    },
+    "ibm-bai-nlq": {
+      "latestAppVersion": "21.0.1",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-bigsql-case": {
+      "latestAppVersion": "7.5.3",
+      "latestVersion": "9.3.0"
+    },
+    "ibm-block-csi-driver": {
+      "latestAppVersion": "1.8.0",
+      "latestVersion": "1.8.0"
+    },
+    "ibm-blockchain": {
+      "latestAppVersion": "2.5.3",
+      "latestVersion": "2.6.0"
+    },
+    "ibm-bts-bundle": {
+      "latestAppVersion": "3.30.0",
+      "latestVersion": "1.0.20"
+    },
+    "ibm-cam": {
+      "latestAppVersion": "4.2.0.1",
+      "latestVersion": "1.1.1"
+    },
+    "ibm-camel-k": {
+      "latestAppVersion": "3.2.1-rc2-202202181548",
+      "latestVersion": "1.1.1"
+    },
+    "ibm-catalog-ui-operator": {
+      "latestAppVersion": "3.6.4",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-ccs": {
+      "latestAppVersion": "7.3.0",
+      "latestVersion": "7.3.0"
+    },
+    "ibm-cde": {
+      "latestAppVersion": "4.6.5",
+      "latestVersion": "3.4.0"
+    },
+    "ibm-cem-case": {
+      "latestAppVersion": "2.11.0",
+      "latestVersion": "1.4.0"
+    },
+    "ibm-cert-manager": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-cfmr": {
+      "latestAppVersion": "2.1.3",
+      "latestVersion": "1.2.3"
+    },
+    "ibm-cloud-databases-redis": {
+      "latestAppVersion": "1.6.11",
+      "latestVersion": "1.6.11"
+    },
+    "ibm-cloud-native-postgresql": {
+      "latestAppVersion": "1.18.6",
+      "latestVersion": "4.17.0"
+    },
+    "ibm-cognos-analytics-addon-prod": {
+      "latestAppVersion": "3.5.1",
+      "latestVersion": "0.1.3"
+    },
+    "ibm-cognos-analytics-prod": {
+      "latestAppVersion": "24.3.0+20230831.205223.365",
+      "latestVersion": "24.3.0"
+    },
+    "ibm-connect-direct": {
+      "latestAppVersion": "6.3.0.0_ifix016",
+      "latestVersion": "1.4.1"
+    },
+    "ibm-couchdb": {
+      "latestAppVersion": "2.2.1",
+      "latestVersion": "1.0.13"
+    },
+    "ibm-cp-applications": {
+      "latestAppVersion": "4.3.1",
+      "latestVersion": "2.4.3"
+    },
+    "ibm-cp-applications-le": {
+      "latestAppVersion": "4.3.1",
+      "latestVersion": "2.4.1"
+    },
+    "ibm-cp-automation": {
+      "latestAppVersion": "23.0.1-IF003+20230928.034423",
+      "latestVersion": "5.0.3+20230928.034423"
+    },
+    "ibm-cp-automation-foundation": {
+      "latestAppVersion": "1.3.15",
+      "latestVersion": "1.3.15"
+    },
+    "ibm-cp-common-services": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-cp-data": {
+      "latestAppVersion": "2.1.0.2",
+      "latestVersion": "1.0.6"
+    },
+    "ibm-cp-datacore": {
+      "latestAppVersion": "4.7.4",
+      "latestVersion": "3.4.0"
+    },
+    "ibm-cp-datacore-bedrock": {
+      "latestAppVersion": "3.0.1",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-cp-fncm-case": {
+      "latestAppVersion": "5.5.11-IF001",
+      "latestVersion": "1.7.1"
+    },
+    "ibm-cp-integration": {
+      "latestAppVersion": "2023.2.1",
+      "latestVersion": "4.0.3"
+    },
+    "ibm-cp-management": {
+      "latestAppVersion": "2.3.29",
+      "latestVersion": "100.3.32+2.3.29"
+    },
+    "ibm-cp-networkautomation": {
+      "latestAppVersion": "2.0.0",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-cp-security": {
+      "latestAppVersion": "1.10.16-0",
+      "latestVersion": "1.0.41"
+    },
+    "ibm-cp-waiops": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "1.8.0"
+    },
+    "ibm-cp4d-ibm-cloudpakopen-elasticsearch-operator": {
+      "latestAppVersion": "7.8.1",
+      "latestVersion": "1.0.2"
+    },
+    "ibm-cp4d-ibm-etcd-operator": {
+      "latestAppVersion": "3.3.25",
+      "latestVersion": "1.0.3"
+    },
+    "ibm-cp4d-ibm-minio-operator": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.0.3"
+    },
+    "ibm-cp4d-ibm-rabbitmq-operator": {
+      "latestAppVersion": "3.8",
+      "latestVersion": "1.0.4"
+    },
+    "ibm-cp4d-modeltrain-classic": {
+      "latestAppVersion": "1.0.0+20201119.090033.001",
+      "latestVersion": "1.0.0+20201119.090033.001"
+    },
+    "ibm-cpd-edb": {
+      "latestAppVersion": "4.17.0",
+      "latestVersion": "4.17.0+20230928.142003"
+    },
+    "ibm-cpd-mongodb": {
+      "latestAppVersion": "4.12.0",
+      "latestVersion": "4.12.0"
+    },
+    "ibm-cpd-scheduling": {
+      "latestAppVersion": "4.7.4",
+      "latestVersion": "1.17.0+20230920.000433.f585316"
+    },
+    "ibm-cpp": {
+      "latestAppVersion": "1.10.6",
+      "latestVersion": "1.10.6"
+    },
+    "ibm-cpq-case": {
+      "latestAppVersion": "10.0.0.22",
+      "latestVersion": "4.0.4"
+    },
+    "ibm-crossplane-bundle": {
+      "latestAppVersion": "1.12.8",
+      "latestVersion": "1.12.8"
+    },
+    "ibm-cs-bawautomation": {
+      "latestAppVersion": "23.0.1-IF003",
+      "latestVersion": "2.5.3"
+    },
+    "ibm-cs-commonui": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-cs-elastic": {
+      "latestAppVersion": "1.3.14",
+      "latestVersion": "1.3.14"
+    },
+    "ibm-cs-flink": {
+      "latestAppVersion": "1.3.14",
+      "latestVersion": "1.3.14"
+    },
+    "ibm-cs-healthcheck": {
+      "latestAppVersion": "3.25.8",
+      "latestVersion": "1.19.8"
+    },
+    "ibm-cs-iam": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-cs-logging": {
+      "latestAppVersion": "3.2.5",
+      "latestVersion": "1.0.7"
+    },
+    "ibm-cs-mongodb": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-cs-monitoring": {
+      "latestAppVersion": "1.27.8",
+      "latestVersion": "1.19.8"
+    },
+    "ibm-dashboard": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "1.2.0+20230905.130322.3B79A69E9"
+    },
+    "ibm-data-dictionary": {
+      "latestAppVersion": "1.1.5",
+      "latestVersion": "1.1.5"
+    },
+    "ibm-data-governor": {
+      "latestAppVersion": "1.49.4",
+      "latestVersion": "3.3.2"
+    },
+    "ibm-databases": {
+      "latestAppVersion": "1.0.0+20201119.112939",
+      "latestVersion": "1.0.0+20201119.112939"
+    },
+    "ibm-datagate-prod": {
+      "latestAppVersion": "4.1.0",
+      "latestVersion": "6.1.0"
+    },
+    "ibm-datapower-operator": {
+      "latestAppVersion": "1.8.0",
+      "latestVersion": "1.8.0"
+    },
+    "ibm-datapower-operator-cp4i": {
+      "latestAppVersion": "10.0.3.0",
+      "latestVersion": "1.4.1"
+    },
+    "ibm-datapower-operator-deved": {
+      "latestAppVersion": "10.0.3.0",
+      "latestVersion": "1.4.1"
+    },
+    "ibm-datapower-operator-limited": {
+      "latestAppVersion": "10.0.3.0",
+      "latestVersion": "1.4.1"
+    },
+    "ibm-datapower-operator-nonprod": {
+      "latestAppVersion": "10.0.3.0",
+      "latestVersion": "1.4.1"
+    },
+    "ibm-datapower-operator-prod": {
+      "latestAppVersion": "10.0.3.0",
+      "latestVersion": "1.4.1"
+    },
+    "ibm-datarefinery": {
+      "latestAppVersion": "7.0.0",
+      "latestVersion": "7.0.0"
+    },
+    "ibm-datastage": {
+      "latestAppVersion": "4.7.4",
+      "latestVersion": "6.4.0"
+    },
+    "ibm-datastage-enterprise": {
+      "latestAppVersion": "4.7.4",
+      "latestVersion": "6.4.0"
+    },
+    "ibm-db2aaservice": {
+      "latestAppVersion": "11.5.8.0-cn5",
+      "latestVersion": "4.7.3"
+    },
+    "ibm-db2eventstore": {
+      "latestAppVersion": "3.5.0+20201117.102010.3",
+      "latestVersion": "3.5.0+20201117.102010.3"
+    },
+    "ibm-db2oltp": {
+      "latestAppVersion": "11.5.8.0-cn5",
+      "latestVersion": "4.7.3"
+    },
+    "ibm-db2uoperator": {
+      "latestAppVersion": "s11.5.8.0-cn3",
+      "latestVersion": "5.4.2"
+    },
+    "ibm-db2wh": {
+      "latestAppVersion": "11.5.8.0-cn5",
+      "latestVersion": "4.7.3"
+    },
+    "ibm-db2z": {
+      "latestAppVersion": "3.5.0",
+      "latestVersion": "3.2.2"
+    },
+    "ibm-dbb-case": {
+      "latestAppVersion": "1.1.4",
+      "latestVersion": "1.1.42"
+    },
+    "ibm-dmc": {
+      "latestAppVersion": "3.1.11",
+      "latestVersion": "6.2.0"
+    },
+    "ibm-dods": {
+      "latestAppVersion": "7.3.0",
+      "latestVersion": "7.3.0"
+    },
+    "ibm-dp": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "7.3.0"
+    },
+    "ibm-dpra": {
+      "latestAppVersion": "1.11.0",
+      "latestVersion": "1.11.0+20230928.000000"
+    },
+    "ibm-dv-case": {
+      "latestAppVersion": "2.1.3",
+      "latestVersion": "3.3.0"
+    },
+    "ibm-eamhub": {
+      "latestAppVersion": "4.5.2",
+      "latestVersion": "1.3.2"
+    },
+    "ibm-eamhub-case": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-edb-as-cp4d": {
+      "latestAppVersion": "3.5.1",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-edb-pg-cp4d": {
+      "latestAppVersion": "3.5.1",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-elasticsearch-operator": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.1.1807"
+    },
+    "ibm-estap": {
+      "latestAppVersion": "1.1.2",
+      "latestVersion": "1.1.2"
+    },
+    "ibm-etcd-operator": {
+      "latestAppVersion": "3.4.16",
+      "latestVersion": "2.0.30"
+    },
+    "ibm-eventautomation-flink": {
+      "latestAppVersion": "1.0.3",
+      "latestVersion": "1.0.3"
+    },
+    "ibm-eventendpointmanagement": {
+      "latestAppVersion": "11.0.5",
+      "latestVersion": "11.0.6"
+    },
+    "ibm-eventprocessing": {
+      "latestAppVersion": "1.0.4",
+      "latestVersion": "1.0.4"
+    },
+    "ibm-events-operator": {
+      "latestAppVersion": "0.20.0",
+      "latestVersion": "4.8.0"
+    },
+    "ibm-eventstreams": {
+      "latestAppVersion": "11.2.4",
+      "latestVersion": "3.2.4"
+    },
+    "ibm-factsheet": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "2.3.0"
+    },
+    "ibm-fci-alert-triage": {
+      "latestAppVersion": "6.6.1",
+      "latestVersion": "6.7.0+20220318.101158"
+    },
+    "ibm-fci-alert-triage-prod": {
+      "latestAppVersion": "6.6.0",
+      "latestVersion": "6.6.0"
+    },
+    "ibm-fci-claims-fraud": {
+      "latestAppVersion": "6.6.3",
+      "latestVersion": "6.7.2"
+    },
+    "ibm-fci-claims-fraud-prod": {
+      "latestAppVersion": "6.6.0",
+      "latestVersion": "6.6.0"
+    },
+    "ibm-fci-entity-research-prod": {
+      "latestAppVersion": "6.6.0",
+      "latestVersion": "6.6.0"
+    },
+    "ibm-fci-platform-prod": {
+      "latestAppVersion": "6.6.3",
+      "latestVersion": "6.7.2"
+    },
+    "ibm-fdb": {
+      "latestAppVersion": "3.1.4+20230802.143749.1",
+      "latestVersion": "3.1.4+20230802.143749.1"
+    },
+    "ibm-fhir-server-case": {
+      "latestAppVersion": "4.9.1",
+      "latestVersion": "1.2.0"
+    },
+    "ibm-ftm-base": {
+      "latestAppVersion": "4.0.5.1_iFix3",
+      "latestVersion": "4.2.4"
+    },
+    "ibm-ftm-check": {
+      "latestAppVersion": "4.0.5.1_iFix3",
+      "latestVersion": "4.2.4"
+    },
+    "ibm-ftm-dp": {
+      "latestAppVersion": "4.0.3.1",
+      "latestVersion": "4.0.8"
+    },
+    "ibm-ftm-dp-interac-e-transfers-send": {
+      "latestAppVersion": "4.0.3.1",
+      "latestVersion": "4.0.10"
+    },
+    "ibm-ftm-ip": {
+      "latestAppVersion": "4.0.3.1",
+      "latestVersion": "4.0.8"
+    },
+    "ibm-guardium-insights": {
+      "latestAppVersion": "3.2.10",
+      "latestVersion": "2.2.10"
+    },
+    "ibm-hadoop": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "4.7.3"
+    },
+    "ibm-helm-api-operator": {
+      "latestAppVersion": "3.6.4",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-helm-repo-operator": {
+      "latestAppVersion": "3.6.4",
+      "latestVersion": "1.0.2"
+    },
+    "ibm-hlfsupport": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.0.2"
+    },
+    "ibm-hybridgrc": {
+      "latestAppVersion": "2.3.4",
+      "latestVersion": "2.3.4"
+    },
+    "ibm-ia-cam": {
+      "latestAppVersion": "4.2.0-rc1-202309131449",
+      "latestVersion": "1.6.0"
+    },
+    "ibm-ia-im": {
+      "latestAppVersion": "4.2.0-rc1-202309131449",
+      "latestVersion": "1.6.0"
+    },
+    "ibm-ia-installer": {
+      "latestAppVersion": "4.2.0-rc1-202309131449",
+      "latestVersion": "1.6.0"
+    },
+    "ibm-iccsap-case": {
+      "latestAppVersion": "4.0.0.4",
+      "latestVersion": "1.2.8"
+    },
+    "ibm-ier-case": {
+      "latestAppVersion": "5.2.1.9",
+      "latestVersion": "1.0.5"
+    },
+    "ibm-iis": {
+      "latestAppVersion": "4.6.5",
+      "latestVersion": "4.6.5"
+    },
+    "ibm-informix": {
+      "latestAppVersion": "14.10.1",
+      "latestVersion": "1.0.4"
+    },
+    "ibm-informix-cp4d-operator": {
+      "latestAppVersion": "6.1.0",
+      "latestVersion": "6.1.0"
+    },
+    "ibm-informix-operator": {
+      "latestAppVersion": "6.1.0",
+      "latestVersion": "6.1.0"
+    },
+    "ibm-integration-asset-repository": {
+      "latestAppVersion": "2022.2.1",
+      "latestVersion": "1.5.13"
+    },
+    "ibm-integration-demos-operator": {
+      "latestAppVersion": "2021.1.1",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-integration-operations-dashboard": {
+      "latestAppVersion": "2022.2.1-15-lts",
+      "latestVersion": "2.6.15"
+    },
+    "ibm-integration-platform-navigator": {
+      "latestAppVersion": "2023.2.1-2",
+      "latestVersion": "7.1.2"
+    },
+    "ibm-itx-rs": {
+      "latestAppVersion": "10.1.1.1",
+      "latestVersion": "2.0.0"
+    },
+    "ibm-itxa": {
+      "latestAppVersion": "10.0.1",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-klusterlet-operator": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-license-service-reporter-bundle": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-licensing": {
+      "latestAppVersion": "4.2.0",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-lite": {
+      "latestAppVersion": "3.5.0+20200922.002611.213",
+      "latestVersion": "1.0.3"
+    },
+    "ibm-management-cam-install": {
+      "latestAppVersion": "2.3.1",
+      "latestVersion": "2.3.6"
+    },
+    "ibm-management-hybridapp": {
+      "latestAppVersion": "2.3.6",
+      "latestVersion": "1.3.6"
+    },
+    "ibm-management-im-install": {
+      "latestAppVersion": "1.0.1",
+      "latestVersion": "2.3.6"
+    },
+    "ibm-management-infra-grc": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-management-infra-vm": {
+      "latestAppVersion": "2.3.1",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-management-ingress": {
+      "latestAppVersion": "1.21.8",
+      "latestVersion": "1.19.8"
+    },
+    "ibm-management-kong": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-management-license-advisor": {
+      "latestAppVersion": "2.3.2",
+      "latestVersion": "1.3.2"
+    },
+    "ibm-management-manage-runtime": {
+      "latestAppVersion": "2.3.5",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-management-mcm": {
+      "latestAppVersion": "2.1.0",
+      "latestVersion": "2.1.0"
+    },
+    "ibm-management-monitoring": {
+      "latestAppVersion": "2022.0.3",
+      "latestVersion": "1.3.7"
+    },
+    "ibm-management-mutation-advisor": {
+      "latestAppVersion": "2.3.4",
+      "latestVersion": "2.3.4"
+    },
+    "ibm-management-sdk": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-management-service-library": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "2.3.6"
+    },
+    "ibm-management-sre-bastion": {
+      "latestAppVersion": "2.3.5",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-management-sre-chatops": {
+      "latestAppVersion": "2.3.25",
+      "latestVersion": "2.3.25"
+    },
+    "ibm-management-sre-inventory": {
+      "latestAppVersion": "2.3.5",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-management-ui": {
+      "latestAppVersion": "1.2.4",
+      "latestVersion": "1.3.5"
+    },
+    "ibm-management-vulnerability-advisor": {
+      "latestAppVersion": "2.3.4",
+      "latestVersion": "2.3.4"
+    },
+    "ibm-mas": {
+      "latestAppVersion": "8.11.1",
+      "latestVersion": "8.11.1"
+    },
+    "ibm-mas-assist": {
+      "latestAppVersion": "8.8.0",
+      "latestVersion": "8.8.0"
+    },
+    "ibm-mas-health": {
+      "latestAppVersion": "8.1.3",
+      "latestVersion": "8.1.3"
+    },
+    "ibm-mas-hputilities": {
+      "latestAppVersion": "8.6.2",
+      "latestVersion": "8.6.2"
+    },
+    "ibm-mas-iot": {
+      "latestAppVersion": "8.8.0",
+      "latestVersion": "8.8.0"
+    },
+    "ibm-mas-manage": {
+      "latestAppVersion": "8.7.0",
+      "latestVersion": "8.7.0+20230925.114420"
+    },
+    "ibm-mas-monitor": {
+      "latestAppVersion": "8.11.0",
+      "latestVersion": "8.11.0"
+    },
+    "ibm-mas-mso": {
+      "latestAppVersion": "8.1.0",
+      "latestVersion": "8.1.0"
+    },
+    "ibm-mas-optimizer": {
+      "latestAppVersion": "8.5.0",
+      "latestVersion": "8.5.0"
+    },
+    "ibm-mas-predict": {
+      "latestAppVersion": "8.9.0",
+      "latestVersion": "8.9.0"
+    },
+    "ibm-mas-safety": {
+      "latestAppVersion": "8.3.2",
+      "latestVersion": "8.3.2"
+    },
+    "ibm-mas-visualinspection": {
+      "latestAppVersion": "8.9.0",
+      "latestVersion": "8.9.0"
+    },
+    "ibm-mdc": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-mdm": {
+      "latestAppVersion": "3.2.0",
+      "latestVersion": "3.2.0"
+    },
+    "ibm-merlin": {
+      "latestAppVersion": "1.4.4",
+      "latestVersion": "1.4.4"
+    },
+    "ibm-merlin-cicd": {
+      "latestAppVersion": "1.4.4",
+      "latestVersion": "1.4.4"
+    },
+    "ibm-merlin-development-environment": {
+      "latestAppVersion": "1.4.4",
+      "latestVersion": "1.4.4"
+    },
+    "ibm-metering": {
+      "latestAppVersion": "3.8.3",
+      "latestVersion": "1.2.3"
+    },
+    "ibm-minio-operator": {
+      "latestAppVersion": "1.1.56",
+      "latestVersion": "1.0.23"
+    },
+    "ibm-mobilefoundation": {
+      "latestAppVersion": "8.0.0",
+      "latestVersion": "8.1.6"
+    },
+    "ibm-mobilefoundation-dev": {
+      "latestAppVersion": "1.2.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-mobilefoundation-helm": {
+      "latestAppVersion": "3.0.5",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-model-train-operator": {
+      "latestAppVersion": "1.1.12",
+      "latestVersion": "1.2.10"
+    },
+    "ibm-mongodb-cp4d": {
+      "latestAppVersion": "3.5.0",
+      "latestVersion": "3.5.1"
+    },
+    "ibm-mongodb-enterprise": {
+      "latestAppVersion": "1.18.0",
+      "latestVersion": "4.12.0"
+    },
+    "ibm-mq": {
+      "latestAppVersion": "2.4.3",
+      "latestVersion": "2.4.3"
+    },
+    "ibm-netcool-integrations": {
+      "latestAppVersion": "3.8.1",
+      "latestVersion": "3.6.1"
+    },
+    "ibm-netcool-prod": {
+      "latestAppVersion": "2.0.2",
+      "latestVersion": "2.0.2-130"
+    },
+    "ibm-object-storage-plugin": {
+      "latestAppVersion": "2.2.19",
+      "latestVersion": "2.2.19"
+    },
+    "ibm-odm-dev": {
+      "latestAppVersion": "8.11.1.0",
+      "latestVersion": "1.5.0"
+    },
+    "ibm-odm-prod": {
+      "latestAppVersion": "8.12.0.0-IF005",
+      "latestVersion": "1.6.5"
+    },
+    "ibm-oms-ent-case": {
+      "latestAppVersion": "10.0.0",
+      "latestVersion": "3.0.15"
+    },
+    "ibm-oms-pro-case": {
+      "latestAppVersion": "10.0.0",
+      "latestVersion": "3.0.15"
+    },
+    "ibm-openpages": {
+      "latestAppVersion": "9.000.0",
+      "latestVersion": "5.1.0+20230907.115725.900009102"
+    },
+    "ibm-operator-catalog-enablement": {
+      "latestAppVersion": "2.1.0",
+      "latestVersion": "1.2.2"
+    },
+    "ibm-osdu": {
+      "latestAppVersion": "4.1.0",
+      "latestVersion": "4.1.0"
+    },
+    "ibm-pem": {
+      "latestAppVersion": "6.2.2.1.2",
+      "latestVersion": "1.2.4"
+    },
+    "ibm-planning-analytics": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "4.7.3+20230907.161942.149"
+    },
+    "ibm-platform-api-operator": {
+      "latestAppVersion": "3.25.8",
+      "latestVersion": "1.19.8"
+    },
+    "ibm-postgreservice": {
+      "latestAppVersion": "3.5.1-rc1-202210172202",
+      "latestVersion": "1.3.1"
+    },
+    "ibm-process-mining": {
+      "latestAppVersion": "1.14.2",
+      "latestVersion": "3.0.0"
+    },
+    "ibm-productmaster": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-rabbitmq-operator": {
+      "latestAppVersion": "1.1.4",
+      "latestVersion": "1.0.30"
+    },
+    "ibm-redhat-marketplace": {
+      "latestAppVersion": "2.12.0",
+      "latestVersion": "2.12.0"
+    },
+    "ibm-redis": {
+      "latestAppVersion": "5.0.9",
+      "latestVersion": "1.0.6"
+    },
+    "ibm-redis-cp": {
+      "latestAppVersion": "1.1.2",
+      "latestVersion": "1.1.2"
+    },
+    "ibm-replication": {
+      "latestAppVersion": "4.7.4",
+      "latestVersion": "4.7.4+20230928.163635.109"
+    },
+    "ibm-robotic-process-automation": {
+      "latestAppVersion": "1.19.0",
+      "latestVersion": "1.19.0"
+    },
+    "ibm-rqa-case": {
+      "latestAppVersion": "3.1.5",
+      "latestVersion": "1.0.8"
+    },
+    "ibm-rstudio": {
+      "latestAppVersion": "7.0.0",
+      "latestVersion": "7.0.0"
+    },
+    "ibm-rtas-case": {
+      "latestAppVersion": "10.5.4-202309061322-916d52b6cc",
+      "latestVersion": "13.1054.0"
+    },
+    "ibm-safer-payments": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-sccd": {
+      "latestAppVersion": "6.3.0.0",
+      "latestVersion": "3.0.2"
+    },
+    "ibm-sccm": {
+      "latestAppVersion": "6.3.0.0",
+      "latestVersion": "3.0.6"
+    },
+    "ibm-seas": {
+      "latestAppVersion": "6.1.0.0.04",
+      "latestVersion": "1.3.4"
+    },
+    "ibm-secure-tunnel": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "4.2.0"
+    },
+    "ibm-security-image-signing": {
+      "latestAppVersion": "2.3.5",
+      "latestVersion": "2.3.5"
+    },
+    "ibm-security-solutions": {
+      "latestAppVersion": "1.7.2-0",
+      "latestVersion": "1.0.19"
+    },
+    "ibm-sfg": {
+      "latestAppVersion": "6.2.0.0",
+      "latestVersion": "1.2.0"
+    },
+    "ibm-sls": {
+      "latestAppVersion": "3.8.1",
+      "latestVersion": "3.8.1"
+    },
+    "ibm-sls-bundle": {
+      "latestAppVersion": "3.0.0",
+      "latestVersion": "3.0.0"
+    },
+    "ibm-spectrum-discover": {
+      "latestAppVersion": "2.1.2",
+      "latestVersion": "212.0.0"
+    },
+    "ibm-spectrum-fusion": {
+      "latestAppVersion": "2.6.1",
+      "latestVersion": "1.0.8"
+    },
+    "ibm-spectrum-fusion-sds": {
+      "latestAppVersion": "2.6.1",
+      "latestVersion": "1.0.8"
+    },
+    "ibm-spectrum-protect-plus": {
+      "latestAppVersion": "10.1.12.4",
+      "latestVersion": "1.6.4"
+    },
+    "ibm-spectrum-scale-csi-operator": {
+      "latestAppVersion": "2.9.0",
+      "latestVersion": "2.9.0"
+    },
+    "ibm-spectrum-scale-dae-bundle": {
+      "latestAppVersion": "5.1.7.0.7",
+      "latestVersion": "1.5.1"
+    },
+    "ibm-spectrum-scale-das-object-bundle": {
+      "latestAppVersion": "5.1.7.0",
+      "latestVersion": "1.1.1"
+    },
+    "ibm-spectrum-scale-dme-bundle": {
+      "latestAppVersion": "5.1.7.0.7",
+      "latestVersion": "1.5.1"
+    },
+    "ibm-spectrum-scale-ece-bundle": {
+      "latestAppVersion": "5.1.7.0-3",
+      "latestVersion": "1.5.3"
+    },
+    "ibm-spectrum-symphony-dev": {
+      "latestAppVersion": "7.3.0.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-spp-server": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "10.18.1"
+    },
+    "ibm-spp-server-std": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "10.112.1"
+    },
+    "ibm-spss": {
+      "latestAppVersion": "7.0.0",
+      "latestVersion": "7.0.0"
+    },
+    "ibm-ssp-cm": {
+      "latestAppVersion": "6.1.0.0",
+      "latestVersion": "1.3.0"
+    },
+    "ibm-ssp-engine": {
+      "latestAppVersion": "6.1.0.0",
+      "latestVersion": "1.3.0"
+    },
+    "ibm-ssp-ps": {
+      "latestAppVersion": "6.1.0.0",
+      "latestVersion": "1.3.0"
+    },
+    "ibm-stepzen-case": {
+      "latestAppVersion": "v2023.0925",
+      "latestVersion": "1.0.0+20230925.000000"
+    },
+    "ibm-storage-fusion-df-case-bundle": {
+      "latestAppVersion": "4.13.2",
+      "latestVersion": "3.0.0"
+    },
+    "ibm-streams": {
+      "latestAppVersion": "5.5.0",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-streams-flows": {
+      "latestAppVersion": "1.0.311",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-sysflow": {
+      "latestAppVersion": "1.0.1",
+      "latestVersion": "1.0.1"
+    },
+    "ibm-tas": {
+      "latestAppVersion": "11.5.0",
+      "latestVersion": "11.5.0"
+    },
+    "ibm-tnc-assurance": {
+      "latestAppVersion": "2.0.0",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-tnc-orchestration": {
+      "latestAppVersion": "2.0.0",
+      "latestVersion": "1.5.2"
+    },
+    "ibm-tncp-case": {
+      "latestAppVersion": "1.4.4",
+      "latestVersion": "1.4.4"
+    },
+    "ibm-transadv": {
+      "latestAppVersion": "3.7.0",
+      "latestVersion": "3.7.0"
+    },
+    "ibm-truststore-mgr": {
+      "latestAppVersion": "1.5.1",
+      "latestVersion": "1.5.1"
+    },
+    "ibm-ucd-prod": {
+      "latestAppVersion": "7.3.2",
+      "latestVersion": "2.0.9"
+    },
+    "ibm-ucda-case": {
+      "latestAppVersion": "7.3.2",
+      "latestVersion": "1.4.16"
+    },
+    "ibm-ucdr-case": {
+      "latestAppVersion": "7.3.2",
+      "latestVersion": "1.4.16"
+    },
+    "ibm-ucv-prod": {
+      "latestAppVersion": "4.0.14",
+      "latestVersion": "1.0.6"
+    },
+    "ibm-uds": {
+      "latestAppVersion": "2.0.12",
+      "latestVersion": "2.0.12"
+    },
+    "ibm-vault-operator": {
+      "latestAppVersion": "4.1.2-rc1-202308180831",
+      "latestVersion": "1.6.2"
+    },
+    "ibm-voice-gateway": {
+      "latestAppVersion": "1.0.8",
+      "latestVersion": "1.3.5"
+    },
+    "ibm-voice-gateway-prod": {
+      "latestAppVersion": "1.0.7",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-watson-ai-manager": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "1.9.0"
+    },
+    "ibm-watson-aiops": {
+      "latestAppVersion": "2.1.0",
+      "latestVersion": "1.1.1"
+    },
+    "ibm-watson-aiops-prod-case": {
+      "latestAppVersion": "2.0.0",
+      "latestVersion": "2.0.2"
+    },
+    "ibm-watson-aiops-ui-operator-case": {
+      "latestAppVersion": "4.2.0-rc1-202309120045",
+      "latestVersion": "1.8.0"
+    },
+    "ibm-watson-assistant": {
+      "latestAppVersion": "4.20.0",
+      "latestVersion": "4.20.0+20231010.221321.28"
+    },
+    "ibm-watson-connector-utilities": {
+      "latestAppVersion": "1.0.0",
+      "latestVersion": "1.0.2"
+    },
+    "ibm-watson-discovery": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "6.3.0"
+    },
+    "ibm-watson-discovery-case": {
+      "latestAppVersion": "2.2.1",
+      "latestVersion": "1.1.1"
+    },
+    "ibm-watson-gateway-operator": {
+      "latestAppVersion": "3.10.12",
+      "latestVersion": "2.0.26"
+    },
+    "ibm-watson-ks": {
+      "latestAppVersion": "5.2.0",
+      "latestVersion": "5.2.0"
+    },
+    "ibm-watson-ks-prod-case": {
+      "latestAppVersion": "1.2.0",
+      "latestVersion": "1.2.0"
+    },
+    "ibm-watson-lt-prod-case": {
+      "latestAppVersion": "1.2",
+      "latestVersion": "1.2.1"
+    },
+    "ibm-watson-openscale": {
+      "latestAppVersion": "4.7.2",
+      "latestVersion": "5.2.0"
+    },
+    "ibm-watson-speech": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "6.3.0"
+    },
+    "ibm-watson-speech-prod-case": {
+      "latestAppVersion": "1.2.1",
+      "latestVersion": "1.2.2"
+    },
+    "ibm-watsonx-ai-ifm": {
+      "latestAppVersion": "7.3.0",
+      "latestVersion": "7.3.0"
+    },
+    "ibm-watsonx-data": {
+      "latestAppVersion": "1.0.3",
+      "latestVersion": "1.1.0"
+    },
+    "ibm-wazi-developer-for-workspaces": {
+      "latestAppVersion": "2.0.0",
+      "latestVersion": "2.0.0"
+    },
+    "ibm-wazi-developer-sandbox": {
+      "latestAppVersion": "2.5.0",
+      "latestVersion": "2.5.0"
+    },
+    "ibm-wazi-development-client": {
+      "latestAppVersion": "1.2.0",
+      "latestVersion": "1.2.0"
+    },
+    "ibm-wazi-for-devspaces": {
+      "latestAppVersion": "3.0.0",
+      "latestVersion": "3.0.0"
+    },
+    "ibm-wazi-sandbox": {
+      "latestAppVersion": "1.3.0",
+      "latestVersion": "1.3.0"
+    },
+    "ibm-websphere-automation": {
+      "latestAppVersion": "1.6.3",
+      "latestVersion": "1.6.3"
+    },
+    "ibm-websphere-liberty": {
+      "latestAppVersion": "1.2.2",
+      "latestVersion": "1.2.2"
+    },
+    "ibm-wh-acd": {
+      "latestAppVersion": "2.0.202206131755",
+      "latestVersion": "2.0.202206131755"
+    },
+    "ibm-wkc": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "4.7.3"
+    },
+    "ibm-wkc-instascan": {
+      "latestAppVersion": "1.1.3",
+      "latestVersion": "1.1.3"
+    },
+    "ibm-wml": {
+      "latestAppVersion": "3.5.0",
+      "latestVersion": "1.5.0"
+    },
+    "ibm-wml-accelerator": {
+      "latestAppVersion": "4.7.2",
+      "latestVersion": "4.3.0"
+    },
+    "ibm-wml-canvas": {
+      "latestAppVersion": "3.5.1",
+      "latestVersion": "3.5.2"
+    },
+    "ibm-wml-cpd": {
+      "latestAppVersion": "4.7.0",
+      "latestVersion": "7.0.0"
+    },
+    "ibm-workload-automation": {
+      "latestAppVersion": "9.5.0.02",
+      "latestVersion": "1.0.0"
+    },
+    "ibm-ws-pipelines": {
+      "latestAppVersion": "4.7.3",
+      "latestVersion": "7.3.0"
+    },
+    "ibm-wsl": {
+      "latestAppVersion": "7.0.0",
+      "latestVersion": "7.0.0"
+    },
+    "ibm-wsl-runtimes": {
+      "latestAppVersion": "7.0.0",
+      "latestVersion": "7.0.0"
+    },
+    "ibm-zcon-zosconnect": {
+      "latestAppVersion": "3.0",
+      "latestVersion": "1.0.7"
+    },
+    "ibm-zen": {
+      "latestAppVersion": "3.0.2",
+      "latestVersion": "3.0.2+20230922.110438"
+    },
+    "ibm-zoscb": {
+      "latestAppVersion": "2.2.2",
+      "latestVersion": "1.0.8"
+    },
+    "mantaflow": {
+      "latestAppVersion": "41.1.0",
+      "latestVersion": "1.14.0"
+    }
+  }
+}
