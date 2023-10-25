@@ -1,0 +1,84 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.7.3",
+  "latestVersion": "7.3.0",
+  "versions": {
+    "4.0.0": {
+      "appVersion": "4.0.0"
+    },
+    "4.0.1": {
+      "appVersion": "4.0.1"
+    },
+    "4.0.2": {
+      "appVersion": "4.0.2"
+    },
+    "4.0.3": {
+      "appVersion": "4.0.3"
+    },
+    "4.0.4+20211216.200159.446": {
+      "appVersion": "4.0.4"
+    },
+    "4.0.5": {
+      "appVersion": "4.0.5"
+    },
+    "4.0.6": {
+      "appVersion": "4.0.6"
+    },
+    "4.0.7": {
+      "appVersion": "4.0.7"
+    },
+    "4.0.8": {
+      "appVersion": "4.0.8"
+    },
+    "4.0.9": {
+      "appVersion": "4.0.9"
+    },
+    "5.0.0": {
+      "appVersion": "4.5.0"
+    },
+    "5.1.0": {
+      "appVersion": "4.5.1"
+    },
+    "5.2.0": {
+      "appVersion": "4.5.2"
+    },
+    "5.3.0": {
+      "appVersion": "4.5.3"
+    },
+    "6.0.0": {
+      "appVersion": "4.6.0"
+    },
+    "6.1.0": {
+      "appVersion": "4.6.1"
+    },
+    "6.3.0": {
+      "appVersion": "4.6.3"
+    },
+    "6.4.0": {
+      "appVersion": "4.6.4"
+    },
+    "6.5.0": {
+      "appVersion": "4.6.5"
+    },
+    "7.0.0": {
+      "appVersion": "4.7.0"
+    },
+    "7.1.0": {
+      "appVersion": "4.7.1"
+    },
+    "7.2.0": {
+      "appVersion": "4.7.2"
+    },
+    "7.3.0": {
+      "appVersion": "4.7.3",
+      "airGap": [
+        "export CASE_NAME=ibm-analyticsengine",
+        "export CASE_VERSION=7.3.0",
+        "export CASE_ARCHIVE=ibm-analyticsengine-7.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=analyticsengineOperatorSetup"
+      ],
+      "description": "",
+      "displayName": ""
+    }
+  }
+}

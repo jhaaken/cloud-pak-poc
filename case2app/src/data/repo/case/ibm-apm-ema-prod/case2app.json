@@ -1,0 +1,17 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "1.0",
+  "latestVersion": "1.0.0",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-apm-ema-prod",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-apm-ema-prod-1.0.0.tgz"
+      ],
+      "description": "IBM Equipment Maintenance Assistant",
+      "displayName": "IBM Maximo Equipment Maintenance Assistant"
+    }
+  }
+}
