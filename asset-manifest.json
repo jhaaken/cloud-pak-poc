@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cloud-pak-poc/static/css/main.2a264b8e.css",
-    "main.js": "/cloud-pak-poc/static/js/main.fb6565c9.js",
+    "main.js": "/cloud-pak-poc/static/js/main.f2afc404.js",
     "static/js/787.af230213.chunk.js": "/cloud-pak-poc/static/js/787.af230213.chunk.js",
     "static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.woff": "/cloud-pak-poc/static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.d96e5a614e96c351c453.woff",
     "static/media/IBMPlexSerif-SemiBoldItalic-Latin1.woff": "/cloud-pak-poc/static/media/IBMPlexSerif-SemiBoldItalic-Latin1.b691d8c0c5110ea3659e.woff",
@@ -185,11 +185,11 @@
     "static/media/IBMPlexMono-Regular-Latin3.woff2": "/cloud-pak-poc/static/media/IBMPlexMono-Regular-Latin3.cacfd1d7dbd14067b970.woff2",
     "index.html": "/cloud-pak-poc/index.html",
     "main.2a264b8e.css.map": "/cloud-pak-poc/static/css/main.2a264b8e.css.map",
-    "main.fb6565c9.js.map": "/cloud-pak-poc/static/js/main.fb6565c9.js.map",
+    "main.f2afc404.js.map": "/cloud-pak-poc/static/js/main.f2afc404.js.map",
     "787.af230213.chunk.js.map": "/cloud-pak-poc/static/js/787.af230213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a264b8e.css",
-    "static/js/main.fb6565c9.js"
+    "static/js/main.f2afc404.js"
   ]
 }
