@@ -1,0 +1,75 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.6.5",
+  "latestVersion": "3.4.0",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "3.5.0"
+    },
+    "2.0.0": {
+      "appVersion": "4.0.0"
+    },
+    "2.0.1": {
+      "appVersion": "4.0.1"
+    },
+    "2.0.2": {
+      "appVersion": "4.0.2"
+    },
+    "2.0.3": {
+      "appVersion": "4.0.3"
+    },
+    "2.0.4": {
+      "appVersion": "4.0.4"
+    },
+    "2.0.5": {
+      "appVersion": "4.0.5"
+    },
+    "2.0.6": {
+      "appVersion": "4.0.6"
+    },
+    "2.0.7": {
+      "appVersion": "4.0.7"
+    },
+    "2.0.8": {
+      "appVersion": "4.0.8"
+    },
+    "2.0.9": {
+      "appVersion": "4.0.9"
+    },
+    "2.0.9+20220803.160000": {
+      "appVersion": "4.0.9"
+    },
+    "2.5.0": {
+      "appVersion": "4.5.0"
+    },
+    "2.6.0": {
+      "appVersion": "4.5.1"
+    },
+    "2.7.0": {
+      "appVersion": "4.5.2"
+    },
+    "3.0.0": {
+      "appVersion": "4.6.0"
+    },
+    "3.1.0": {
+      "appVersion": "4.6.2"
+    },
+    "3.2.0": {
+      "appVersion": "4.6.3"
+    },
+    "3.3.0": {
+      "appVersion": "4.6.4"
+    },
+    "3.4.0": {
+      "appVersion": "4.6.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cde",
+        "export CASE_VERSION=3.4.0",
+        "export CASE_ARCHIVE=ibm-cde-3.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=cdeOperatorSetup"
+      ],
+      "description": "With the Cognos Dashboards service, you can use sophisticated visualizations in an analytics project to identify patterns in your data so you can make timely and effective decisions. No coding needed. You can drag data onto the canvas and use various visualizations to communicate comparisons or understand relationships and trends in the data. With this service, you can quickly build visualizations to answer important questions or provide the foundation for more in-depth analysis. You can create analytics projects with Cognos Dashboards regardless of whether you have the Watson Studio service installed. You can install the Cognos Dashboards and Watson Studio services in any order.",
+      "displayName": "IBM-Cognos-Dashboard-Embedded"
+    }
+  }
+}

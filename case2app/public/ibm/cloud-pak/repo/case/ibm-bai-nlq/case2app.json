@@ -1,0 +1,20 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "21.0.1",
+  "latestVersion": "1.1.0",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "20.0.3-IF002"
+    },
+    "1.1.0": {
+      "appVersion": "21.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-bai-nlq",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-bai-nlq-1.1.0.tgz"
+      ],
+      "description": "A CASE for two operators which deploys BAI Conversational Assistant",
+      "displayName": "BAI Conversational Assistant CASE"
+    }
+  }
+}

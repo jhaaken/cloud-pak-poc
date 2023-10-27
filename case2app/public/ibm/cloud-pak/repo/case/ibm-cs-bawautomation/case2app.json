@@ -1,0 +1,213 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "23.0.1-IF004",
+  "latestVersion": "2.5.4",
+  "versions": {
+    "2.1.0": {
+      "appVersion": "20.0.2"
+    },
+    "2.1.1": {
+      "appVersion": "20.0.0.1"
+    },
+    "2.1.2": {
+      "appVersion": "20.0.0.1.IF001"
+    },
+    "2.1.3": {
+      "appVersion": "20.0.0.2"
+    },
+    "2.1.4": {
+      "appVersion": "20.0.0.2"
+    },
+    "2.1.6": {
+      "appVersion": "21.0.2"
+    },
+    "2.1.7": {
+      "appVersion": "21.0.2-IF001"
+    },
+    "2.1.8": {
+      "appVersion": "21.0.2-IF002"
+    },
+    "2.1.9": {
+      "appVersion": "21.0.2-IF003"
+    },
+    "2.1.10": {
+      "appVersion": "21.0.2-IF003"
+    },
+    "2.1.11": {
+      "appVersion": "21.0.2-IF005"
+    },
+    "2.1.12": {
+      "appVersion": "21.0.2-IF006"
+    },
+    "2.1.13": {
+      "appVersion": "21.0.2-IF007"
+    },
+    "2.1.14": {
+      "appVersion": "21.0.2-IF007"
+    },
+    "2.1.15": {
+      "appVersion": "21.0.2-IF008"
+    },
+    "2.1.16": {
+      "appVersion": "21.0.2-IF008"
+    },
+    "2.1.17": {
+      "appVersion": "21.0.2-IF009"
+    },
+    "2.1.18": {
+      "appVersion": "21.0.2-IF010"
+    },
+    "2.1.19": {
+      "appVersion": "21.0.2-IF011"
+    },
+    "2.1.20": {
+      "appVersion": "21.0.2-IF012"
+    },
+    "2.2.0": {
+      "appVersion": "21.0.3"
+    },
+    "2.2.1": {
+      "appVersion": "21.0.3-IF002"
+    },
+    "2.2.2": {
+      "appVersion": "21.0.3-IF005"
+    },
+    "2.2.3": {
+      "appVersion": "21.0.3-IF007"
+    },
+    "2.2.4": {
+      "appVersion": "21.0.3-IF008"
+    },
+    "2.2.5": {
+      "appVersion": "21.0.3-IF009"
+    },
+    "2.2.6": {
+      "appVersion": "21.0.3-IF010"
+    },
+    "2.2.7": {
+      "appVersion": "21.0.3-IF011"
+    },
+    "2.2.8": {
+      "appVersion": "21.0.3-IF012"
+    },
+    "2.2.9": {
+      "appVersion": "21.0.3-IF013"
+    },
+    "2.2.10": {
+      "appVersion": "21.0.3-IF014"
+    },
+    "2.2.11": {
+      "appVersion": "21.0.3-IF015"
+    },
+    "2.2.12": {
+      "appVersion": "21.0.3-IF016"
+    },
+    "2.2.13": {
+      "appVersion": "21.0.3-IF017"
+    },
+    "2.2.14": {
+      "appVersion": "21.0.3-IF018"
+    },
+    "2.2.15": {
+      "appVersion": "21.0.3-IF018"
+    },
+    "2.2.16": {
+      "appVersion": "21.0.3-IF019"
+    },
+    "2.2.17": {
+      "appVersion": "21.0.3-IF020"
+    },
+    "2.2.18": {
+      "appVersion": "21.0.3-IF021"
+    },
+    "2.2.19": {
+      "appVersion": "21.0.3-IF022"
+    },
+    "2.2.20": {
+      "appVersion": "21.0.3-IF023"
+    },
+    "2.2.21": {
+      "appVersion": "21.0.3-IF024"
+    },
+    "2.2.22": {
+      "appVersion": "21.0.3-IF025"
+    },
+    "2.2.23": {
+      "appVersion": "21.0.3-IF026"
+    },
+    "2.3.0": {
+      "appVersion": "22.0.1"
+    },
+    "2.3.1": {
+      "appVersion": "22.0.1-IF001"
+    },
+    "2.3.2": {
+      "appVersion": "22.0.1-IF002"
+    },
+    "2.3.3": {
+      "appVersion": "22.0.1-IF003"
+    },
+    "2.3.4": {
+      "appVersion": "22.0.1-IF004"
+    },
+    "2.3.5": {
+      "appVersion": "22.0.1-IF005"
+    },
+    "2.3.6": {
+      "appVersion": "22.0.1-IF006"
+    },
+    "2.3.7": {
+      "appVersion": "22.0.1-IF006"
+    },
+    "2.4.0": {
+      "appVersion": "22.0.2"
+    },
+    "2.4.1": {
+      "appVersion": "22.0.2"
+    },
+    "2.4.2": {
+      "appVersion": "22.0.2-IF001"
+    },
+    "2.4.3": {
+      "appVersion": "22.0.2-IF003"
+    },
+    "2.4.4": {
+      "appVersion": "22.0.2-IF003"
+    },
+    "2.4.5": {
+      "appVersion": "22.0.2-IF004"
+    },
+    "2.4.6": {
+      "appVersion": "22.0.2-IF005"
+    },
+    "2.4.7": {
+      "appVersion": "22.0.2-IF006"
+    },
+    "2.4.8": {
+      "appVersion": "22.0.2-IF006"
+    },
+    "2.5.0": {
+      "appVersion": "23.0.1"
+    },
+    "2.5.1": {
+      "appVersion": "23.0.1-IF001"
+    },
+    "2.5.2": {
+      "appVersion": "23.0.1-IF002"
+    },
+    "2.5.3": {
+      "appVersion": "23.0.1-IF003"
+    },
+    "2.5.4": {
+      "appVersion": "23.0.1-IF004",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.5.4",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.5.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
+    }
+  }
+}

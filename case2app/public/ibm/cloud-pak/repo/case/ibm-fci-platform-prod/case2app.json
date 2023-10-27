@@ -1,0 +1,33 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "6.6.3",
+  "latestVersion": "6.7.2",
+  "versions": {
+    "6.6.0": {
+      "appVersion": "6.6.0"
+    },
+    "6.6.1": {
+      "appVersion": "6.6.0"
+    },
+    "6.7.0": {
+      "appVersion": "6.6.1"
+    },
+    "6.7.0+20220311.114422": {
+      "appVersion": "6.6.1"
+    },
+    "6.7.1": {
+      "appVersion": "6.6.2"
+    },
+    "6.7.2": {
+      "appVersion": "6.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-fci-platform-prod",
+        "export CASE_VERSION=6.7.2",
+        "export CASE_ARCHIVE=ibm-fci-platform-prod-6.7.2.tgz",
+        "export CASE_INVENTORY_SETUP=fciOperatorSetup"
+      ],
+      "description": "CASE that deploys IBM Financial Crimes Insight Operator",
+      "displayName": "IBM Financial Crimes Insight Operator"
+    }
+  }
+}

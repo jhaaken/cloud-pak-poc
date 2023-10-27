@@ -1,0 +1,27 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.9.1",
+  "latestVersion": "1.2.0",
+  "versions": {
+    "1.0.0+20201116.102300": {
+      "appVersion": "1.0.0"
+    },
+    "1.0.1": {
+      "appVersion": "4.5.3"
+    },
+    "1.1.0": {
+      "appVersion": "4.6.1"
+    },
+    "1.2.0": {
+      "appVersion": "4.9.1",
+      "airGap": [
+        "export CASE_NAME=ibm-fhir-server-case",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-fhir-server-case-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFhirServerOperatorSetup"
+      ],
+      "description": "IBM FHIR Server for CloudPak CASE that deploys an Operator",
+      "displayName": "IBM FHIR Server for CloudPak Operator"
+    }
+  }
+}

@@ -46,9 +46,9 @@ import { DatagridActions } from "./DatagridActions";
 //   },
 // ];
 
-export const DatagridWrapper = ({ rows, headers, gridTitle, gridDescription, options }) => {
+export const DatagridWrapper = ({ rows, headers, gridTitle, gridDescription, filterProps, options, ...props }) => {
  
-  const emptyStateTitle = "Part Substitutions";
+  const emptyStateTitle = "no data";
   const emptyStateDescription = "No data found";
   const emptyStateSize = "lg";
   const emptyStateType = "noData";
@@ -71,20 +71,13 @@ export const DatagridWrapper = ({ rows, headers, gridTitle, gridDescription, opt
       refreshDataTrigger: refreshDataTrigger,
       DatagridPagination,
       DatagridActions,
-      // filterProps: {
-      //   variation: "flyout", // default
-      //   updateMethod: "batch", // default
-      //   primaryActionLabel: "Apply", // default
-      //   secondaryActionLabel: "Cancel", // default
-      //   flyoutIconDescription: "Open filters", // default
-      //   shouldClickOutsideToClose: false, // default
-      //   filters,
-      // },
+      filterProps,
       onColResizeEnd: (currentColumn, allColumns) => console.log(currentColumn, allColumns),
       emptyStateTitle,
       emptyStateDescription,
       emptyStateSize,
       emptyStateType,
+      ...props
     },
     // useFiltering,
     useSortableColumns

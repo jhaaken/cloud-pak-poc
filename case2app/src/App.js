@@ -13,6 +13,7 @@ import { Routes, Route, Outlet, Link } from "react-router-dom";
 import CaseCatalog from './pages/CaseCatalog';
 import CaseVersions from './pages/CaseVersions';
 import CaseDetails from './pages/CaseDetails';
+import CaseTiles from './pages/CaseTiles/CaseTiles';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Routes>
         <Route path="/cloud-pak-poc" element={<Layout />}>
           <Route index element={<CaseCatalog />} />
+          <Route path="/cloud-pak-poc/tiles" element={<CaseTiles />} />
           <Route path="/cloud-pak-poc/case/:name" element={<CaseVersions />} />
           <Route path="/cloud-pak-poc/case/:name/:version" element={<CaseDetails />} />
           <Route path="/cloud-pak-poc/about" element={<About />} />

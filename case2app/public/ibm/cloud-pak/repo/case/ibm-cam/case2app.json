@@ -1,0 +1,26 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.2.0.1",
+  "latestVersion": "1.1.1",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "4.1.0.0"
+    },
+    "1.0.1": {
+      "appVersion": "4.1.0.1"
+    },
+    "1.1.0": {
+      "appVersion": "4.2.0.0"
+    },
+    "1.1.1": {
+      "appVersion": "4.2.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cam",
+        "export CASE_VERSION=1.1.1",
+        "export CASE_ARCHIVE=ibm-cam-1.1.1.tgz"
+      ],
+      "description": "IBM Cloud Automation Manager",
+      "displayName": "IBM Cloud Automation Manager"
+    }
+  }
+}

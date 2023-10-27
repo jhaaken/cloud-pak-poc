@@ -4,10 +4,7 @@ import { CSVLink } from 'react-csv';
 import useToggle from './../../../hooks/useToggle';
 
 import {
-  Add,
-  ChevronDown,
   Download,
-  Filter,
   Restart,
   Debug
 } from '@carbon/react/icons';
@@ -15,7 +12,7 @@ import { Tearsheet } from "@carbon/ibm-products/lib/components";
 import ReactJson from "react-json-view";
 
 const DebugTearsheet = ({data, open, setClosed}) => {
-  console.log('DebugTearsheet', {data, open, setClosed})
+  // console.log('DebugTearsheet', {data, open, setClosed})
   return (
     <Tearsheet
       open={open ? true : false}

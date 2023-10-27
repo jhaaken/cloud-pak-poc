@@ -1,0 +1,96 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.7.4",
+  "latestVersion": "1.17.0+20230920.000433.f585316",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "3.5.0"
+    },
+    "1.0.2": {
+      "appVersion": "3.5.0"
+    },
+    "1.2.0": {
+      "appVersion": "1.2.0"
+    },
+    "1.2.1": {
+      "appVersion": "1.2.1"
+    },
+    "1.2.2": {
+      "appVersion": "1.2.2"
+    },
+    "1.2.3": {
+      "appVersion": "1.2.3"
+    },
+    "1.3.0": {
+      "appVersion": "1.3.0"
+    },
+    "1.3.1": {
+      "appVersion": "1.3.1"
+    },
+    "1.3.2": {
+      "appVersion": "1.3.2"
+    },
+    "1.3.3": {
+      "appVersion": "1.3.3"
+    },
+    "1.3.4": {
+      "appVersion": "1.3.4"
+    },
+    "1.3.5": {
+      "appVersion": "1.3.5"
+    },
+    "1.3.6": {
+      "appVersion": "4.5.0"
+    },
+    "1.4.0": {
+      "appVersion": "4.5.1"
+    },
+    "1.5.0+20220809.001936.5c06b0f": {
+      "appVersion": "4.5.2"
+    },
+    "1.6.0+20220915.002042.2129117": {
+      "appVersion": "4.5.3"
+    },
+    "1.7.0+20221028.002154.73bec3f": {
+      "appVersion": "4.6.0"
+    },
+    "1.8.0+20221209.002257.0383513": {
+      "appVersion": "4.6.1"
+    },
+    "1.9.0+20230131.002448.53710bf": {
+      "appVersion": "4.6.3"
+    },
+    "1.10.0+20230307.002712.c334806": {
+      "appVersion": "4.6.4"
+    },
+    "1.11.0+20230331.002826.b345534": {
+      "appVersion": "4.6.5"
+    },
+    "1.12.0+20230427.000027.88408ec": {
+      "appVersion": "4.6.6"
+    },
+    "1.13.0+20230517.000055.16cc8b8": {
+      "appVersion": "4.7.0"
+    },
+    "1.14.0+20230627.000225.8764838": {
+      "appVersion": "4.7.1"
+    },
+    "1.15.0+20230804.000303.8f5465e": {
+      "appVersion": "4.7.2"
+    },
+    "1.16.0+20230831.000400.f86dcb4": {
+      "appVersion": "4.7.3"
+    },
+    "1.17.0+20230920.000433.f585316": {
+      "appVersion": "4.7.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.17.0+20230920.000433.f585316",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.17.0+20230920.000433.f585316.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
+    }
+  }
+}

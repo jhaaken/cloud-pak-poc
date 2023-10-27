@@ -1,0 +1,54 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "5.5.11-IF001",
+  "latestVersion": "1.7.1",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.0": {
+      "appVersion": "5.5.5"
+    },
+    "1.2.0": {
+      "appVersion": "5.5.6"
+    },
+    "1.3.0": {
+      "appVersion": "5.5.7"
+    },
+    "1.4.0": {
+      "appVersion": "5.5.8"
+    },
+    "1.5.0": {
+      "appVersion": "5.5.9"
+    },
+    "1.5.1": {
+      "appVersion": "5.5.9-IF001"
+    },
+    "1.6.0": {
+      "appVersion": "5.5.10"
+    },
+    "1.6.1": {
+      "appVersion": "5.5.10-IF001"
+    },
+    "1.6.2": {
+      "appVersion": "5.5.10-IF001"
+    },
+    "1.6.3": {
+      "appVersion": "5.5.10-IF002"
+    },
+    "1.7.0": {
+      "appVersion": "5.5.11"
+    },
+    "1.7.1": {
+      "appVersion": "5.5.11-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.7.1",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.7.1.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
+    }
+  }
+}

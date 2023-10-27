@@ -1,0 +1,17 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "6.6.0",
+  "latestVersion": "6.6.0",
+  "versions": {
+    "6.6.0": {
+      "appVersion": "6.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-fci-claims-fraud-prod",
+        "export CASE_VERSION=6.6.0",
+        "export CASE_ARCHIVE=ibm-fci-claims-fraud-prod-6.6.0.tgz"
+      ],
+      "description": "A Helm chart for IBM Financial Crimes Insight for Claims Fraud Software",
+      "displayName": ""
+    }
+  }
+}

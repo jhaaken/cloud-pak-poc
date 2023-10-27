@@ -10,6 +10,7 @@ import {
   HeaderPanel,
   Switcher,
   SwitcherItem,
+  Button,
 } from "@carbon/react";
 import { Information } from "@carbon/react/icons";
 import { Link } from "react-router-dom";
@@ -40,6 +41,17 @@ export default function HeaderComponent() {
                 <p>Provides a simple way to view, search, filter & sort published IBM CASE version to app version, along with easy viewing of other metadata about the CASE</p>
                 <br /><br />
                 <p>source of the data is the CASE repository @ <Link to="https://github.com/IBM/cloud-pak">github.com/IBM/cloud-pak</Link></p>
+                <div style={{marginTop: '2em'}}>
+                  <Button onClick={() => {
+                    for (const key of Object.keys(sessionStorage)) {
+                      if (key.startsWith('case2app')) {
+                        sessionStorage.removeItem(key);
+                      }
+                    }
+                    alert('session cache for `case2app` cleared')
+                  }}>Clear Cache</Button>
+                  <div>data is cached in the browser's sessionStorage</div>
+                </div>
               </SwitcherItem>
             </Switcher>
           </HeaderPanel>

@@ -1,12 +1,10 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import {Link} from 'react-router-dom';
 import yaml from 'js-yaml';
-import ReactJsonView from 'react-json-view';
 
 import useGitHubApi from './../../hooks/useGitHubApi';
-import { DataTableCarbon } from '../../components/DataTables';
-import { Breadcrumb, BreadcrumbItem, DataTableSkeleton } from '@carbon/react';
-
+import { DataTableSkeleton, Button, Breadcrumb, BreadcrumbItem } from '@carbon/react';
+import { Restart } from '@carbon/react/icons';
 import DataGridWrapper from '../../components/DataTables/DataGridWrapper';
 import { getAutoSizedColumnWidth } from "./../../components/DataTables/DataGridWrapper/getAutoSizedColumnWidth";
 
@@ -18,7 +16,7 @@ const CaseCatalog = () => {
     {owner: 'IBM',repo: 'cloud-pak'},
     {
       useCache: true,
-      cacheKey: 'github.com/repos/IBM/cloud-pak/contents/repo/case/index.yaml',
+      cacheKey: 'case2app:github.com/repos/IBM/cloud-pak/contents/repo/case/index.yaml',
       massage: (d) => {
         const decoded = atob(d.content);
         // console.log(decoded);
@@ -43,7 +41,7 @@ const CaseCatalog = () => {
     {accessor: 'name', Header: 'Case', isSortable: true,
       width: 350, // getAutoSizedColumnWidth(rows, "name", "Name") * 1.1,
       Cell: (d) => {
-        console.log('Datagrid: column', {d})
+        // console.log('Datagrid: column', {d})
         return (<Link to={`case/${d.cell.value}`}>{d.cell.value}</Link>)
       }
     },
@@ -57,18 +55,38 @@ const CaseCatalog = () => {
 
   return (
     <>
-      <div>
+          <div style={{ marginBottom: "1em" }}>
+        <Breadcrumb noTrailingSlash>
+          {/* <BreadcrumbItem href={"/cloud-pak-poc"}>repository</BreadcrumbItem> */}
+          <BreadcrumbItem isCurrentPage={true}>repository</BreadcrumbItem>
+        </Breadcrumb>
       </div>
+        <h2>CASE Repository</h2>
+        <h6 style={{display: "flex", alignItems: 'center'}}>
+          <div>
+            {ghData.status === 'fetched' ? `${new Date(ghData.payload.fetchTimestamp).toLocaleString()} (${ghData.payload.fetchMode || '???'})` : null}
+          </div>
+          <div style={{display:"inline"}} >
+            <Button
+              kind="ghost"
+              hasIconOnly
+              tooltipPosition="bottom"
+              renderIcon={Restart}
+              iconDescription={'Refresh'}
+              onClick={() => setRefreshTimestamp(new Date())}
+            />
+          </div>
+        </h6>
       <div>
       { ghData?.status === 'fetched' ? 
 
         <DataGridWrapper 
           rows={ghData.payload?.data} 
           headers={headers}
-          gridTitle="CASE Repository"
-          gridDescription={`${new Date(ghData.payload.fetchTimestamp).toLocaleString()} (${ghData.payload.fetchMode || '???'})`}
+          // gridTitle="CASE Repository"
+          // gridDescription={`${new Date(ghData.payload.fetchTimestamp).toLocaleString()} (${ghData.payload.fetchMode || '???'})`}
           options={{refreshDataTrigger: setRefreshTimestamp, 
-            debug: {cacheKey: 'github.com/repos/IBM/cloud-pak/contents/repo/case/index.yaml'}
+            debug: {cacheKey: 'case2app:github.com/repos/IBM/cloud-pak/contents/repo/case/index.yaml'}
           }}
           />
         // <DataTableCarbon rows={ghData.payload?.data} headers={headers} 

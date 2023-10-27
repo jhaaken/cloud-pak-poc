@@ -1,0 +1,33 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.1.0",
+  "latestVersion": "8.1.0",
+  "versions": {
+    "8.0.0": {
+      "appVersion": "8.0.0"
+    },
+    "8.0.0+20211026.133456": {
+      "appVersion": "8.0.0"
+    },
+    "8.0.1": {
+      "appVersion": "8.0.1"
+    },
+    "8.0.2": {
+      "appVersion": "8.0.2"
+    },
+    "8.0.3": {
+      "appVersion": "8.0.3"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-mso",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-mas-mso-8.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasMSOSetup"
+      ],
+      "description": "IBM Maximo Scheduler Optimization",
+      "displayName": "IBM Maximo Scheduler Optimization"
+    }
+  }
+}

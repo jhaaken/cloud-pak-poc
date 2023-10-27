@@ -1,0 +1,72 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.1.2-rc1-202308180831",
+  "latestVersion": "1.6.2",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "1.0.0"
+    },
+    "1.0.1": {
+      "appVersion": "3.2.1-rc1-202202071001"
+    },
+    "1.1.0": {
+      "appVersion": "3.3.0-rc1-202203181607"
+    },
+    "1.1.1": {
+      "appVersion": "3.3.1-rc1-202204111001"
+    },
+    "1.1.2": {
+      "appVersion": "3.3.2-rc2-202205110601"
+    },
+    "1.2.0": {
+      "appVersion": "3.4.0-rc1-202206171434"
+    },
+    "1.2.1": {
+      "appVersion": "3.4.1-rc1-202207150002"
+    },
+    "1.2.2": {
+      "appVersion": "3.4.2-rc1-202208220742"
+    },
+    "1.3.0": {
+      "appVersion": "3.5.0-rc1-202209131524"
+    },
+    "1.3.1": {
+      "appVersion": "3.5.1-rc1-202210172202"
+    },
+    "1.4.0": {
+      "appVersion": "3.6.0-rc1-202211300002"
+    },
+    "1.4.1": {
+      "appVersion": "3.6.1-rc1-202301122202"
+    },
+    "1.4.2": {
+      "appVersion": "3.6.2-rc1-202302092202"
+    },
+    "1.5.0": {
+      "appVersion": "3.7.0-rc1-202303151639"
+    },
+    "1.5.1": {
+      "appVersion": "3.7.1-rc1-202304140006"
+    },
+    "1.5.2": {
+      "appVersion": "3.7.2-rc1-202305190806"
+    },
+    "1.6.0": {
+      "appVersion": "4.1.0-rc3-202306210047"
+    },
+    "1.6.1": {
+      "appVersion": "4.1.1-rc1-202307162205"
+    },
+    "1.6.2": {
+      "appVersion": "4.1.2-rc1-202308180831",
+      "airGap": [
+        "export CASE_NAME=ibm-vault-operator",
+        "export CASE_VERSION=1.6.2",
+        "export CASE_ARCHIVE=ibm-vault-operator-1.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmVaultOperatorSetup"
+      ],
+      "description": "This case is used to install Hashicorp Vault into Kubernetes cluster.",
+      "displayName": "IBM Vault Operator"
+    }
+  }
+}

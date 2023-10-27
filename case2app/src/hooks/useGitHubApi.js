@@ -76,6 +76,7 @@ export const useGitHubApi = (endpoint, octokitOpts, options, timestampRefresh) =
 
       dispatch({ type: 'FETCHING' });
       console.log(`[useGitHubApi] fetching ${endpoint}`);
+      // TODO: add some type of cache timeout
       if (useCache.current && sessionStorage.hasOwnProperty(cacheKeyRef.current)) {
         const cache = getCache(cacheKeyRef.current);
         console.log(`[useGitHubApi] fetched endpoint ${endpoint} from cache with key ${cacheKeyRef.current}`, cache);
@@ -86,10 +87,7 @@ export const useGitHubApi = (endpoint, octokitOpts, options, timestampRefresh) =
         //   repo: 'cloud-pak',
         // })
         console.log('fetchData', {ep: endpoint, octokitOptionsRef})
-        // new Promise((resolve, reject) => {
-        //   const d = {data: {content: btoa(JSON.stringify({"test": "test"}))}}
-        //   resolve(d);
-        // })
+
         octokitClient.request(endpoint, octokitOptionsRef.current)
           .then((response) => {
             // const data = options?.returnResponse ? response.data : response.data.data;

@@ -1,0 +1,41 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.0.0",
+  "latestVersion": "8.1.6",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "3.0.5"
+    },
+    "1.0.1": {
+      "appVersion": "3.0.6"
+    },
+    "1.0.2": {
+      "appVersion": "3.1.0"
+    },
+    "1.0.3": {
+      "appVersion": "3.1.4"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0"
+    },
+    "8.1.2": {
+      "appVersion": "8.1.2"
+    },
+    "8.1.4": {
+      "appVersion": "8.1.4"
+    },
+    "8.1.5": {
+      "appVersion": "8.0.0"
+    },
+    "8.1.6": {
+      "appVersion": "8.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mobilefoundation",
+        "export CASE_VERSION=8.1.6",
+        "export CASE_ARCHIVE=ibm-mobilefoundation-8.1.6.tgz"
+      ],
+      "description": "Deploys Mobile Foundation components.",
+      "displayName": "Mobile Foundation"
+    }
+  }
+}

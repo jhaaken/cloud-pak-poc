@@ -1,0 +1,33 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.0.3.1",
+  "latestVersion": "4.0.8",
+  "versions": {
+    "4.0.3": {
+      "appVersion": "4.0.3.0"
+    },
+    "4.0.4": {
+      "appVersion": "4.0.3.0"
+    },
+    "4.0.5": {
+      "appVersion": "4.0.3.0"
+    },
+    "4.0.6": {
+      "appVersion": "4.0.3.0"
+    },
+    "4.0.7": {
+      "appVersion": "4.0.3.0"
+    },
+    "4.0.8": {
+      "appVersion": "4.0.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp",
+        "export CASE_VERSION=4.0.8",
+        "export CASE_ARCHIVE=ibm-ftm-dp-4.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=ftmdpOperatorSetup"
+      ],
+      "description": "The case bundle for FTM DP",
+      "displayName": "Financial Transaction Manager for Digital Payments"
+    }
+  }
+}

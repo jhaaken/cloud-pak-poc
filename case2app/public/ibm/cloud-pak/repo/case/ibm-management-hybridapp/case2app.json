@@ -1,0 +1,38 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "2.3.6",
+  "latestVersion": "1.3.6",
+  "versions": {
+    "1.0.0+2020731.1": {
+      "appVersion": "2.0.0"
+    },
+    "1.1.0+2020917.1": {
+      "appVersion": "2.1.0"
+    },
+    "1.2.0+20201118.1": {
+      "appVersion": "2.2.0"
+    },
+    "1.3.0": {
+      "appVersion": "2.3.0"
+    },
+    "1.3.1": {
+      "appVersion": "2.3.1"
+    },
+    "1.3.2": {
+      "appVersion": "2.3.2"
+    },
+    "1.3.5": {
+      "appVersion": "2.3.5"
+    },
+    "1.3.6": {
+      "appVersion": "2.3.6",
+      "airGap": [
+        "export CASE_NAME=ibm-management-hybridapp",
+        "export CASE_VERSION=1.3.6",
+        "export CASE_ARCHIVE=ibm-management-hybridapp-1.3.6.tgz"
+      ],
+      "description": "Case for Hybrid App Model Operators",
+      "displayName": "Hybrid App Model Case"
+    }
+  }
+}

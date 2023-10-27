@@ -1,0 +1,78 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.9.0",
+  "latestVersion": "8.9.0",
+  "versions": {
+    "8.0.0": {
+      "appVersion": "8.0.0"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0"
+    },
+    "8.1.1": {
+      "appVersion": "8.1.1"
+    },
+    "8.1.2": {
+      "appVersion": "8.1.2"
+    },
+    "8.1.3": {
+      "appVersion": "8.1.3"
+    },
+    "8.2.0": {
+      "appVersion": "8.2.0"
+    },
+    "8.3.0": {
+      "appVersion": "8.3.0"
+    },
+    "8.4.0": {
+      "appVersion": "8.4.0"
+    },
+    "8.4.1": {
+      "appVersion": "8.4.1"
+    },
+    "8.5.0": {
+      "appVersion": "8.5.0"
+    },
+    "8.5.1": {
+      "appVersion": "8.5.1"
+    },
+    "8.6.0": {
+      "appVersion": "8.6.0"
+    },
+    "8.6.1": {
+      "appVersion": "8.6.1"
+    },
+    "8.6.2": {
+      "appVersion": "8.6.2"
+    },
+    "8.7.0": {
+      "appVersion": "8.7.0"
+    },
+    "8.7.1": {
+      "appVersion": "8.7.1"
+    },
+    "8.7.2": {
+      "appVersion": "8.7.2"
+    },
+    "8.8.0": {
+      "appVersion": "8.8.0"
+    },
+    "8.8.1": {
+      "appVersion": "8.8.1"
+    },
+    "8.8.2": {
+      "appVersion": "8.8.2"
+    },
+    "8.9.0": {
+      "appVersion": "8.9.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.9.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.9.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.8.0",
+  "latestVersion": "8.8.0",
+  "versions": {
+    "8.0.0": {
+      "appVersion": "8.0.0"
+    },
+    "8.0.1": {
+      "appVersion": "8.0.1"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0"
+    },
+    "8.2.0": {
+      "appVersion": "8.2.0"
+    },
+    "8.2.1": {
+      "appVersion": "8.2.1"
+    },
+    "8.3.0": {
+      "appVersion": "8.3.0"
+    },
+    "8.3.1": {
+      "appVersion": "8.3.1"
+    },
+    "8.3.2": {
+      "appVersion": "8.3.2"
+    },
+    "8.3.3": {
+      "appVersion": "8.3.3"
+    },
+    "8.3.4": {
+      "appVersion": "8.3.4"
+    },
+    "8.3.5": {
+      "appVersion": "8.3.5"
+    },
+    "8.4.0": {
+      "appVersion": "8.4.0"
+    },
+    "8.4.1": {
+      "appVersion": "8.4.1"
+    },
+    "8.4.2": {
+      "appVersion": "8.4.2"
+    },
+    "8.4.3": {
+      "appVersion": "8.4.3"
+    },
+    "8.4.4": {
+      "appVersion": "8.4.4"
+    },
+    "8.4.5": {
+      "appVersion": "8.4.5"
+    },
+    "8.4.6": {
+      "appVersion": "8.4.6"
+    },
+    "8.5.0": {
+      "appVersion": "8.5.0"
+    },
+    "8.5.1": {
+      "appVersion": "8.5.1"
+    },
+    "8.5.2": {
+      "appVersion": "8.5.2"
+    },
+    "8.5.3": {
+      "appVersion": "8.5.3"
+    },
+    "8.5.4": {
+      "appVersion": "8.5.4"
+    },
+    "8.5.5": {
+      "appVersion": "8.5.5"
+    },
+    "8.5.6": {
+      "appVersion": "8.5.6"
+    },
+    "8.5.7": {
+      "appVersion": "8.5.7"
+    },
+    "8.5.8": {
+      "appVersion": "8.5.8"
+    },
+    "8.6.0": {
+      "appVersion": "8.6.0"
+    },
+    "8.6.1": {
+      "appVersion": "8.6.1"
+    },
+    "8.6.2": {
+      "appVersion": "8.6.2"
+    },
+    "8.6.3": {
+      "appVersion": "8.6.3"
+    },
+    "8.6.4": {
+      "appVersion": "8.6.4"
+    },
+    "8.6.5": {
+      "appVersion": "8.6.5"
+    },
+    "8.6.6": {
+      "appVersion": "8.6.6"
+    },
+    "8.6.7": {
+      "appVersion": "8.6.7"
+    },
+    "8.6.8": {
+      "appVersion": "8.6.8"
+    },
+    "8.6.9": {
+      "appVersion": "8.6.9"
+    },
+    "8.7.0": {
+      "appVersion": "8.7.0"
+    },
+    "8.7.1": {
+      "appVersion": "8.7.1"
+    },
+    "8.7.2": {
+      "appVersion": "8.7.2"
+    },
+    "8.7.3": {
+      "appVersion": "8.7.3"
+    },
+    "8.7.4": {
+      "appVersion": "8.7.4"
+    },
+    "8.8.0": {
+      "appVersion": "8.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.8.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
+    }
+  }
+}

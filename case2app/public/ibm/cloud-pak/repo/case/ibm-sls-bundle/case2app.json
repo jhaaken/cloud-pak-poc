@@ -1,0 +1,17 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "3.0.0",
+  "latestVersion": "3.0.0",
+  "versions": {
+    "3.0.0": {
+      "appVersion": "3.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls-bundle",
+        "export CASE_VERSION=3.0.0",
+        "export CASE_ARCHIVE=ibm-sls-bundle-3.0.0.tgz"
+      ],
+      "description": "IBM Suite Licensing Service",
+      "displayName": "IBM Suite Licensing Service"
+    }
+  }
+}
