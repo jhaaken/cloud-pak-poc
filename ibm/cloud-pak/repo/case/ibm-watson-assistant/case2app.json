@@ -1,0 +1,84 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.20.0",
+  "latestVersion": "4.20.0+20231010.221321.28",
+  "versions": {
+    "1.4.2": {
+      "appVersion": "1.4.2"
+    },
+    "1.4.2+20200826.151450.1": {
+      "appVersion": "1.4.2+20200826.151450.1"
+    },
+    "1.5.0+201112160707.develop.0.0.169.g6436a750.292": {
+      "appVersion": "1.5.0"
+    },
+    "1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115": {
+      "appVersion": "1.5.0"
+    },
+    "1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115.fix001": {
+      "appVersion": "1.5.0"
+    },
+    "4.0.0": {
+      "appVersion": "4.0.0"
+    },
+    "4.0.2": {
+      "appVersion": "4.0.2"
+    },
+    "4.0.4": {
+      "appVersion": "4.0.4"
+    },
+    "4.0.5": {
+      "appVersion": "4.0.5"
+    },
+    "4.0.6": {
+      "appVersion": "4.0.6"
+    },
+    "4.0.7": {
+      "appVersion": "4.0.7"
+    },
+    "4.0.8": {
+      "appVersion": "4.0.8"
+    },
+    "4.5.0": {
+      "appVersion": "4.5.0"
+    },
+    "4.6.0+220708171431.4.5.1.d3624d8ae.30": {
+      "appVersion": "4.6.0"
+    },
+    "4.8.0+220907200530.4.5.3.8861561be.68": {
+      "appVersion": "4.8.0"
+    },
+    "4.10.0+221107190906.4.6.0.7773ac7e6.62": {
+      "appVersion": "4.10.0"
+    },
+    "4.12.0+20230107.060110.24": {
+      "appVersion": "4.12.0"
+    },
+    "4.13.0+20230221.183352.37": {
+      "appVersion": "4.13.0"
+    },
+    "4.15.0+20230414.152811.36": {
+      "appVersion": "4.15.0"
+    },
+    "4.17.0+20230603.035411.28": {
+      "appVersion": "4.17.0"
+    },
+    "4.18.0+20230706.035212.23": {
+      "appVersion": "4.18.0"
+    },
+    "4.19.0+20230808.233048.42": {
+      "appVersion": "4.19.0"
+    },
+    "4.20.0+20231010.221321.28": {
+      "appVersion": "4.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.20.0+20231010.221321.28",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.20.0+20231010.221321.28.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
+    }
+  }
+}

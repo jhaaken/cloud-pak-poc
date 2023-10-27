@@ -1,0 +1,27 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "1.1.1",
+  "latestVersion": "1.1.2",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.0": {
+      "appVersion": "1.1.0"
+    },
+    "1.1.1": {
+      "appVersion": "1.1.0"
+    },
+    "1.1.2": {
+      "appVersion": "1.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ai-wmltraining",
+        "export CASE_VERSION=1.1.2",
+        "export CASE_ARCHIVE=ibm-ai-wmltraining-1.1.2.tgz",
+        "export CASE_INVENTORY_SETUP=wmltrainingOperatorSetup"
+      ],
+      "description": "CASE that deploys the AI WmlTraining Operator",
+      "displayName": "IBM AI WmlTraining Operator"
+    }
+  }
+}

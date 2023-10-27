@@ -1,0 +1,42 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "10.0.0.22",
+  "latestVersion": "4.0.4",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "10.0"
+    },
+    "2.0.0": {
+      "appVersion": "10.0.0.6"
+    },
+    "3.0.0": {
+      "appVersion": "10.0.0.7"
+    },
+    "3.1.0": {
+      "appVersion": "10.0.0.10"
+    },
+    "4.0.0": {
+      "appVersion": "10.0.0.12"
+    },
+    "4.0.1": {
+      "appVersion": "10.0.0.15"
+    },
+    "4.0.2": {
+      "appVersion": "10.0.0.20"
+    },
+    "4.0.3": {
+      "appVersion": "10.0.0.20"
+    },
+    "4.0.4": {
+      "appVersion": "10.0.0.22",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=4.0.4",
+        "export CASE_ARCHIVE=ibm-cpq-case-4.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCpqProd"
+      ],
+      "description": "Chart for deploying IBM Configure Price Quote Software",
+      "displayName": "IBM CPQ Case"
+    }
+  }
+}

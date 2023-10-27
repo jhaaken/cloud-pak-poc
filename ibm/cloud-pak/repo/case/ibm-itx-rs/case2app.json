@@ -1,0 +1,20 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "10.1.1.1",
+  "latestVersion": "2.0.0",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "10.0.3.0"
+    },
+    "2.0.0": {
+      "appVersion": "10.1.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-itx-rs",
+        "export CASE_VERSION=2.0.0",
+        "export CASE_ARCHIVE=ibm-itx-rs-2.0.0.tgz"
+      ],
+      "description": "Helm chart for IBM Sterling Transformation Extender for Red Hat OpenShift",
+      "displayName": ""
+    }
+  }
+}

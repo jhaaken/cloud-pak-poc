@@ -1,0 +1,87 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "1.49.4",
+  "latestVersion": "3.3.2",
+  "versions": {
+    "1.0.9": {
+      "appVersion": "1.6.0"
+    },
+    "1.0.24": {
+      "appVersion": "1.6.0"
+    },
+    "1.0.26": {
+      "appVersion": "1.18.2"
+    },
+    "1.0.33": {
+      "appVersion": "1.19.1"
+    },
+    "1.0.35": {
+      "appVersion": "1.22.1"
+    },
+    "1.0.36": {
+      "appVersion": "1.22.1"
+    },
+    "1.0.38": {
+      "appVersion": "1.23.0"
+    },
+    "1.0.41": {
+      "appVersion": "1.27.0"
+    },
+    "1.0.44": {
+      "appVersion": "1.31.3"
+    },
+    "1.0.45": {
+      "appVersion": "1.31.3"
+    },
+    "1.0.46": {
+      "appVersion": "1.32.1"
+    },
+    "1.0.53": {
+      "appVersion": "1.36.6"
+    },
+    "1.0.57": {
+      "appVersion": "1.39.0"
+    },
+    "1.1.6": {
+      "appVersion": "1.39.2"
+    },
+    "1.2.0": {
+      "appVersion": "1.40.1"
+    },
+    "1.3.6": {
+      "appVersion": "1.42.2"
+    },
+    "2.0.3": {
+      "appVersion": "1.42.7"
+    },
+    "2.1.0": {
+      "appVersion": "1.42.14"
+    },
+    "2.2.0": {
+      "appVersion": "1.42.17"
+    },
+    "2.3.3": {
+      "appVersion": "1.44.5"
+    },
+    "3.0.3": {
+      "appVersion": "1.47.6"
+    },
+    "3.1.0": {
+      "appVersion": "1.48.4"
+    },
+    "3.2.4": {
+      "appVersion": "1.48.8"
+    },
+    "3.3.2": {
+      "appVersion": "1.49.4",
+      "airGap": [
+        "export CASE_NAME=ibm-data-governor",
+        "export CASE_VERSION=3.3.2",
+        "export CASE_ARCHIVE=ibm-data-governor-3.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmDataGovernorOperatorSetup"
+      ],
+      "description": "A CASE for deploying Data Governor.",
+      "displayName": "Data Governor"
+    }
+  }
+}

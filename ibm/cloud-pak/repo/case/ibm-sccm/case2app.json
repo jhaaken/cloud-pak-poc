@@ -1,0 +1,75 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "6.3.0.0",
+  "latestVersion": "3.0.6",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "6.2.0.0"
+    },
+    "1.0.1": {
+      "appVersion": "6.2.0.0"
+    },
+    "1.0.2": {
+      "appVersion": "6.2.0.0"
+    },
+    "1.0.3": {
+      "appVersion": "6.2.1.0"
+    },
+    "1.0.4": {
+      "appVersion": "6.2.1.0"
+    },
+    "1.0.5": {
+      "appVersion": "6.2.1.0"
+    },
+    "1.0.6": {
+      "appVersion": "6.2.1.0"
+    },
+    "1.0.7": {
+      "appVersion": "6.2.1.0"
+    },
+    "1.0.8": {
+      "appVersion": "6.2.1.0"
+    },
+    "1.0.9": {
+      "appVersion": "6.2.1.0"
+    },
+    "2.0.0": {
+      "appVersion": "6.2.1.0"
+    },
+    "2.0.1": {
+      "appVersion": "6.2.1.0"
+    },
+    "2.0.2": {
+      "appVersion": "6.2.1.0"
+    },
+    "3.0.0": {
+      "appVersion": "6.3.0.0"
+    },
+    "3.0.1": {
+      "appVersion": "6.3.0.0"
+    },
+    "3.0.2": {
+      "appVersion": "6.3.0.0"
+    },
+    "3.0.3": {
+      "appVersion": "6.3.0.0"
+    },
+    "3.0.4": {
+      "appVersion": "6.3.0.0"
+    },
+    "3.0.5": {
+      "appVersion": "6.3.0.0"
+    },
+    "3.0.6": {
+      "appVersion": "6.3.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sccm",
+        "export CASE_VERSION=3.0.6",
+        "export CASE_ARCHIVE=ibm-sccm-3.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSccm"
+      ],
+      "description": "Helm Chart for deploying IBM Sterling Control Center Monitor on a containerized platform",
+      "displayName": "IBM Sterling Control Center Monitor CASE"
+    }
+  }
+}

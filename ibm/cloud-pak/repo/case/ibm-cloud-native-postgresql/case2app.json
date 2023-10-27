@@ -1,0 +1,96 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "1.18.6",
+  "latestVersion": "4.17.0",
+  "versions": {
+    "4.0.0": {
+      "appVersion": "1.5.1"
+    },
+    "4.0.1": {
+      "appVersion": "1.6.0"
+    },
+    "4.0.2": {
+      "appVersion": "1.8.0"
+    },
+    "4.0.3": {
+      "appVersion": "1.9.2"
+    },
+    "4.0.4": {
+      "appVersion": "1.10.0"
+    },
+    "4.0.5": {
+      "appVersion": "1.10.0"
+    },
+    "4.0.6": {
+      "appVersion": "1.12.0"
+    },
+    "4.0.7": {
+      "appVersion": "1.13.0"
+    },
+    "4.0.7+20220317.095520": {
+      "appVersion": "1.13.0"
+    },
+    "4.0.8": {
+      "appVersion": "1.14.0"
+    },
+    "4.0.9": {
+      "appVersion": "1.15.0"
+    },
+    "4.5.0": {
+      "appVersion": "1.15.1"
+    },
+    "4.6.0": {
+      "appVersion": "1.15.3"
+    },
+    "4.6.1": {
+      "appVersion": "1.15.3"
+    },
+    "4.7.0": {
+      "appVersion": "1.15.3"
+    },
+    "4.8.0": {
+      "appVersion": "1.15.5"
+    },
+    "4.8.0+20221102.113620": {
+      "appVersion": "1.15.5"
+    },
+    "4.9.0": {
+      "appVersion": "1.17.2"
+    },
+    "4.9.0+20230130.113620": {
+      "appVersion": "1.17.2"
+    },
+    "4.10.0": {
+      "appVersion": "1.17.3"
+    },
+    "4.11.0": {
+      "appVersion": "1.18.1"
+    },
+    "4.12.0": {
+      "appVersion": "1.18.2"
+    },
+    "4.13.0": {
+      "appVersion": "1.18.3"
+    },
+    "4.14.0": {
+      "appVersion": "1.18.4"
+    },
+    "4.14.0+20230614.093000": {
+      "appVersion": "1.18.4"
+    },
+    "4.14.0+20230616.111503": {
+      "appVersion": "1.18.5"
+    },
+    "4.17.0": {
+      "appVersion": "1.18.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cloud-native-postgresql",
+        "export CASE_VERSION=4.17.0",
+        "export CASE_ARCHIVE=ibm-cloud-native-postgresql-4.17.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCloudNativePostgresqlOperator"
+      ],
+      "description": "Case bundle for the Cloud Native Postgresql Operator",
+      "displayName": "EnterpriseDB Operator"
+    }
+  }
+}

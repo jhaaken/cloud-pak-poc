@@ -1,0 +1,75 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "7.0.0",
+  "latestVersion": "7.0.0",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "4.0.0"
+    },
+    "1.0.1": {
+      "appVersion": "4.0.1"
+    },
+    "1.0.2": {
+      "appVersion": "4.0.2"
+    },
+    "1.0.3": {
+      "appVersion": "4.0.3"
+    },
+    "1.0.4": {
+      "appVersion": "4.0.4"
+    },
+    "1.0.6": {
+      "appVersion": "4.0.6"
+    },
+    "1.0.7": {
+      "appVersion": "4.0.7"
+    },
+    "1.0.8": {
+      "appVersion": "4.0.8"
+    },
+    "1.0.9": {
+      "appVersion": "4.0.9"
+    },
+    "1.0.10": {
+      "appVersion": "4.0.9"
+    },
+    "5.0.0": {
+      "appVersion": "5.0.0"
+    },
+    "5.1.0": {
+      "appVersion": "5.1.0"
+    },
+    "5.2.0": {
+      "appVersion": "5.2.0"
+    },
+    "5.3.0": {
+      "appVersion": "5.3.0"
+    },
+    "6.0.0": {
+      "appVersion": "6.0.0"
+    },
+    "6.1.0": {
+      "appVersion": "6.1.0"
+    },
+    "6.3.0": {
+      "appVersion": "6.3.0"
+    },
+    "6.4.0": {
+      "appVersion": "6.4.0"
+    },
+    "6.5.0": {
+      "appVersion": "6.5.0"
+    },
+    "7.0.0": {
+      "appVersion": "7.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wsl-runtimes",
+        "export CASE_VERSION=7.0.0",
+        "export CASE_ARCHIVE=ibm-wsl-runtimes-7.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=runtimesOperatorSetup"
+      ],
+      "description": "CASE for Notebook Runtimes in Watson Studio",
+      "displayName": "IBM Watson Studio Runtimes"
+    }
+  }
+}

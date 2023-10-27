@@ -1,0 +1,27 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "3.0.0",
+  "latestVersion": "3.0.0",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "2.1.0"
+    },
+    "2.2.0": {
+      "appVersion": "2.2.0"
+    },
+    "2.3.0": {
+      "appVersion": "2.3.0"
+    },
+    "3.0.0": {
+      "appVersion": "3.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wazi-for-devspaces",
+        "export CASE_VERSION=3.0.0",
+        "export CASE_ARCHIVE=ibm-wazi-for-devspaces-3.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=waziDevSpaces"
+      ],
+      "description": "Personal z/OS cloud IDE for development and testing.",
+      "displayName": "IBM Wazi for Dev Spaces"
+    }
+  }
+}

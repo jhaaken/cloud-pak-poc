@@ -1,0 +1,75 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.8.0",
+  "latestVersion": "8.8.0",
+  "versions": {
+    "8.0.0": {
+      "appVersion": "8.0.0"
+    },
+    "8.0.1": {
+      "appVersion": "8.0.1"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0"
+    },
+    "8.2.0": {
+      "appVersion": "8.2.0"
+    },
+    "8.3.0": {
+      "appVersion": "8.3.0"
+    },
+    "8.4.0": {
+      "appVersion": "8.4.0"
+    },
+    "8.5.0": {
+      "appVersion": "8.5.0"
+    },
+    "8.5.1": {
+      "appVersion": "8.5.1"
+    },
+    "8.5.2": {
+      "appVersion": "8.5.2"
+    },
+    "8.5.3": {
+      "appVersion": "8.5.3"
+    },
+    "8.6.0": {
+      "appVersion": "8.6.0"
+    },
+    "8.6.1": {
+      "appVersion": "8.6.1"
+    },
+    "8.6.2": {
+      "appVersion": "8.6.2"
+    },
+    "8.6.3": {
+      "appVersion": "8.6.3"
+    },
+    "8.6.4": {
+      "appVersion": "8.6.4"
+    },
+    "8.6.5": {
+      "appVersion": "8.6.5"
+    },
+    "8.7.0": {
+      "appVersion": "8.7.0"
+    },
+    "8.7.1": {
+      "appVersion": "8.7.1"
+    },
+    "8.7.2": {
+      "appVersion": "8.7.2"
+    },
+    "8.8.0": {
+      "appVersion": "8.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-assist",
+        "export CASE_VERSION=8.8.0",
+        "export CASE_ARCHIVE=ibm-mas-assist-8.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasAssistSetup"
+      ],
+      "description": "IBM Maximo Assist",
+      "displayName": "IBM Maximo Assist"
+    }
+  }
+}

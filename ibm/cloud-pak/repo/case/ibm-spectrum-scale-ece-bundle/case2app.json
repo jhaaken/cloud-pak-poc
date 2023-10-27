@@ -1,0 +1,72 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "5.1.7.0-3",
+  "latestVersion": "1.5.3",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "5.1.1.3"
+    },
+    "1.0.0+20211213.100000.cve2021-44228": {
+      "appVersion": "5.1.1.3"
+    },
+    "1.0.0+20220104.100000.cve2021-45105": {
+      "appVersion": "5.1.1.3"
+    },
+    "1.0.2": {
+      "appVersion": "5.1.1.4"
+    },
+    "1.0.2+20211213.100000.cve2021-44228": {
+      "appVersion": "5.1.1.4"
+    },
+    "1.0.2+20220104.100000.cve2021-45105": {
+      "appVersion": "5.1.1.4"
+    },
+    "1.0.3": {
+      "appVersion": "5.1.2.1"
+    },
+    "1.0.4": {
+      "appVersion": "5.1.2.1"
+    },
+    "1.1.0": {
+      "appVersion": "5.1.3.0"
+    },
+    "1.1.1": {
+      "appVersion": "5.1.3.1"
+    },
+    "1.2.0": {
+      "appVersion": "5.1.4.0"
+    },
+    "1.2.1": {
+      "appVersion": "5.1.4.0"
+    },
+    "1.2.2": {
+      "appVersion": "5.1.4.1"
+    },
+    "1.3.0": {
+      "appVersion": "5.1.5.0"
+    },
+    "1.4.0": {
+      "appVersion": "5.1.6.0"
+    },
+    "1.5.0": {
+      "appVersion": "5.1.7.0"
+    },
+    "1.5.1": {
+      "appVersion": "5.1.7.0.7"
+    },
+    "1.5.2": {
+      "appVersion": "5.1.7.0.9"
+    },
+    "1.5.3": {
+      "appVersion": "5.1.7.0-3",
+      "airGap": [
+        "export CASE_NAME=ibm-spectrum-scale-ece-bundle",
+        "export CASE_VERSION=1.5.3",
+        "export CASE_ARCHIVE=ibm-spectrum-scale-ece-bundle-1.5.3.tgz",
+        "export CASE_INVENTORY_SETUP=scaleCoreSetup"
+      ],
+      "description": "Represents a deployment of a container native IBM Spectrum Scale cluster with the Erasure Code Edition",
+      "displayName": "IBM Spectrum Scale Container Native Storage Version"
+    }
+  }
+}

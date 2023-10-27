@@ -1,0 +1,93 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "1.0.0",
+  "latestVersion": "1.1.1807",
+  "versions": {
+    "1.1.587": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.600": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.602": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.606": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.616": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.623": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.689": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.734": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.757": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.809": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.880": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.882": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.929": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.949": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.969": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1019": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1042": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1080": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1190": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1255": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1301": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1322": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1336": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1541": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1654": {
+      "appVersion": "1.0.0"
+    },
+    "1.1.1807": {
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1807",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1807.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
+    }
+  }
+}

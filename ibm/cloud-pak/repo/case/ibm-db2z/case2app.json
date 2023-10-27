@@ -1,0 +1,17 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "3.5.0",
+  "latestVersion": "3.2.2",
+  "versions": {
+    "3.2.2": {
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-db2z",
+        "export CASE_VERSION=3.2.2",
+        "export CASE_ARCHIVE=ibm-db2z-3.2.2.tgz"
+      ],
+      "description": "IBM Db2 for z/OS® Connector add-on for IBM Cloud Pak for Data",
+      "displayName": ""
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "4.2.1-rc1-202310130045",
+  "latestVersion": "1.8.1",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "3.1.0"
+    },
+    "1.0.1": {
+      "appVersion": "3.1.1"
+    },
+    "1.1.0": {
+      "appVersion": "3.2.0"
+    },
+    "1.1.1": {
+      "appVersion": "3.2.1"
+    },
+    "1.2.0": {
+      "appVersion": "3.3.0"
+    },
+    "1.2.1": {
+      "appVersion": "3.3.1-rc1-202204111001"
+    },
+    "1.2.2": {
+      "appVersion": "3.3.2-rc2-202205110601"
+    },
+    "1.3.0": {
+      "appVersion": "3.4.0-rc1-202206171434"
+    },
+    "1.3.1": {
+      "appVersion": "3.4.1-rc2-202207150002"
+    },
+    "1.3.2": {
+      "appVersion": "3.4.2-rc1-202208220742"
+    },
+    "1.4.0": {
+      "appVersion": "3.5.0-rc3-202209161531"
+    },
+    "1.4.1": {
+      "appVersion": "3.5.1-rc1-202210172202"
+    },
+    "1.5.0": {
+      "appVersion": "3.6.0-rc1-202211300002"
+    },
+    "1.5.1": {
+      "appVersion": "3.6.1-rc1-202301122202"
+    },
+    "1.5.2": {
+      "appVersion": "3.6.2-rc1-202302092202"
+    },
+    "1.6.0": {
+      "appVersion": "3.7.0-rc1-202303151639"
+    },
+    "1.6.1": {
+      "appVersion": "3.7.1-rc1-202304140006"
+    },
+    "1.6.2": {
+      "appVersion": "3.7.2-rc1-202305190806"
+    },
+    "1.7.0": {
+      "appVersion": "4.1.0-rc3-202306210047"
+    },
+    "1.7.1": {
+      "appVersion": "4.1.1-rc1-202307162205"
+    },
+    "1.7.2": {
+      "appVersion": "4.1.2-rc1-202308180831"
+    },
+    "1.8.0": {
+      "appVersion": "4.2.0-rc1-202309120045"
+    },
+    "1.8.1": {
+      "appVersion": "4.2.1-rc1-202310130045",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-waiops",
+        "export CASE_VERSION=1.8.1",
+        "export CASE_ARCHIVE=ibm-cp-waiops-1.8.1.tgz",
+        "export CASE_INVENTORY_SETUP=cpwaiopsSetup"
+      ],
+      "description": "IBM Cloud Pak® for AIOps provides holistic insights that help prioritize issues and resolution efforts that take place in ever-evolving hybrid cloud and traditional IT environments. It identifies and gathers signals across a variety of structured and unstructured data channels, including alerts, logs, and tickets.",
+      "displayName": "ibm-cp-waiops"
+    }
+  }
+}

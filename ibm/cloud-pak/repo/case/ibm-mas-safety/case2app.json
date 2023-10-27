@@ -1,0 +1,44 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.3.2",
+  "latestVersion": "8.3.2",
+  "versions": {
+    "8.0.0": {
+      "appVersion": "8.0.0"
+    },
+    "8.0.1": {
+      "appVersion": "8.0.1"
+    },
+    "8.0.2": {
+      "appVersion": "8.0.2"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0"
+    },
+    "8.2.0": {
+      "appVersion": "8.2.0"
+    },
+    "8.2.1": {
+      "appVersion": "8.2.1"
+    },
+    "8.2.2": {
+      "appVersion": "8.2.2"
+    },
+    "8.3.0": {
+      "appVersion": "8.3.0"
+    },
+    "8.3.1": {
+      "appVersion": "8.3.1"
+    },
+    "8.3.2": {
+      "appVersion": "8.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-safety",
+        "export CASE_VERSION=8.3.2",
+        "export CASE_ARCHIVE=ibm-mas-safety-8.3.2.tgz"
+      ],
+      "description": "IBM Maximo Safety enables companies to establish safer working environments by providing safety insights for proactive protection with personalized risk assessment and near real-time protection. These insights and protection can minimize workplace hazards.",
+      "displayName": "IBM Maximo Safety"
+    }
+  }
+}

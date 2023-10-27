@@ -1,0 +1,93 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "24.3.0+20230831.205223.365",
+  "latestVersion": "24.3.0",
+  "versions": {
+    "0.1.3": {
+      "appVersion": "11.1.7"
+    },
+    "0.1.5": {
+      "appVersion": "11.1.7"
+    },
+    "4.0.0": {
+      "appVersion": "4.0.0"
+    },
+    "4.0.1": {
+      "appVersion": "4.0.0"
+    },
+    "4.0.2": {
+      "appVersion": "4.0.1"
+    },
+    "4.0.3": {
+      "appVersion": "4.0.1"
+    },
+    "4.0.4": {
+      "appVersion": "4.0.2+20210923.235053.887"
+    },
+    "4.0.5": {
+      "appVersion": "4.0.3+20211027.233507.1023"
+    },
+    "4.0.6": {
+      "appVersion": "4.0.4+20211216.205247.1314"
+    },
+    "4.0.7": {
+      "appVersion": "4.0.5+20220112.153503.1376"
+    },
+    "4.0.8": {
+      "appVersion": "4.0.6+20220202.200051.1471"
+    },
+    "4.0.9": {
+      "appVersion": "4.0.7+20220308.224101.1648"
+    },
+    "4.0.10": {
+      "appVersion": "4.0.8+20220412.162736.1864"
+    },
+    "4.0.10+20220727.000000": {
+      "appVersion": "4.0.8+20220412.162736.1864"
+    },
+    "4.0.10+20220809.000000": {
+      "appVersion": "4.0.8+20220412.162736.1864"
+    },
+    "22.0.0": {
+      "appVersion": "22.0.0+20220616.124201.2244"
+    },
+    "22.1.0": {
+      "appVersion": "22.1.0+20220706.213108.2353"
+    },
+    "22.2.0": {
+      "appVersion": "22.2.0+20220816.200619.2625"
+    },
+    "22.3.0": {
+      "appVersion": "22.3.0+20220906.234139.2753"
+    },
+    "23.0.0": {
+      "appVersion": "23.0.0+20221121.195857.3251"
+    },
+    "23.1.0": {
+      "appVersion": "23.1.0+20221206.154012.3345"
+    },
+    "23.3.0": {
+      "appVersion": "23.3.0+20230208.011255.3622"
+    },
+    "23.4.0": {
+      "appVersion": "23.4.0+20230302.200038.3797"
+    },
+    "23.5.0": {
+      "appVersion": "23.5.0+20230412.184926.4166"
+    },
+    "24.0.0": {
+      "appVersion": "24.0.0+20230606.210626.4488"
+    },
+    "24.3.0": {
+      "appVersion": "24.3.0+20230831.205223.365",
+      "airGap": [
+        "export CASE_NAME=ibm-cognos-analytics-prod",
+        "export CASE_VERSION=24.3.0",
+        "export CASE_ARCHIVE=ibm-cognos-analytics-prod-24.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCaOperatorSetup"
+      ],
+      "description": "Content for CP4D Cognos Analytics cartridge",
+      "displayName": "CP4D Cognos Analytics Cartridge"
+    }
+  }
+}

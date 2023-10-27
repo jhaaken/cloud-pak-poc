@@ -1,0 +1,38 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "2.3.5",
+  "latestVersion": "2.3.5",
+  "versions": {
+    "1.0.0": {
+      "appVersion": "2.0.0"
+    },
+    "1.1.0": {
+      "appVersion": "2.1.0"
+    },
+    "1.2.0": {
+      "appVersion": "2.2.0"
+    },
+    "2.2.6": {
+      "appVersion": "2.2.6"
+    },
+    "2.3.0": {
+      "appVersion": "2.3.0"
+    },
+    "2.3.1": {
+      "appVersion": "2.3.1"
+    },
+    "2.3.2": {
+      "appVersion": "2.3.2"
+    },
+    "2.3.5": {
+      "appVersion": "2.3.5",
+      "airGap": [
+        "export CASE_NAME=ibm-security-image-signing",
+        "export CASE_VERSION=2.3.5",
+        "export CASE_ARCHIVE=ibm-security-image-signing-2.3.5.tgz"
+      ],
+      "description": "IBM Cloud Pak for MCM Image Signing and Enforcement",
+      "displayName": "Notary Image Signing and Image Enforcement"
+    }
+  }
+}

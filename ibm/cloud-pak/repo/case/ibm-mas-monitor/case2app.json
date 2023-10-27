@@ -1,0 +1,129 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "8.11.1",
+  "latestVersion": "8.11.1",
+  "versions": {
+    "8.0.0": {
+      "appVersion": "8.0.0"
+    },
+    "8.1.0": {
+      "appVersion": "8.1.0"
+    },
+    "8.2.0": {
+      "appVersion": "8.2.0"
+    },
+    "8.2.1": {
+      "appVersion": "8.2.1"
+    },
+    "8.3.0": {
+      "appVersion": "8.3.0"
+    },
+    "8.3.1": {
+      "appVersion": "8.3.1"
+    },
+    "8.4.0": {
+      "appVersion": "8.4.0"
+    },
+    "8.4.1": {
+      "appVersion": "8.4.1"
+    },
+    "8.5.0": {
+      "appVersion": "8.5.0"
+    },
+    "8.6.0": {
+      "appVersion": "8.6.0"
+    },
+    "8.6.1": {
+      "appVersion": "8.6.1"
+    },
+    "8.6.2": {
+      "appVersion": "8.6.2"
+    },
+    "8.6.3": {
+      "appVersion": "8.6.3"
+    },
+    "8.6.4": {
+      "appVersion": "8.6.4"
+    },
+    "8.7.0": {
+      "appVersion": "8.7.0"
+    },
+    "8.7.1": {
+      "appVersion": "8.7.1"
+    },
+    "8.7.2": {
+      "appVersion": "8.7.2"
+    },
+    "8.7.3": {
+      "appVersion": "8.7.3"
+    },
+    "8.8.0": {
+      "appVersion": "8.8.0"
+    },
+    "8.8.1": {
+      "appVersion": "8.8.1"
+    },
+    "8.8.2": {
+      "appVersion": "8.8.2"
+    },
+    "8.8.3": {
+      "appVersion": "8.8.3"
+    },
+    "8.8.4": {
+      "appVersion": "8.8.4"
+    },
+    "8.9.0": {
+      "appVersion": "8.9.0"
+    },
+    "8.9.1": {
+      "appVersion": "8.9.1"
+    },
+    "8.9.2": {
+      "appVersion": "8.9.2"
+    },
+    "8.9.3": {
+      "appVersion": "8.9.3"
+    },
+    "8.9.4": {
+      "appVersion": "8.9.4"
+    },
+    "8.9.5": {
+      "appVersion": "8.9.5"
+    },
+    "8.9.6": {
+      "appVersion": "8.9.6"
+    },
+    "8.10.0": {
+      "appVersion": "8.10.0"
+    },
+    "8.10.1": {
+      "appVersion": "8.10.1"
+    },
+    "8.10.2": {
+      "appVersion": "8.10.2"
+    },
+    "8.10.3": {
+      "appVersion": "8.10.3"
+    },
+    "8.10.4": {
+      "appVersion": "8.10.4"
+    },
+    "8.10.5": {
+      "appVersion": "8.10.5"
+    },
+    "8.11.0": {
+      "appVersion": "8.11.0"
+    },
+    "8.11.1": {
+      "appVersion": "8.11.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-monitor",
+        "export CASE_VERSION=8.11.1",
+        "export CASE_ARCHIVE=ibm-mas-monitor-8.11.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasMonitorSetup"
+      ],
+      "description": "IBM Maximo Monitor",
+      "displayName": "IBM Maximo Monitor"
+    }
+  }
+}

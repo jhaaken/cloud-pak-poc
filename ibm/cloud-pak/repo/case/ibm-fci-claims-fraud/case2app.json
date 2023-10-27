@@ -1,0 +1,33 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "6.6.3",
+  "latestVersion": "6.7.2",
+  "versions": {
+    "6.7.0": {
+      "appVersion": "6.6.1"
+    },
+    "6.7.0+20220224.114420": {
+      "appVersion": "6.6.1"
+    },
+    "6.7.0+20220224.114421": {
+      "appVersion": "6.6.1"
+    },
+    "6.7.0+20220311.114422": {
+      "appVersion": "6.6.1"
+    },
+    "6.7.1": {
+      "appVersion": "6.6.2"
+    },
+    "6.7.2": {
+      "appVersion": "6.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-fci-claims-fraud",
+        "export CASE_VERSION=6.7.2",
+        "export CASE_ARCHIVE=ibm-fci-claims-fraud-6.7.2.tgz",
+        "export CASE_INVENTORY_SETUP=fciiOperatorSetup"
+      ],
+      "description": "CASE that deploys IBM FCI Claims Fraud Operator",
+      "displayName": "IBM FCI Claims Fraud Operator"
+    }
+  }
+}

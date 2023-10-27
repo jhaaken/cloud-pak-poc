@@ -1,0 +1,17 @@
+{
+  "apiVersion": "v1",
+  "latestAppVersion": "6.6.0",
+  "latestVersion": "6.6.0",
+  "versions": {
+    "6.6.0": {
+      "appVersion": "6.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-fci-entity-research-prod",
+        "export CASE_VERSION=6.6.0",
+        "export CASE_ARCHIVE=ibm-fci-entity-research-prod-6.6.0.tgz"
+      ],
+      "description": "IBM Financial Crimes Entity Research",
+      "displayName": ""
+    }
+  }
+}
