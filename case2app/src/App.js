@@ -2,8 +2,11 @@
 import './app.scss';
 
 import { Helmet } from 'react-helmet';
-import { Content } from '@carbon/react';
+import { Content, Theme } from '@carbon/react';
 import MainHeader from './components/MainHeader';
+import HeaderComponent from './components/headers/HeaderComponent';
+
+import "./config";
 
 import { Routes, Route, Outlet, Link } from "react-router-dom";
 
@@ -42,18 +45,13 @@ function Layout() {
       </Helmet>
       <MainHeader />
       <Content>
+        <Theme theme="g100">
+          <HeaderComponent />
+       </Theme>
         <Outlet />
       </Content>
       {/* <DataTable /> */}
     </>
-  );
-}
-
-function Home() {
-  return (
-    <div>
-      <h2>Home</h2>
-    </div>
   );
 }
 
@@ -78,7 +76,7 @@ function NoMatch() {
     <div>
       <h2>Nothing to see here!</h2>
       <p>
-        <Link to="/">Go to the home page</Link>
+        <Link to="/">Go to the repository page</Link>
       </p>
     </div>
   );

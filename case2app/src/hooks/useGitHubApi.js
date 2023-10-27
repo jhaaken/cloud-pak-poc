@@ -11,8 +11,8 @@ const octokitClient = new Octokit({});
  */
 export const useGitHubApi = (endpoint, octokitOpts, options, timestampRefresh) => {
   console.log('useGitHubApi', {endpoint, options, timestampRefresh})
-	const cache = useRef({});
   const useCache = useRef(options?.useCache || false);
+  const cacheKeyRef = useRef(options?.cacheKey || endpoint);
   const ignoreNotFoundError = useRef(options?.ignoreError || false);  // use to handle a 404 (not-found) and just return an empty payload
   const [refresh, setRefresh] = useState(timestampRefresh || '');
   const massageRef = useRef(options?.massage || '');
@@ -23,6 +23,27 @@ export const useGitHubApi = (endpoint, octokitOpts, options, timestampRefresh) =
 		error: null,
 		data: [],
 	};
+
+  // expects json/javascript object as it stringifies/encodes and decodes/parses when getting data back out
+  // saved as: key = {timestamp: '', b64data: ''}
+  // btoa - encode, atob - decodes
+  const setCache = (key, jsonData) => {
+    const b64data = btoa(JSON.stringify(jsonData));
+    const d = {fetchTimestamp: new Date().toISOString(), fetchMode: 'cache', b64data: b64data}
+    sessionStorage.setItem(key, JSON.stringify(d)); // base64 encrypt & store
+    console.log(`[useGitHubAPI] data cached to ${key}`)
+  }
+
+  const getCache = (key) => {
+    try {
+      const d = JSON.parse(sessionStorage.getItem(key));
+      d.data = JSON.parse(atob(d.b64data));
+      return d;
+    } catch (error) {
+      console.error(`[useGitHubApi] error retrieving, decoding or parsing cache key ${key} from sessionStorage`)
+      return '';
+    }
+  }
 
 	const [state, dispatch] = useReducer((state, action) => {
 		switch (action.type) {
@@ -38,9 +59,10 @@ export const useGitHubApi = (endpoint, octokitOpts, options, timestampRefresh) =
 	}, initialState);
 
   useEffect(() => {
-    // console.log('useGitHubApi: refresh', {refresh, timestampRefresh})
+    console.log('useGitHubApi: refresh', {refresh, timestampRefresh})
     if (refresh !== timestampRefresh) {
       setRefresh(timestampRefresh);
+      if(useCache.current) sessionStorage.removeItem(cacheKeyRef.current) // remove item to force cache
     }
   }, [refresh, timestampRefresh])
 
@@ -54,39 +76,45 @@ export const useGitHubApi = (endpoint, octokitOpts, options, timestampRefresh) =
 
       dispatch({ type: 'FETCHING' });
       console.log(`[useGitHubApi] fetching ${endpoint}`);
-      if (useCache.current && cache.current[endpoint]) {
-        const data = cache.current[endpoint];
-        console.log(`[useGitHubApi] fetching from cache ${endpoint}`, data);
-				dispatch({ type: 'FETCHED', payload: data });
+      if (useCache.current && sessionStorage.hasOwnProperty(cacheKeyRef.current)) {
+        const cache = getCache(cacheKeyRef.current);
+        console.log(`[useGitHubApi] fetched endpoint ${endpoint} from cache with key ${cacheKeyRef.current}`, cache);
+				dispatch({ type: 'FETCHED', payload: cache });
       } else {
         // octokitClient.request('GET /repos/{owner}/{repo}/contents/repo/case/index.yaml', {
         //   owner: 'IBM',
         //   repo: 'cloud-pak',
         // })
         console.log('fetchData', {ep: endpoint, octokitOptionsRef})
+        // new Promise((resolve, reject) => {
+        //   const d = {data: {content: btoa(JSON.stringify({"test": "test"}))}}
+        //   resolve(d);
+        // })
         octokitClient.request(endpoint, octokitOptionsRef.current)
           .then((response) => {
             // const data = options?.returnResponse ? response.data : response.data.data;
             const data = response.data;
-
-            if(useCache.current) cache.current[endpoint] = data;
             if (cancelRequest) return;
-            console.log(`[useGitHubApi] fetching from github.com ${endpoint}`, data);
+            console.log(`[useGitHubApi] fetched from github.com ${endpoint}`, data);
 
             if (massageRef.current && typeof massageRef.current === 'function') {
               const m =  massageRef.current(data);
               console.log(`[useGitHubApi] massaged from github.com ${endpoint}`, m);
-              return dispatch({type: 'FETCHED', payload: m})
+              if(useCache.current) setCache(cacheKeyRef.current, m); // base64 encrypt & store
+
+              return dispatch({type: 'FETCHED', payload: {fetchTimestamp: new Date().toISOString(), fetchMode: 'live', data: m}})  // cache returns metadata with data
+            } else {
+              if(useCache.current) setCache(cacheKeyRef.current, data); // base64 encrypt & store
             }
 
-           return dispatch({ type: 'FETCHED', payload: data });
+           return dispatch({ type: 'FETCHED', payload: {fetchTimestamp: new Date().toISOString(), fetchMode: 'live', data: data} });
 
           })
           .catch((error) => {
-            if (ignoreNotFoundError && error?.response?.status === 404) return dispatch({ type: 'FETCHED', payload: '' });
+            if (ignoreNotFoundError && error?.response?.status === 404) return dispatch({ type: 'FETCHED', payload: {data: ''} });
             if (cancelRequest) return;
             console.error(`[useGitHubApi] error ${error.message}`, error);
-            dispatch({ type: 'FETCH_ERROR', payload: error.message });
+            dispatch({ type: 'FETCH_ERROR', payload: {fetchTimestamp: new Date().toISOString(), fetchMode: 'error', data: error.message} });
           });
       }
 
