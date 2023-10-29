@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 import { useParams } from 'react-router-dom';
 import yaml from 'js-yaml';
 import ReactJsonView from 'react-json-view';
@@ -7,14 +7,40 @@ import { Restart } from '@carbon/react/icons';
 
 import {
   Breadcrumb, BreadcrumbItem, Tag, Link as CarbonLink,
-  Tab, Tabs, TabPanel, TabPanels, TabList, Tile, Button
+  Tab, Tabs, TabPanel, TabPanels, TabList, Tile, Button, CopyButton
 } from "@carbon/react";
+
+import DataGridWrapper from '../../components/DataTables/DataGridWrapper';
+import { copyTextToClipboard } from './../../utils';
 import useGitHubApi from './../../hooks/useGitHubApi';
 
 function CaseDetails() {
 
   const { name, version } = useParams();
   const [refreshTimestamp, setRefreshTimestamp] = useState(new Date());
+
+  const resourceHeaders = useMemo(() => [
+    // { accessor: "id", Header: "id", width: 50,}
+    { accessor: "imageFull", Header: "Image", width: 500,
+      Cell: (item) => {
+        // console.log('digestShort', {item});
+        if (!item.value) return '';
+        return (
+          <>
+            <CopyButton style={{ display: 'inline-block', backgroundColor: 'inherit', height: '0' }} feedback={`copied to clipboard!`} iconDescription={`Copy to clipboard`} onClick={async () => {
+              await copyTextToClipboard(item.value)
+            }} />
+            <span style={{paddingRight: '.25em'}} title={`${item.value}`}>{item.value}</span>
+          </>
+        )
+      }
+  
+    },
+    { accessor: "tag", Header: "Tag" ,  width: 200},
+    { accessor: "category", Header: "Category" },
+    { accessor: "caseVersions", Header: "CASE Versions" },
+    // { accessor: "digest", Header: "Digest" ,  isVisible: false},
+  ])
 
   const ghData = useGitHubApi(`GET /repos/{owner}/{repo}/contents/repo/case/${name}/${version}/version.yaml`,
     { owner: 'IBM', repo: 'cloud-pak' },
@@ -31,7 +57,28 @@ function CaseDetails() {
     refreshTimestamp
   )
 
-  console.log('ghData.payload', ghData?.payload?.data)
+  const ghDataResources = useGitHubApi(`GET /repos/{owner}/{repo}/contents/repo/case/${name}/resourcesIndex.yaml`,
+  { owner: 'IBM', repo: 'cloud-pak' },
+  {
+    useCache: true,
+    cacheKey: `case2app:github.com/repos/IBM/cloud-pak/contents/repo/case/${name}/resourcesIndex.yaml`,
+    massage: (d) => {
+      const decoded = atob(d.content);
+      // console.log(decoded);
+      const j = yaml.load(decoded);
+      return j.containerImages
+        .map(x => {
+        return {
+        ...x,
+        imageFull: `${x.image}@${x.digest}`
+        }
+        });
+    }
+  },
+  refreshTimestamp
+)
+
+  console.log('ghData.payload', {ghData: ghData?.payload?.data, ghDataResources: ghDataResources?.payload?.data})
 
   return (
     <>
@@ -63,6 +110,7 @@ function CaseDetails() {
           <Tabs>
             <TabList aria-label="List of tabs">
               <Tab>Details</Tab>
+              <Tab>Resources</Tab>
               <Tab>Raw</Tab>
             </TabList>
             <TabPanels>
@@ -153,6 +201,25 @@ function CaseDetails() {
 
 
                     </> : null}
+                </div>
+              </TabPanel>
+              <TabPanel>
+                <div style={{ marginTop: "1em" }}>
+                <div>filtered to case version {version}</div>
+                {ghDataResources?.status === 'fetched' ?
+                  <DataGridWrapper
+                    rows={ghDataResources?.payload?.data.filter(x => {return x.caseVersions.includes(version)} )}
+                    headers={resourceHeaders}
+                    gridTitle="Resources (resourceIndex.yaml)"
+                    gridDescription={`${new Date(ghDataResources?.payload.fetchTimestamp).toLocaleString()} (${ghDataResources?.payload.fetchMode || '???'})`}
+                    multiLineWrapAll={true}
+                    options={{
+                      refreshDataTrigger: setRefreshTimestamp,
+                      debug: { cacheKey: `case2app:github.com/repos/IBM/cloud-pak/contents/repo/case/${name}/resourcesIndex.yaml` }
+                    }}
+                  />
+                  : null
+                }
                 </div>
               </TabPanel>
               <TabPanel>
