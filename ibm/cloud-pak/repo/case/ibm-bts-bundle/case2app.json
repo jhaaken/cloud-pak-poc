@@ -4,64 +4,224 @@
   "latestVersion": "1.0.20",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "",
+      "displayName": ""
     },
     "1.0.1": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "",
+      "displayName": ""
     },
     "1.0.2": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.3": {
-      "appVersion": "1.0.3"
+      "appVersion": "1.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.4": {
-      "appVersion": "1.0.4"
+      "appVersion": "1.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.5": {
-      "appVersion": "1.0.5"
+      "appVersion": "1.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.6": {
-      "appVersion": "1.0.6"
+      "appVersion": "1.0.6",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.6",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.7": {
-      "appVersion": "1.0.7"
+      "appVersion": "1.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.7",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.8": {
-      "appVersion": "1.0.8"
+      "appVersion": "1.0.8",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.8",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.9": {
-      "appVersion": "1.0.9"
+      "appVersion": "1.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.9",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.10": {
-      "appVersion": "1.0.10"
+      "appVersion": "1.0.10",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.10",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.10.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.11": {
-      "appVersion": "1.0.11"
+      "appVersion": "1.0.11",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.11",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.11.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.12": {
-      "appVersion": "1.0.12"
+      "appVersion": "1.0.12",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.12",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.12.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.13": {
-      "appVersion": "1.0.13"
+      "appVersion": "1.0.13",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.13",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.13.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.14": {
-      "appVersion": "1.0.14"
+      "appVersion": "1.0.14",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.14",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.14.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.15": {
-      "appVersion": "1.0.15"
+      "appVersion": "1.0.15",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.15",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.15.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.16": {
-      "appVersion": "3.26.0"
+      "appVersion": "3.26.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.16",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.16.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.17": {
-      "appVersion": "3.27.0"
+      "appVersion": "3.27.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.17",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.17.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.18": {
-      "appVersion": "3.28.0"
+      "appVersion": "3.28.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.18",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.18.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.19": {
-      "appVersion": "3.29.0"
+      "appVersion": "3.29.0",
+      "airGap": [
+        "export CASE_NAME=ibm-bts-bundle",
+        "export CASE_VERSION=1.0.19",
+        "export CASE_ARCHIVE=ibm-bts-bundle-1.0.19.tgz",
+        "export CASE_INVENTORY_SETUP=btsOperatorSetup"
+      ],
+      "description": "Business Teams Service case bundle",
+      "displayName": "Business Teams Service case bundle"
     },
     "1.0.20": {
       "appVersion": "3.30.0",

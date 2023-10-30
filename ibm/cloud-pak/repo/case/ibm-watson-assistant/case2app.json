@@ -4,70 +4,241 @@
   "latestVersion": "4.20.0+20231010.221321.28",
   "versions": {
     "1.4.2": {
-      "appVersion": "1.4.2"
+      "appVersion": "1.4.2",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=1.4.2",
+        "export CASE_ARCHIVE=ibm-watson-assistant-1.4.2.tgz"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "1.4.2+20200826.151450.1": {
-      "appVersion": "1.4.2+20200826.151450.1"
+      "appVersion": "1.4.2+20200826.151450.1",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=1.4.2+20200826.151450.1",
+        "export CASE_ARCHIVE=ibm-watson-assistant-1.4.2+20200826.151450.1.tgz"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "1.5.0+201112160707.develop.0.0.169.g6436a750.292": {
-      "appVersion": "1.5.0"
+      "appVersion": "1.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=1.5.0+201112160707.develop.0.0.169.g6436a750.292",
+        "export CASE_ARCHIVE=ibm-watson-assistant-1.5.0+201112160707.develop.0.0.169.g6436a750.292.tgz"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115": {
-      "appVersion": "1.5.0"
+      "appVersion": "1.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115",
+        "export CASE_ARCHIVE=ibm-watson-assistant-1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115.tgz"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115.fix001": {
-      "appVersion": "1.5.0"
+      "appVersion": "1.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115.fix001",
+        "export CASE_ARCHIVE=ibm-watson-assistant-1.5.0+201208115052.1.5.0.1.5.0.gc1cc0928.115.fix001.tgz"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.0": {
-      "appVersion": "4.0.0"
+      "appVersion": "4.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.2": {
-      "appVersion": "4.0.2"
+      "appVersion": "4.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.2",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.4": {
-      "appVersion": "4.0.4"
+      "appVersion": "4.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.4",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.5": {
-      "appVersion": "4.0.5"
+      "appVersion": "4.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.5",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.6": {
-      "appVersion": "4.0.6"
+      "appVersion": "4.0.6",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.6",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.7": {
-      "appVersion": "4.0.7"
+      "appVersion": "4.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.7",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.0.8": {
-      "appVersion": "4.0.8"
+      "appVersion": "4.0.8",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.0.8",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.5.0": {
-      "appVersion": "4.5.0"
+      "appVersion": "4.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.5.0",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.6.0+220708171431.4.5.1.d3624d8ae.30": {
-      "appVersion": "4.6.0"
+      "appVersion": "4.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.6.0+220708171431.4.5.1.d3624d8ae.30",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.6.0+220708171431.4.5.1.d3624d8ae.30.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.8.0+220907200530.4.5.3.8861561be.68": {
-      "appVersion": "4.8.0"
+      "appVersion": "4.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.8.0+220907200530.4.5.3.8861561be.68",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.8.0+220907200530.4.5.3.8861561be.68.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.10.0+221107190906.4.6.0.7773ac7e6.62": {
-      "appVersion": "4.10.0"
+      "appVersion": "4.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.10.0+221107190906.4.6.0.7773ac7e6.62",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.10.0+221107190906.4.6.0.7773ac7e6.62.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.12.0+20230107.060110.24": {
-      "appVersion": "4.12.0"
+      "appVersion": "4.12.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.12.0+20230107.060110.24",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.12.0+20230107.060110.24.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.13.0+20230221.183352.37": {
-      "appVersion": "4.13.0"
+      "appVersion": "4.13.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.13.0+20230221.183352.37",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.13.0+20230221.183352.37.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.15.0+20230414.152811.36": {
-      "appVersion": "4.15.0"
+      "appVersion": "4.15.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.15.0+20230414.152811.36",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.15.0+20230414.152811.36.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.17.0+20230603.035411.28": {
-      "appVersion": "4.17.0"
+      "appVersion": "4.17.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.17.0+20230603.035411.28",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.17.0+20230603.035411.28.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.18.0+20230706.035212.23": {
-      "appVersion": "4.18.0"
+      "appVersion": "4.18.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.18.0+20230706.035212.23",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.18.0+20230706.035212.23.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.19.0+20230808.233048.42": {
-      "appVersion": "4.19.0"
+      "appVersion": "4.19.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-assistant",
+        "export CASE_VERSION=4.19.0+20230808.233048.42",
+        "export CASE_ARCHIVE=ibm-watson-assistant-4.19.0+20230808.233048.42.tgz",
+        "export CASE_INVENTORY_SETUP=assistantOperator"
+      ],
+      "description": "Common applications include virtual agents and chat bots.",
+      "displayName": "IBM Watson Assistant"
     },
     "4.20.0+20231010.221321.28": {
       "appVersion": "4.20.0",

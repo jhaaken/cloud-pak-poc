@@ -4,10 +4,24 @@
   "latestVersion": "1.5.0",
   "versions": {
     "1.3.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-wml-1.3.0.tgz"
+      ],
+      "description": "A CASE for helm charts related to IBM Watson Machine Learning (WML) v3.5.0",
+      "displayName": "IBM WML"
     },
     "1.4.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-wml-1.4.0.tgz"
+      ],
+      "description": "A CASE for helm charts related to IBM Watson Machine Learning (WML) v3.5.0",
+      "displayName": "IBM WML"
     },
     "1.5.0": {
       "appVersion": "3.5.0",

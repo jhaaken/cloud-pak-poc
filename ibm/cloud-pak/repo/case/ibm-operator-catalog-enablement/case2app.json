@@ -4,10 +4,24 @@
   "latestVersion": "1.2.2",
   "versions": {
     "1.2.0": {
-      "appVersion": "2.1.0"
+      "appVersion": "2.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-operator-catalog-enablement",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-operator-catalog-enablement-1.2.0.tgz"
+      ],
+      "description": "The IBM Operator Catalog is an index of operators available to automate deployment and maintenance of IBM products into Red Hat® OpenShift® clusters.  Operators within this catalog have been built following Kubernetes best practices and IBM standards to provide a consistent integrated set of capabilities.",
+      "displayName": "IBM Operator Catalog"
     },
     "1.2.1": {
-      "appVersion": "2.1.0"
+      "appVersion": "2.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-operator-catalog-enablement",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-operator-catalog-enablement-1.2.1.tgz"
+      ],
+      "description": "The IBM Operator Catalog is an index of operators available to automate deployment and maintenance of IBM products into Red Hat® OpenShift® clusters.  Operators within this catalog have been built following Kubernetes best practices and IBM standards to provide a consistent integrated set of capabilities.",
+      "displayName": "IBM Operator Catalog"
     },
     "1.2.2": {
       "appVersion": "2.1.0",

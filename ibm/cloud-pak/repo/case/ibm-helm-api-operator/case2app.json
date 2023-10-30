@@ -4,7 +4,14 @@
   "latestVersion": "1.0.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-helm-api-operator",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-helm-api-operator-1.0.0.tgz"
+      ],
+      "description": "Used to deploy the helm api into K8s cluster",
+      "displayName": "IBM Helm API Operator CASE Bundle"
     },
     "1.0.1": {
       "appVersion": "3.6.4",

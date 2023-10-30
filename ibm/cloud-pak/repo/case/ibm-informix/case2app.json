@@ -4,13 +4,34 @@
   "latestVersion": "1.0.4",
   "versions": {
     "1.0.1": {
-      "appVersion": "14.10.0"
+      "appVersion": "14.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-informix",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-informix-1.0.1.tgz"
+      ],
+      "description": "IBM Informix Helm chart for Kubernetes",
+      "displayName": "IBM Informix"
     },
     "1.0.2": {
-      "appVersion": "14.10.0"
+      "appVersion": "14.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-informix",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-informix-1.0.2.tgz"
+      ],
+      "description": "IBM Informix Helm chart for Kubernetes",
+      "displayName": "IBM Informix"
     },
     "1.0.3": {
-      "appVersion": "14.10.0"
+      "appVersion": "14.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-informix",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-informix-1.0.3.tgz"
+      ],
+      "description": "IBM Informix Helm chart for Kubernetes",
+      "displayName": "IBM Informix"
     },
     "1.0.4": {
       "appVersion": "14.10.1",

@@ -4,16 +4,48 @@
   "latestVersion": "1.4.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "2.7.0.0-BUILDNUMBER"
+      "appVersion": "2.7.0.0-BUILDNUMBER",
+      "airGap": [
+        "export CASE_NAME=ibm-cem-case",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cem-case-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCemSetup"
+      ],
+      "description": "A cloud based event management solution",
+      "displayName": "IBM Cloud Event Management"
     },
     "1.1.0": {
-      "appVersion": "2.8.0"
+      "appVersion": "2.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cem-case",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-cem-case-1.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCemSetup"
+      ],
+      "description": "A cloud based event management solution",
+      "displayName": "IBM Cloud Event Management"
     },
     "1.2.0": {
-      "appVersion": "2.9.0"
+      "appVersion": "2.9.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cem-case",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-cem-case-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCemSetup"
+      ],
+      "description": "A cloud based event management solution",
+      "displayName": "IBM Cloud Event Management"
     },
     "1.3.0": {
-      "appVersion": "2.10.0"
+      "appVersion": "2.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cem-case",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-cem-case-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCemSetup"
+      ],
+      "description": "A cloud based event management solution",
+      "displayName": "IBM Cloud Event Management"
     },
     "1.4.0": {
       "appVersion": "2.11.0",

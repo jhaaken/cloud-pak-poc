@@ -4,31 +4,103 @@
   "latestVersion": "1.3.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "3.2.0"
+      "appVersion": "3.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.0.1": {
-      "appVersion": "3.2.1-rc1-202202071001"
+      "appVersion": "3.2.1-rc1-202202071001",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.1.0": {
-      "appVersion": "3.3.0-rc1-202203181607"
+      "appVersion": "3.3.0-rc1-202203181607",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.1.1": {
-      "appVersion": "3.3.1-rc1-202204111001"
+      "appVersion": "3.3.1-rc1-202204111001",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.1.1",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.1.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.1.2": {
-      "appVersion": "3.3.2-rc2-202205110601"
+      "appVersion": "3.3.2-rc2-202205110601",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.1.2",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.1.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.2.0": {
-      "appVersion": "3.4.0-rc1-202206171434"
+      "appVersion": "3.4.0-rc1-202206171434",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.2.1": {
-      "appVersion": "3.4.1-rc1-202207150002"
+      "appVersion": "3.4.1-rc1-202207150002",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.2.2": {
-      "appVersion": "3.4.2-rc1-202208220742"
+      "appVersion": "3.4.2-rc1-202208220742",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.3.0": {
-      "appVersion": "3.5.0-rc1-202209131524"
+      "appVersion": "3.5.0-rc1-202209131524",
+      "airGap": [
+        "export CASE_NAME=ibm-postgreservice",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-postgreservice-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmPostgreserviceOperatorSetup"
+      ],
+      "description": "IBM Postgres Service Case Bundle",
+      "displayName": "IBM Postgres Service Case Bundle"
     },
     "1.3.1": {
       "appVersion": "3.5.1-rc1-202210172202",

@@ -4,19 +4,58 @@
   "latestVersion": "1.0.5",
   "versions": {
     "1.0.0": {
-      "appVersion": "5.2.1.3"
+      "appVersion": "5.2.1.3",
+      "airGap": [
+        "export CASE_NAME=ibm-ier-case",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-ier-case-1.0.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ier",
+      "displayName": "IER CASE"
     },
     "1.0.1": {
-      "appVersion": "5.2.1.5"
+      "appVersion": "5.2.1.5",
+      "airGap": [
+        "export CASE_NAME=ibm-ier-case",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-ier-case-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys ier",
+      "displayName": "IER CASE"
     },
     "1.0.2": {
-      "appVersion": "5.2.1.6"
+      "appVersion": "5.2.1.6",
+      "airGap": [
+        "export CASE_NAME=ibm-ier-case",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-ier-case-1.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys ier",
+      "displayName": "IER CASE"
     },
     "1.0.3": {
-      "appVersion": "5.2.1.7"
+      "appVersion": "5.2.1.7",
+      "airGap": [
+        "export CASE_NAME=ibm-ier-case",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-ier-case-1.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys ier",
+      "displayName": "IER CASE"
     },
     "1.0.4": {
-      "appVersion": "5.2.1.8"
+      "appVersion": "5.2.1.8",
+      "airGap": [
+        "export CASE_NAME=ibm-ier-case",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-ier-case-1.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys ier",
+      "displayName": "IER CASE"
     },
     "1.0.5": {
       "appVersion": "5.2.1.9",

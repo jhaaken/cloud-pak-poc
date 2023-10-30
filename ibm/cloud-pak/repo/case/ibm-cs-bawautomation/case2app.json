@@ -4,199 +4,716 @@
   "latestVersion": "2.5.4",
   "versions": {
     "2.1.0": {
-      "appVersion": "20.0.2"
+      "appVersion": "20.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.0",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.1": {
-      "appVersion": "20.0.0.1"
+      "appVersion": "20.0.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.1",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.1.tgz"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.2": {
-      "appVersion": "20.0.0.1.IF001"
+      "appVersion": "20.0.0.1.IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.2",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.2.tgz"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.3": {
-      "appVersion": "20.0.0.2"
+      "appVersion": "20.0.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.3",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.3.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.4": {
-      "appVersion": "20.0.0.2"
+      "appVersion": "20.0.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.4",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.6": {
-      "appVersion": "21.0.2"
+      "appVersion": "21.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.6",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.6.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.7": {
-      "appVersion": "21.0.2-IF001"
+      "appVersion": "21.0.2-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.7",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.7.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.8": {
-      "appVersion": "21.0.2-IF002"
+      "appVersion": "21.0.2-IF002",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.8",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.8.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.9": {
-      "appVersion": "21.0.2-IF003"
+      "appVersion": "21.0.2-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.9",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.9.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.10": {
-      "appVersion": "21.0.2-IF003"
+      "appVersion": "21.0.2-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.10",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.10.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.11": {
-      "appVersion": "21.0.2-IF005"
+      "appVersion": "21.0.2-IF005",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.11",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.11.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.12": {
-      "appVersion": "21.0.2-IF006"
+      "appVersion": "21.0.2-IF006",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.12",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.12.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.13": {
-      "appVersion": "21.0.2-IF007"
+      "appVersion": "21.0.2-IF007",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.13",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.13.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.14": {
-      "appVersion": "21.0.2-IF007"
+      "appVersion": "21.0.2-IF007",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.14",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.14.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.15": {
-      "appVersion": "21.0.2-IF008"
+      "appVersion": "21.0.2-IF008",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.15",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.15.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.16": {
-      "appVersion": "21.0.2-IF008"
+      "appVersion": "21.0.2-IF008",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.16",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.16.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.17": {
-      "appVersion": "21.0.2-IF009"
+      "appVersion": "21.0.2-IF009",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.17",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.17.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.18": {
-      "appVersion": "21.0.2-IF010"
+      "appVersion": "21.0.2-IF010",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.18",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.18.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.19": {
-      "appVersion": "21.0.2-IF011"
+      "appVersion": "21.0.2-IF011",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.19",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.19.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.1.20": {
-      "appVersion": "21.0.2-IF012"
+      "appVersion": "21.0.2-IF012",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.1.20",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.1.20.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.0": {
-      "appVersion": "21.0.3"
+      "appVersion": "21.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.0",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.1": {
-      "appVersion": "21.0.3-IF002"
+      "appVersion": "21.0.3-IF002",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.1",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.2": {
-      "appVersion": "21.0.3-IF005"
+      "appVersion": "21.0.3-IF005",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.2",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.3": {
-      "appVersion": "21.0.3-IF007"
+      "appVersion": "21.0.3-IF007",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.3",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.4": {
-      "appVersion": "21.0.3-IF008"
+      "appVersion": "21.0.3-IF008",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.4",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.5": {
-      "appVersion": "21.0.3-IF009"
+      "appVersion": "21.0.3-IF009",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.5",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.5.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.6": {
-      "appVersion": "21.0.3-IF010"
+      "appVersion": "21.0.3-IF010",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.6",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.6.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.7": {
-      "appVersion": "21.0.3-IF011"
+      "appVersion": "21.0.3-IF011",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.7",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.7.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.8": {
-      "appVersion": "21.0.3-IF012"
+      "appVersion": "21.0.3-IF012",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.8",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.8.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.9": {
-      "appVersion": "21.0.3-IF013"
+      "appVersion": "21.0.3-IF013",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.9",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.9.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.10": {
-      "appVersion": "21.0.3-IF014"
+      "appVersion": "21.0.3-IF014",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.10",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.10.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.11": {
-      "appVersion": "21.0.3-IF015"
+      "appVersion": "21.0.3-IF015",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.11",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.11.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.12": {
-      "appVersion": "21.0.3-IF016"
+      "appVersion": "21.0.3-IF016",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.12",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.12.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.13": {
-      "appVersion": "21.0.3-IF017"
+      "appVersion": "21.0.3-IF017",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.13",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.13.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.14": {
-      "appVersion": "21.0.3-IF018"
+      "appVersion": "21.0.3-IF018",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.14",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.14.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.15": {
-      "appVersion": "21.0.3-IF018"
+      "appVersion": "21.0.3-IF018",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.15",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.15.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.16": {
-      "appVersion": "21.0.3-IF019"
+      "appVersion": "21.0.3-IF019",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.16",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.16.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.17": {
-      "appVersion": "21.0.3-IF020"
+      "appVersion": "21.0.3-IF020",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.17",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.17.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.18": {
-      "appVersion": "21.0.3-IF021"
+      "appVersion": "21.0.3-IF021",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.18",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.18.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.19": {
-      "appVersion": "21.0.3-IF022"
+      "appVersion": "21.0.3-IF022",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.19",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.19.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.20": {
-      "appVersion": "21.0.3-IF023"
+      "appVersion": "21.0.3-IF023",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.20",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.20.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.21": {
-      "appVersion": "21.0.3-IF024"
+      "appVersion": "21.0.3-IF024",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.21",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.21.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.22": {
-      "appVersion": "21.0.3-IF025"
+      "appVersion": "21.0.3-IF025",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.22",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.22.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.2.23": {
-      "appVersion": "21.0.3-IF026"
+      "appVersion": "21.0.3-IF026",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.2.23",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.2.23.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.0": {
-      "appVersion": "22.0.1"
+      "appVersion": "22.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.0",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.1": {
-      "appVersion": "22.0.1-IF001"
+      "appVersion": "22.0.1-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.1",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.2": {
-      "appVersion": "22.0.1-IF002"
+      "appVersion": "22.0.1-IF002",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.2",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.3": {
-      "appVersion": "22.0.1-IF003"
+      "appVersion": "22.0.1-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.3",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.4": {
-      "appVersion": "22.0.1-IF004"
+      "appVersion": "22.0.1-IF004",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.4",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.5": {
-      "appVersion": "22.0.1-IF005"
+      "appVersion": "22.0.1-IF005",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.5",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.5.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.6": {
-      "appVersion": "22.0.1-IF006"
+      "appVersion": "22.0.1-IF006",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.6",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.6.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.3.7": {
-      "appVersion": "22.0.1-IF006"
+      "appVersion": "22.0.1-IF006",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.3.7",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.3.7.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.0": {
-      "appVersion": "22.0.2"
+      "appVersion": "22.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.0",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.1": {
-      "appVersion": "22.0.2"
+      "appVersion": "22.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.1",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.2": {
-      "appVersion": "22.0.2-IF001"
+      "appVersion": "22.0.2-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.2",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.2.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.3": {
-      "appVersion": "22.0.2-IF003"
+      "appVersion": "22.0.2-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.3",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.3.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.4": {
-      "appVersion": "22.0.2-IF003"
+      "appVersion": "22.0.2-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.4",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.5": {
-      "appVersion": "22.0.2-IF004"
+      "appVersion": "22.0.2-IF004",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.5",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.5.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.6": {
-      "appVersion": "22.0.2-IF005"
+      "appVersion": "22.0.2-IF005",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.6",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.6.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.7": {
-      "appVersion": "22.0.2-IF006"
+      "appVersion": "22.0.2-IF006",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.7",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.7.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.4.8": {
-      "appVersion": "22.0.2-IF006"
+      "appVersion": "22.0.2-IF006",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.4.8",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.4.8.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.5.0": {
-      "appVersion": "23.0.1"
+      "appVersion": "23.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.5.0",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.5.1": {
-      "appVersion": "23.0.1-IF001"
+      "appVersion": "23.0.1-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.5.1",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.5.2": {
-      "appVersion": "23.0.1-IF002"
+      "appVersion": "23.0.1-IF002",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.5.2",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.5.2.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.5.3": {
-      "appVersion": "23.0.1-IF003"
+      "appVersion": "23.0.1-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-cs-bawautomation",
+        "export CASE_VERSION=2.5.3",
+        "export CASE_ARCHIVE=ibm-cs-bawautomation-2.5.3.tgz",
+        "export CASE_INVENTORY_SETUP=cp4aOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys baw operator",
+      "displayName": "BAW CASE"
     },
     "2.5.4": {
       "appVersion": "23.0.1-IF004",

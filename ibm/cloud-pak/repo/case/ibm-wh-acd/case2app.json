@@ -4,31 +4,103 @@
   "latestVersion": "2.0.202206131755",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.202102261515"
+      "appVersion": "1.0.202102261515",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-wh-acd-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.0": {
-      "appVersion": "2.0.202102261515"
+      "appVersion": "2.0.202102261515",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.0",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202109100417": {
-      "appVersion": "2.0.202109100417"
+      "appVersion": "2.0.202109100417",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202109100417",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202109100417.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202110010226": {
-      "appVersion": "2.0.202110010226"
+      "appVersion": "2.0.202110010226",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202110010226",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202110010226.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202110211739": {
-      "appVersion": "2.0.202110211739"
+      "appVersion": "2.0.202110211739",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202110211739",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202110211739.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202111232118": {
-      "appVersion": "2.0.202111232118"
+      "appVersion": "2.0.202111232118",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202111232118",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202111232118.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202201172016": {
-      "appVersion": "2.0.202201172016"
+      "appVersion": "2.0.202201172016",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202201172016",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202201172016.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202202212213": {
-      "appVersion": "2.0.202202212213"
+      "appVersion": "2.0.202202212213",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202202212213",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202202212213.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202204121438": {
-      "appVersion": "2.0.202204121438"
+      "appVersion": "2.0.202204121438",
+      "airGap": [
+        "export CASE_NAME=ibm-wh-acd",
+        "export CASE_VERSION=2.0.202204121438",
+        "export CASE_ARCHIVE=ibm-wh-acd-2.0.202204121438.tgz",
+        "export CASE_INVENTORY_SETUP=clinicalDataAnnotatorOperatorSetup"
+      ],
+      "description": "IBM Annotator for Clinical Data Container Edition CASE that deploys an Operator",
+      "displayName": "IBM Annotator for Clinical Data Operator"
     },
     "2.0.202206131755": {
       "appVersion": "2.0.202206131755",

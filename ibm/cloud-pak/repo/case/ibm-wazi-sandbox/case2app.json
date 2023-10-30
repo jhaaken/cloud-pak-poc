@@ -4,16 +4,44 @@
   "latestVersion": "1.3.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wazi-sandbox",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-wazi-sandbox-1.0.0.tgz"
+      ],
+      "description": "The IBM Wazi Sandbox is a platform for z/OS® application development and testing on x86 Red Hat® OpenShift® or Kubernetes clusters without Z mainframe hardware.",
+      "displayName": "IBM Wazi for Red Hat CodeReady Workspaces Sandbox"
     },
     "1.1.0": {
-      "appVersion": "1.1.0"
+      "appVersion": "1.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wazi-sandbox",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-wazi-sandbox-1.1.0.tgz"
+      ],
+      "description": "The IBM Wazi Sandbox is a platform for z/OS® application development and testing on x86 Red Hat® OpenShift® or Kubernetes clusters without Z mainframe hardware.",
+      "displayName": "IBM Wazi for Red Hat CodeReady Workspaces Sandbox"
     },
     "1.1.1": {
-      "appVersion": "1.2.0"
+      "appVersion": "1.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wazi-sandbox",
+        "export CASE_VERSION=1.1.1",
+        "export CASE_ARCHIVE=ibm-wazi-sandbox-1.1.1.tgz"
+      ],
+      "description": "The IBM Wazi Sandbox is a platform for z/OS® application development and testing on x86 Red Hat® OpenShift® or Kubernetes clusters without Z mainframe hardware.",
+      "displayName": "IBM Wazi for Red Hat CodeReady Workspaces Sandbox"
     },
     "1.2.0": {
-      "appVersion": "1.2.0"
+      "appVersion": "1.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wazi-sandbox",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-wazi-sandbox-1.2.0.tgz"
+      ],
+      "description": "The IBM Wazi Sandbox is a platform for z/OS® application development and testing on x86 Red Hat® OpenShift® or Kubernetes clusters without Z mainframe hardware.",
+      "displayName": "IBM Wazi for Red Hat CodeReady Workspaces Sandbox"
     },
     "1.3.0": {
       "appVersion": "1.3.0",

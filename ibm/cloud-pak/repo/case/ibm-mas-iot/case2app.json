@@ -1,133 +1,469 @@
 {
   "apiVersion": "v1",
-  "latestAppVersion": "8.8.0",
-  "latestVersion": "8.8.0",
+  "latestAppVersion": "8.8.1",
+  "latestVersion": "8.8.1",
   "versions": {
     "8.0.0": {
-      "appVersion": "8.0.0"
+      "appVersion": "8.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.0.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.0.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.0.1": {
-      "appVersion": "8.0.1"
+      "appVersion": "8.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.0.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.0.1.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.1.0": {
-      "appVersion": "8.1.0"
+      "appVersion": "8.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.1.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.2.0": {
-      "appVersion": "8.2.0"
+      "appVersion": "8.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.2.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.2.1": {
-      "appVersion": "8.2.1"
+      "appVersion": "8.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.2.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.2.1.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.3.0": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.3.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.3.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.3.1": {
-      "appVersion": "8.3.1"
+      "appVersion": "8.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.3.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.3.1.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.3.2": {
-      "appVersion": "8.3.2"
+      "appVersion": "8.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.3.2",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.3.2.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.3.3": {
-      "appVersion": "8.3.3"
+      "appVersion": "8.3.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.3.3",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.3.3.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.3.4": {
-      "appVersion": "8.3.4"
+      "appVersion": "8.3.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.3.4",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.3.4.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.3.5": {
-      "appVersion": "8.3.5"
+      "appVersion": "8.3.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.3.5",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.3.5.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.0": {
-      "appVersion": "8.4.0"
+      "appVersion": "8.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.1": {
-      "appVersion": "8.4.1"
+      "appVersion": "8.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.2": {
-      "appVersion": "8.4.2"
+      "appVersion": "8.4.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.2",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.3": {
-      "appVersion": "8.4.3"
+      "appVersion": "8.4.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.3",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.4": {
-      "appVersion": "8.4.4"
+      "appVersion": "8.4.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.4",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.5": {
-      "appVersion": "8.4.5"
+      "appVersion": "8.4.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.5",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.4.6": {
-      "appVersion": "8.4.6"
+      "appVersion": "8.4.6",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.4.6",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.4.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.0": {
-      "appVersion": "8.5.0"
+      "appVersion": "8.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.1": {
-      "appVersion": "8.5.1"
+      "appVersion": "8.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.2": {
-      "appVersion": "8.5.2"
+      "appVersion": "8.5.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.2",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.3": {
-      "appVersion": "8.5.3"
+      "appVersion": "8.5.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.3",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.4": {
-      "appVersion": "8.5.4"
+      "appVersion": "8.5.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.4",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.5": {
-      "appVersion": "8.5.5"
+      "appVersion": "8.5.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.5",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.6": {
-      "appVersion": "8.5.6"
+      "appVersion": "8.5.6",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.6",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.7": {
-      "appVersion": "8.5.7"
+      "appVersion": "8.5.7",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.7",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.5.8": {
-      "appVersion": "8.5.8"
+      "appVersion": "8.5.8",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.5.8",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.5.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.0": {
-      "appVersion": "8.6.0"
+      "appVersion": "8.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.1": {
-      "appVersion": "8.6.1"
+      "appVersion": "8.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.2": {
-      "appVersion": "8.6.2"
+      "appVersion": "8.6.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.2",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.3": {
-      "appVersion": "8.6.3"
+      "appVersion": "8.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.3",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.4": {
-      "appVersion": "8.6.4"
+      "appVersion": "8.6.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.4",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.5": {
-      "appVersion": "8.6.5"
+      "appVersion": "8.6.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.5",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.6": {
-      "appVersion": "8.6.6"
+      "appVersion": "8.6.6",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.6",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.7": {
-      "appVersion": "8.6.7"
+      "appVersion": "8.6.7",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.7",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.8": {
-      "appVersion": "8.6.8"
+      "appVersion": "8.6.8",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.8",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.6.9": {
-      "appVersion": "8.6.9"
+      "appVersion": "8.6.9",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.6.9",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.6.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.7.0": {
-      "appVersion": "8.7.0"
+      "appVersion": "8.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.7.0",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.7.1": {
-      "appVersion": "8.7.1"
+      "appVersion": "8.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.7.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.7.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.7.2": {
-      "appVersion": "8.7.2"
+      "appVersion": "8.7.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.7.2",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.7.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.7.3": {
-      "appVersion": "8.7.3"
+      "appVersion": "8.7.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.7.3",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.7.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.7.4": {
-      "appVersion": "8.7.4"
+      "appVersion": "8.7.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.7.4",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.7.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
+    },
+    "8.7.5": {
+      "appVersion": "8.7.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.7.5",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.7.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
     },
     "8.8.0": {
       "appVersion": "8.8.0",
@@ -135,6 +471,17 @@
         "export CASE_NAME=ibm-mas-iot",
         "export CASE_VERSION=8.8.0",
         "export CASE_ARCHIVE=ibm-mas-iot-8.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",
+      "displayName": "Maximo Application Suite - IoT"
+    },
+    "8.8.1": {
+      "appVersion": "8.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-iot",
+        "export CASE_VERSION=8.8.1",
+        "export CASE_ARCHIVE=ibm-mas-iot-8.8.1.tgz",
         "export CASE_INVENTORY_SETUP=ibmMasIotSetup"
       ],
       "description": "Maximo Application Suite is a suite of applications from IBM.  IoT (Internet of Things) is an application in Maximo Application Suite that provides device connectivity for enterprise AI applications",

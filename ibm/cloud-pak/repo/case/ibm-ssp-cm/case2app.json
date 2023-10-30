@@ -4,40 +4,136 @@
   "latestVersion": "1.3.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "6.0.2.0.01"
+      "appVersion": "6.0.2.0.01",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.0.1": {
-      "appVersion": "6.0.2.0.02"
+      "appVersion": "6.0.2.0.02",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.0.2": {
-      "appVersion": "6.0.2.0.03"
+      "appVersion": "6.0.2.0.03",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.0": {
-      "appVersion": "6.0.3.0"
+      "appVersion": "6.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.1": {
-      "appVersion": "6.0.3.0.01"
+      "appVersion": "6.0.3.0.01",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.2": {
-      "appVersion": "6.0.3.0.01plus"
+      "appVersion": "6.0.3.0.01plus",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.3": {
-      "appVersion": "6.0.3.0.02"
+      "appVersion": "6.0.3.0.02",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.3",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.4": {
-      "appVersion": "6.0.3.0.02plus"
+      "appVersion": "6.0.3.0.02plus",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.4",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.5": {
-      "appVersion": "6.0.3.0.04"
+      "appVersion": "6.0.3.0.04",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.5",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.6": {
-      "appVersion": "6.0.3.0.05"
+      "appVersion": "6.0.3.0.05",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.6",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.7": {
-      "appVersion": "6.0.3.0.06"
+      "appVersion": "6.0.3.0.06",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.7",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.2.8": {
-      "appVersion": "6.0.3.0.07"
+      "appVersion": "6.0.3.0.07",
+      "airGap": [
+        "export CASE_NAME=ibm-ssp-cm",
+        "export CASE_VERSION=1.2.8",
+        "export CASE_ARCHIVE=ibm-ssp-cm-1.2.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSspCm"
+      ],
+      "description": "A CASE for Sterling Secure Proxy Configuration Manager on a containerized platform",
+      "displayName": "IBM Sterling Secure Proxy Configuration Manager CASE"
     },
     "1.3.0": {
       "appVersion": "6.1.0.0",

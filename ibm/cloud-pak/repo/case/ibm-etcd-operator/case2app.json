@@ -4,67 +4,235 @@
   "latestVersion": "2.0.30",
   "versions": {
     "2.0.1": {
-      "appVersion": "3.3.25"
+      "appVersion": "3.3.25",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.1",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.2": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.2",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.3": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.3",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.4": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.4",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.7": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.7",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.8": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.8",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.9": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.9",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.12": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.12",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.14": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.14",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.15": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.15",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.16": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.16",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.17": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.17",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.17.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.18": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.18",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.18.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.19": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.19",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.19.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.20": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.20",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.20.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.21": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.21",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.21.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.22": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.22",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.22.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.23": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.23",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.23.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.24": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.24",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.24.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.25": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.25",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.25.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.28": {
-      "appVersion": "3.4.16"
+      "appVersion": "3.4.16",
+      "airGap": [
+        "export CASE_NAME=ibm-etcd-operator",
+        "export CASE_VERSION=2.0.28",
+        "export CASE_ARCHIVE=ibm-etcd-operator-2.0.28.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEtcdOperatorSetup"
+      ],
+      "description": "IBM cloudpak open operator for etcd",
+      "displayName": "IBM operator for etcd"
     },
     "2.0.30": {
       "appVersion": "3.4.16",

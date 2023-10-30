@@ -4,76 +4,268 @@
   "latestVersion": "1.3.15",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.0.1": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.0.2": {
-      "appVersion": "1.0.2"
+      "appVersion": "1.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.0.3": {
-      "appVersion": "1.0.2"
+      "appVersion": "1.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.1.0": {
-      "appVersion": "1.1.0"
+      "appVersion": "1.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.2.0": {
-      "appVersion": "1.2.0"
+      "appVersion": "1.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.2.1": {
-      "appVersion": "1.2.1"
+      "appVersion": "1.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.0": {
-      "appVersion": "1.3.0"
+      "appVersion": "1.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.1": {
-      "appVersion": "1.3.1"
+      "appVersion": "1.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.2": {
-      "appVersion": "1.3.2"
+      "appVersion": "1.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.3": {
-      "appVersion": "1.3.3"
+      "appVersion": "1.3.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.3",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.4": {
-      "appVersion": "1.3.4"
+      "appVersion": "1.3.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.4",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.4.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.5": {
-      "appVersion": "1.3.5"
+      "appVersion": "1.3.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.5",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.5.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.6": {
-      "appVersion": "1.3.6"
+      "appVersion": "1.3.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.6",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.6.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.7": {
-      "appVersion": "1.3.7"
+      "appVersion": "1.3.7",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.7",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.7.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.8": {
-      "appVersion": "1.3.8"
+      "appVersion": "1.3.8",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.8",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.8.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.9": {
-      "appVersion": "1.3.9"
+      "appVersion": "1.3.9",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.9",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.9.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.10": {
-      "appVersion": "1.3.10"
+      "appVersion": "1.3.10",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.10",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.10.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.11": {
-      "appVersion": "1.3.11"
+      "appVersion": "1.3.11",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.11",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.11.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.12": {
-      "appVersion": "1.3.12"
+      "appVersion": "1.3.12",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.12",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.12.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.12+20221201": {
-      "appVersion": "1.3.12"
+      "appVersion": "1.3.12",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.12+20221201",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.12+20221201.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.13": {
-      "appVersion": "1.3.13"
+      "appVersion": "1.3.13",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.13",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.13.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.13+20230413.000000": {
-      "appVersion": "1.3.13"
+      "appVersion": "1.3.13",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.13+20230413.000000",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.13+20230413.000000.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.14": {
-      "appVersion": "1.3.14"
+      "appVersion": "1.3.14",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-automation-foundation",
+        "export CASE_VERSION=1.3.14",
+        "export CASE_ARCHIVE=ibm-cp-automation-foundation-1.3.14.tgz",
+        "export CASE_INVENTORY_SETUP=iafOperatorSetup"
+      ],
+      "description": "IBM Automation Foundation",
+      "displayName": "IBM Automation Foundation"
     },
     "1.3.15": {
       "appVersion": "1.3.15",

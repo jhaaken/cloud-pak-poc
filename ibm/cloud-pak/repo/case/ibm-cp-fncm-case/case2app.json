@@ -4,40 +4,134 @@
   "latestVersion": "1.7.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.0.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.1.0": {
-      "appVersion": "5.5.5"
+      "appVersion": "5.5.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.1.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.2.0": {
-      "appVersion": "5.5.6"
+      "appVersion": "5.5.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.3.0": {
-      "appVersion": "5.5.7"
+      "appVersion": "5.5.7",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.4.0": {
-      "appVersion": "5.5.8"
+      "appVersion": "5.5.8",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.5.0": {
-      "appVersion": "5.5.9"
+      "appVersion": "5.5.9",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.5.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.5.1": {
-      "appVersion": "5.5.9-IF001"
+      "appVersion": "5.5.9-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.5.1",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.6.0": {
-      "appVersion": "5.5.10"
+      "appVersion": "5.5.10",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.6.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.6.1": {
-      "appVersion": "5.5.10-IF001"
+      "appVersion": "5.5.10-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.6.1",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.6.2": {
-      "appVersion": "5.5.10-IF001"
+      "appVersion": "5.5.10-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.6.2",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.6.3": {
-      "appVersion": "5.5.10-IF002"
+      "appVersion": "5.5.10-IF002",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.6.3",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.6.3.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.7.0": {
-      "appVersion": "5.5.11"
+      "appVersion": "5.5.11",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-fncm-case",
+        "export CASE_VERSION=1.7.0",
+        "export CASE_ARCHIVE=ibm-cp-fncm-case-1.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=fncmOperatorSetup"
+      ],
+      "description": "A CASE for an operator which deploys fncm",
+      "displayName": "FNCM CASE"
     },
     "1.7.1": {
       "appVersion": "5.5.11-IF001",

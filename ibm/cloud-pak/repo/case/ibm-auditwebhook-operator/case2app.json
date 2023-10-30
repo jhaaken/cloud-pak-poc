@@ -4,40 +4,136 @@
   "latestVersion": "1.1.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.1": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.4": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.9": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.9",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.10": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.10",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.10.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.15": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.15",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.15.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.18": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.18",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.18.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.19": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.19",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.19.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.20": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.20",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.20.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.22": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.22",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.22.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.23": {
-      "appVersion": "1.0.1"
+      "appVersion": "1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.23",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.23.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.0.24": {
-      "appVersion": "1.0.3"
+      "appVersion": "1.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-auditwebhook-operator",
+        "export CASE_VERSION=1.0.24",
+        "export CASE_ARCHIVE=ibm-auditwebhook-operator-1.0.24.tgz",
+        "export CASE_INVENTORY_SETUP=cp4dAuditWebhookOperatorSetup"
+      ],
+      "description": "IBM Cloudpak Open Operator for Audit Webhook",
+      "displayName": "ibm operator for audit webhook"
     },
     "1.1.0": {
       "appVersion": "1.0.1",

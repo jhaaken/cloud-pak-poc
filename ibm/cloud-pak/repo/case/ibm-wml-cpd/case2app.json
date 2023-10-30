@@ -4,67 +4,235 @@
   "latestVersion": "7.0.0",
   "versions": {
     "4.0.0": {
-      "appVersion": "4.0.0"
+      "appVersion": "4.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.1": {
-      "appVersion": "4.0.0"
+      "appVersion": "4.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.1",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.2": {
-      "appVersion": "4.0.1"
+      "appVersion": "4.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.2",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.3": {
-      "appVersion": "4.0.2"
+      "appVersion": "4.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.3",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.4": {
-      "appVersion": "4.0.3"
+      "appVersion": "4.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.4",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.5": {
-      "appVersion": "4.0.4"
+      "appVersion": "4.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.5",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.6": {
-      "appVersion": "4.0.5"
+      "appVersion": "4.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.6",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": ""
     },
     "4.0.7": {
-      "appVersion": "4.0.6"
+      "appVersion": "4.0.6",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.7",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.0.8": {
-      "appVersion": "4.0.7"
+      "appVersion": "4.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.8",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.0.9": {
-      "appVersion": "4.0.8"
+      "appVersion": "4.0.8",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.9",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.0.10": {
-      "appVersion": "4.0.9"
+      "appVersion": "4.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.10",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.10.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.0.10+20220725.110800.3220": {
-      "appVersion": "4.0.9"
+      "appVersion": "4.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.0.10+20220725.110800.3220",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.0.10+20220725.110800.3220.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.5.0": {
-      "appVersion": "4.5.0"
+      "appVersion": "4.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.5.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.6.0": {
-      "appVersion": "4.5.1"
+      "appVersion": "4.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.6.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.7.0": {
-      "appVersion": "4.5.2"
+      "appVersion": "4.5.2",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.7.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "4.8.0": {
-      "appVersion": "4.5.3"
+      "appVersion": "4.5.3",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=4.8.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-4.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "6.0.0": {
-      "appVersion": "4.6.0"
+      "appVersion": "4.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=6.0.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-6.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "6.1.0": {
-      "appVersion": "4.6.1"
+      "appVersion": "4.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=6.1.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-6.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "6.3.0": {
-      "appVersion": "4.6.3"
+      "appVersion": "4.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=6.3.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-6.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "6.4.0": {
-      "appVersion": "4.6.4"
+      "appVersion": "4.6.4",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=6.4.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-6.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "6.5.0": {
-      "appVersion": "4.6.5"
+      "appVersion": "4.6.5",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-cpd",
+        "export CASE_VERSION=6.5.0",
+        "export CASE_ARCHIVE=ibm-wml-cpd-6.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=wmlOperatorSetup"
+      ],
+      "description": "IBM Cloud Pak for Data Watson Machine Learning",
+      "displayName": "IBM Watson Machine Learning"
     },
     "7.0.0": {
       "appVersion": "4.7.0",

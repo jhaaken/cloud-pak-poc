@@ -4,13 +4,34 @@
   "latestVersion": "1.0.3",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp4d-ibm-minio-operator",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cp4d-ibm-minio-operator-1.0.0.tgz"
+      ],
+      "description": "IBM cloudpak open operator for minio",
+      "displayName": "IBM operator for rabbitmq"
     },
     "1.0.1": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp4d-ibm-minio-operator",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-cp4d-ibm-minio-operator-1.0.1.tgz"
+      ],
+      "description": "IBM cloudpak open operator for minio",
+      "displayName": "IBM operator for rabbitmq"
     },
     "1.0.2": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp4d-ibm-minio-operator",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-cp4d-ibm-minio-operator-1.0.2.tgz"
+      ],
+      "description": "IBM cloudpak open operator for minio",
+      "displayName": "IBM operator for rabbitmq"
     },
     "1.0.3": {
       "appVersion": "1.0.0",

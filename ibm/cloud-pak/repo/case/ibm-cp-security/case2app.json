@@ -4,136 +4,504 @@
   "latestVersion": "1.0.42",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.1.0"
+      "appVersion": "1.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.0.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.1": {
-      "appVersion": "1.1.0.1"
+      "appVersion": "1.1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.1.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.2": {
-      "appVersion": "1.1.0.1"
+      "appVersion": "1.1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.2.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.3": {
-      "appVersion": "1.1.0.1"
+      "appVersion": "1.1.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.3.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.4": {
-      "appVersion": "1.1.0.2"
+      "appVersion": "1.1.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.4.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.5": {
-      "appVersion": "1.2.0.0"
+      "appVersion": "1.2.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.5.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.6": {
-      "appVersion": "1.3.0.0"
+      "appVersion": "1.3.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.6",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.6.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.7": {
-      "appVersion": "1.3.0.1"
+      "appVersion": "1.3.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.7",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.7.tgz"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.8": {
-      "appVersion": "1.4.0-0"
+      "appVersion": "1.4.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.8",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.9": {
-      "appVersion": "1.4.0-0"
+      "appVersion": "1.4.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.9",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "IBM Cloud Pak for Security",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.10": {
-      "appVersion": "1.5.0-0"
+      "appVersion": "1.5.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.10",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.11": {
-      "appVersion": "1.5.0-0"
+      "appVersion": "1.5.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.11",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.12": {
-      "appVersion": "1.5.0-0"
+      "appVersion": "1.5.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.12",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.13": {
-      "appVersion": "1.5.0-1"
+      "appVersion": "1.5.0-1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.13",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.14": {
-      "appVersion": "1.6.0-0"
+      "appVersion": "1.6.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.14",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.15": {
-      "appVersion": "1.6.0-1"
+      "appVersion": "1.6.0-1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.15",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.16": {
-      "appVersion": "1.7.0-0"
+      "appVersion": "1.7.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.16",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.17": {
-      "appVersion": "1.7.1-0"
+      "appVersion": "1.7.1-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.17",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.17.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.18": {
-      "appVersion": "1.7.2-0"
+      "appVersion": "1.7.2-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.18",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.18.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.19": {
-      "appVersion": "1.7.2-0"
+      "appVersion": "1.7.2-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.19",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.19.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup",
+        "export CASE_INVENTORY_SETUP=installProduct",
+        "export CASE_INVENTORY_SETUP=redisOperator"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.20": {
-      "appVersion": "1.8.0-0"
+      "appVersion": "1.8.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.20",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.20.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.21": {
-      "appVersion": "1.8.1-0"
+      "appVersion": "1.8.1-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.21",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.21.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.22": {
-      "appVersion": "1.9.0-0"
+      "appVersion": "1.9.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.22",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.22.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.23": {
-      "appVersion": "1.9.1-0"
+      "appVersion": "1.9.1-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.23",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.23.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.24": {
-      "appVersion": "1.9.1-0"
+      "appVersion": "1.9.1-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.24",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.24.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.24+20221020.000000": {
-      "appVersion": "1.9.2-0"
+      "appVersion": "1.9.2-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.24+20221020.000000",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.24+20221020.000000.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.24+20221129.000000": {
-      "appVersion": "1.9.3-0"
+      "appVersion": "1.9.3-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.24+20221129.000000",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.24+20221129.000000.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.25": {
-      "appVersion": "1.10.0-0"
+      "appVersion": "1.10.0-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.25",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.25.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.26": {
-      "appVersion": "1.10.1-0"
+      "appVersion": "1.10.1-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.26",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.26.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.27": {
-      "appVersion": "1.10.2-0"
+      "appVersion": "1.10.2-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.27",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.27.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.28": {
-      "appVersion": "1.10.3-0"
+      "appVersion": "1.10.3-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.28",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.28.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.29": {
-      "appVersion": "1.10.4-0"
+      "appVersion": "1.10.4-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.29",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.29.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.30": {
-      "appVersion": "1.10.5-0"
+      "appVersion": "1.10.5-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.30",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.30.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.31": {
-      "appVersion": "1.10.6-0"
+      "appVersion": "1.10.6-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.31",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.31.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.32": {
-      "appVersion": "1.10.7-0"
+      "appVersion": "1.10.7-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.32",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.32.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.33": {
-      "appVersion": "1.10.8-0"
+      "appVersion": "1.10.8-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.33",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.33.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.34": {
-      "appVersion": "1.10.9-0"
+      "appVersion": "1.10.9-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.34",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.34.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.35": {
-      "appVersion": "1.10.10-0"
+      "appVersion": "1.10.10-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.35",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.35.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.36": {
-      "appVersion": "1.10.11-0"
+      "appVersion": "1.10.11-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.36",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.36.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.37": {
-      "appVersion": "1.10.12-0"
+      "appVersion": "1.10.12-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.37",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.37.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.38": {
-      "appVersion": "1.10.13-0"
+      "appVersion": "1.10.13-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.38",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.38.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.39": {
-      "appVersion": "1.10.14-0"
+      "appVersion": "1.10.14-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.39",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.39.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.40": {
-      "appVersion": "1.10.15-0"
+      "appVersion": "1.10.15-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.40",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.40.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.41": {
-      "appVersion": "1.10.16-0"
+      "appVersion": "1.10.16-0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-security",
+        "export CASE_VERSION=1.0.41",
+        "export CASE_ARCHIVE=ibm-cp-security-1.0.41.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
+      ],
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
+      "displayName": "Cloud Pak for Security"
     },
     "1.0.42": {
       "appVersion": "1.10.17-0",
@@ -143,7 +511,7 @@
         "export CASE_ARCHIVE=ibm-cp-security-1.0.42.tgz",
         "export CASE_INVENTORY_SETUP=ibmSecurityOperatorSetup"
       ],
-      "description": "Integrate existing security tools to gain deeper insights into threats and risks, orchestrate actions and automate responses",
+      "description": "Integrate existing security tools to gain deeper insights into threats and risks  orchestrate actions and automate responses",
       "displayName": "Cloud Pak for Security"
     }
   }

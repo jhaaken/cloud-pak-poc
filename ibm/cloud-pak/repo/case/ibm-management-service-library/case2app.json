@@ -4,28 +4,84 @@
   "latestVersion": "2.3.6",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-management-service-library-1.0.0.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.1.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.1.0",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.1.0.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.2.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.2.0",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.2.0.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.2.1": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.2.1",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.2.1.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.3.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.3.0",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.3.0.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.3.1": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.3.1",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.3.1.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.3.2": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.3.2",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.3.2.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.3.5": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-service-library",
+        "export CASE_VERSION=2.3.5",
+        "export CASE_ARCHIVE=ibm-management-service-library-2.3.5.tgz"
+      ],
+      "description": "Case Bundle for Service Library",
+      "displayName": "Service Library Case Bundle"
     },
     "2.3.6": {
       "appVersion": "1.0.0",

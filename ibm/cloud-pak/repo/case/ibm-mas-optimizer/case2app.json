@@ -4,37 +4,125 @@
   "latestVersion": "8.5.0",
   "versions": {
     "8.2.0": {
-      "appVersion": "8.2.0"
+      "appVersion": "8.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.2.1": {
-      "appVersion": "8.2.1"
+      "appVersion": "8.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.2.1",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.2.2": {
-      "appVersion": "8.2.2"
+      "appVersion": "8.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.2.2",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.2.3": {
-      "appVersion": "8.2.3"
+      "appVersion": "8.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.2.3",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.2.4": {
-      "appVersion": "8.2.4"
+      "appVersion": "8.2.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.2.4",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.3.0": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.3.0",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.3.1": {
-      "appVersion": "8.3.1"
+      "appVersion": "8.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.3.1",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.3.2": {
-      "appVersion": "8.3.2"
+      "appVersion": "8.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.3.2",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.3.3": {
-      "appVersion": "8.3.3"
+      "appVersion": "8.3.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.3.3",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.4.0": {
-      "appVersion": "8.4.0"
+      "appVersion": "8.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.4.0",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.4.1": {
-      "appVersion": "8.4.1"
+      "appVersion": "8.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-optimizer",
+        "export CASE_VERSION=8.4.1",
+        "export CASE_ARCHIVE=ibm-mas-optimizer-8.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasOptimizerSetup"
+      ],
+      "description": "IBM Maximo Optimizer",
+      "displayName": "IBM Maximo Optimizer"
     },
     "8.5.0": {
       "appVersion": "8.5.0",

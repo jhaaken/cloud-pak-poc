@@ -4,46 +4,158 @@
   "latestVersion": "5.2.0",
   "versions": {
     "4.0.2": {
-      "appVersion": "4.0.2"
+      "appVersion": "4.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.0.2",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.0.3": {
-      "appVersion": "4.0.3"
+      "appVersion": "4.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.0.3",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.0.4": {
-      "appVersion": "4.0.4"
+      "appVersion": "4.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.0.4",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.0.5": {
-      "appVersion": "4.0.5"
+      "appVersion": "4.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.0.5",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.0.7": {
-      "appVersion": "4.0.7"
+      "appVersion": "4.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.0.7",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.0.9": {
-      "appVersion": "4.0.9"
+      "appVersion": "4.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.0.9",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.5.1": {
-      "appVersion": "4.5.1"
+      "appVersion": "4.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.5.1",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.5.3": {
-      "appVersion": "4.5.3"
+      "appVersion": "4.5.3",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.5.3",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.5.3.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.6.0": {
-      "appVersion": "4.6.0"
+      "appVersion": "4.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.6.0",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.7.0": {
-      "appVersion": "4.7.0"
+      "appVersion": "4.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.7.0",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.8.0": {
-      "appVersion": "4.8.0"
+      "appVersion": "4.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.8.0",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "4.9.0": {
-      "appVersion": "4.9.0"
+      "appVersion": "4.9.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=4.9.0",
+        "export CASE_ARCHIVE=ibm-watson-ks-4.9.0.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "5.0.0": {
-      "appVersion": "5.0.0"
+      "appVersion": "5.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=5.0.0",
+        "export CASE_ARCHIVE=ibm-watson-ks-5.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "5.1.0": {
-      "appVersion": "5.1.0"
+      "appVersion": "5.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-ks",
+        "export CASE_VERSION=5.1.0",
+        "export CASE_ARCHIVE=ibm-watson-ks-5.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=wksOperatorSetup"
+      ],
+      "description": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data",
+      "displayName": "IBM Watson Knowledge Studio Cartridge for IBM Cloud Pak for Data"
     },
     "5.2.0": {
       "appVersion": "5.2.0",
