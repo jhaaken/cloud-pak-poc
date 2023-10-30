@@ -4,10 +4,24 @@
   "latestVersion": "1.0.2",
   "versions": {
     "1.0.0": {
-      "appVersion": "7.8.1"
+      "appVersion": "7.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp4d-ibm-cloudpakopen-elasticsearch-operator",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cp4d-ibm-cloudpakopen-elasticsearch-operator-1.0.0.tgz"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.0.1": {
-      "appVersion": "7.8.1"
+      "appVersion": "7.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp4d-ibm-cloudpakopen-elasticsearch-operator",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-cp4d-ibm-cloudpakopen-elasticsearch-operator-1.0.1.tgz"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.0.2": {
       "appVersion": "7.8.1",

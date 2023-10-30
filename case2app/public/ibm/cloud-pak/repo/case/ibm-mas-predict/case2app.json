@@ -4,64 +4,217 @@
   "latestVersion": "8.9.0",
   "versions": {
     "8.0.0": {
-      "appVersion": "8.0.0"
+      "appVersion": "8.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.0.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.0.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.1.0": {
-      "appVersion": "8.1.0"
+      "appVersion": "8.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.1.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.1.1": {
-      "appVersion": "8.1.1"
+      "appVersion": "8.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.1.1",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.1.1.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.1.2": {
-      "appVersion": "8.1.2"
+      "appVersion": "8.1.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.1.2",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.1.2.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.1.3": {
-      "appVersion": "8.1.3"
+      "appVersion": "8.1.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.1.3",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.1.3.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.2.0": {
-      "appVersion": "8.2.0"
+      "appVersion": "8.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.2.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.3.0": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.3.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.3.0.tgz"
+      ],
+      "description": "Maximo Application Suite is a suite of applications from IBM.  Predict is an application in Maximo Application Suite that does stuff.",
+      "displayName": "Maximo Application Suite - Predict"
     },
     "8.4.0": {
-      "appVersion": "8.4.0"
+      "appVersion": "8.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.4.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.4.1": {
-      "appVersion": "8.4.1"
+      "appVersion": "8.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.4.1",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.5.0": {
-      "appVersion": "8.5.0"
+      "appVersion": "8.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.5.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.5.1": {
-      "appVersion": "8.5.1"
+      "appVersion": "8.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.5.1",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.6.0": {
-      "appVersion": "8.6.0"
+      "appVersion": "8.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.6.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.6.1": {
-      "appVersion": "8.6.1"
+      "appVersion": "8.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.6.1",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.6.2": {
-      "appVersion": "8.6.2"
+      "appVersion": "8.6.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.6.2",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.7.0": {
-      "appVersion": "8.7.0"
+      "appVersion": "8.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.7.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.7.1": {
-      "appVersion": "8.7.1"
+      "appVersion": "8.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.7.1",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.7.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.7.2": {
-      "appVersion": "8.7.2"
+      "appVersion": "8.7.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.7.2",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.7.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.8.0": {
-      "appVersion": "8.8.0"
+      "appVersion": "8.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.8.0",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.8.1": {
-      "appVersion": "8.8.1"
+      "appVersion": "8.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.8.1",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.8.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.8.2": {
-      "appVersion": "8.8.2"
+      "appVersion": "8.8.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-predict",
+        "export CASE_VERSION=8.8.2",
+        "export CASE_ARCHIVE=ibm-mas-predict-8.8.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasPredictSetup"
+      ],
+      "description": "IBM Maximo Predict",
+      "displayName": "IBM Maximo Predict"
     },
     "8.9.0": {
       "appVersion": "8.9.0",

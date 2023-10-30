@@ -1,160 +1,555 @@
 {
   "apiVersion": "v1",
-  "latestAppVersion": "2.2.19",
-  "latestVersion": "2.2.19",
+  "latestAppVersion": "2.2.20",
+  "latestVersion": "2.2.20",
   "versions": {
     "1.0.0": {
-      "appVersion": "2.0.0"
+      "appVersion": "2.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.0.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.1": {
-      "appVersion": "2.0.1"
+      "appVersion": "2.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.1.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.2": {
-      "appVersion": "2.0.2"
+      "appVersion": "2.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.2.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.3": {
-      "appVersion": "2.0.3"
+      "appVersion": "2.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.3.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.4": {
-      "appVersion": "2.0.4"
+      "appVersion": "2.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.4.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.5": {
-      "appVersion": "2.0.5"
+      "appVersion": "2.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.5.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.6": {
-      "appVersion": "2.0.6"
+      "appVersion": "2.0.6",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.6",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.6.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.7": {
-      "appVersion": "2.0.7"
+      "appVersion": "2.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.7",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.7.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.8": {
-      "appVersion": "2.0.8"
+      "appVersion": "2.0.8",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.8",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.8.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.0.9": {
-      "appVersion": "2.0.9"
+      "appVersion": "2.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.0.9",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.0.9.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.0": {
-      "appVersion": "2.1.0"
+      "appVersion": "2.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.0.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.1": {
-      "appVersion": "2.1.1"
+      "appVersion": "2.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.1",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.1.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.2": {
-      "appVersion": "2.1.2"
+      "appVersion": "2.1.2",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.2",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.2.tgz"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.3": {
-      "appVersion": "2.1.3"
+      "appVersion": "2.1.3",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.3",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.4": {
-      "appVersion": "2.1.4"
+      "appVersion": "2.1.4",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.4",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.5": {
-      "appVersion": "2.1.5"
+      "appVersion": "2.1.5",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.5",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.6": {
-      "appVersion": "2.1.6"
+      "appVersion": "2.1.6",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.6",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.7": {
-      "appVersion": "2.1.7"
+      "appVersion": "2.1.7",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.7",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.8": {
-      "appVersion": "2.1.8"
+      "appVersion": "2.1.8",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.8",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.9": {
-      "appVersion": "2.1.9"
+      "appVersion": "2.1.9",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.9",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.10": {
-      "appVersion": "2.1.10"
+      "appVersion": "2.1.10",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.10",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.11": {
-      "appVersion": "2.1.11"
+      "appVersion": "2.1.11",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.11",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.12": {
-      "appVersion": "2.1.12"
+      "appVersion": "2.1.12",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.12",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.13": {
-      "appVersion": "2.1.13"
+      "appVersion": "2.1.13",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.13",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.14": {
-      "appVersion": "2.1.14"
+      "appVersion": "2.1.14",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.14",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.15": {
-      "appVersion": "2.1.15"
+      "appVersion": "2.1.15",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.15",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.16": {
-      "appVersion": "2.1.16"
+      "appVersion": "2.1.16",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.16",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.17": {
-      "appVersion": "2.1.17"
+      "appVersion": "2.1.17",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.17",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.17.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.18": {
-      "appVersion": "2.1.18"
+      "appVersion": "2.1.18",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.18",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.18.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.19": {
-      "appVersion": "2.1.19"
+      "appVersion": "2.1.19",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.19",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.19.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.20": {
-      "appVersion": "2.1.20"
+      "appVersion": "2.1.20",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.20",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.20.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "1.1.21": {
-      "appVersion": "2.1.21"
+      "appVersion": "2.1.21",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=1.1.21",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-1.1.21.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.0": {
-      "appVersion": "2.2.0"
+      "appVersion": "2.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.0",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.1": {
-      "appVersion": "2.2.1"
+      "appVersion": "2.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.1",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.2": {
-      "appVersion": "2.2.2"
+      "appVersion": "2.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.2",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.3": {
-      "appVersion": "2.2.3"
+      "appVersion": "2.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.3",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.4": {
-      "appVersion": "2.2.4"
+      "appVersion": "2.2.4",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.4",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.5": {
-      "appVersion": "2.2.5"
+      "appVersion": "2.2.5",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.5",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.6": {
-      "appVersion": "2.2.6"
+      "appVersion": "2.2.6",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.6",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.7": {
-      "appVersion": "2.2.7"
+      "appVersion": "2.2.7",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.7",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.8": {
-      "appVersion": "2.2.8"
+      "appVersion": "2.2.8",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.8",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.9": {
-      "appVersion": "2.2.9"
+      "appVersion": "2.2.9",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.9",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.10": {
-      "appVersion": "2.2.10"
+      "appVersion": "2.2.10",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.10",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.11": {
-      "appVersion": "2.2.11"
+      "appVersion": "2.2.11",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.11",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.12": {
-      "appVersion": "2.2.12"
+      "appVersion": "2.2.12",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.12",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.13": {
-      "appVersion": "2.2.13"
+      "appVersion": "2.2.13",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.13",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.14": {
-      "appVersion": "2.2.14"
+      "appVersion": "2.2.14",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.14",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.15": {
-      "appVersion": "2.2.15"
+      "appVersion": "2.2.15",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.15",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.16": {
-      "appVersion": "2.2.16"
+      "appVersion": "2.2.16",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.16",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.17": {
-      "appVersion": "2.2.17"
+      "appVersion": "2.2.17",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.17",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.17.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.18": {
-      "appVersion": "2.2.18"
+      "appVersion": "2.2.18",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.18",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.18.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
     },
     "2.2.19": {
       "appVersion": "2.2.19",
@@ -162,6 +557,17 @@
         "export CASE_NAME=ibm-object-storage-plugin",
         "export CASE_VERSION=2.2.19",
         "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.19.tgz",
+        "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
+      ],
+      "description": "A Helm chart for installing ibmcloud object storage plugin",
+      "displayName": "ibm-object-storage-plugin"
+    },
+    "2.2.20": {
+      "appVersion": "2.2.20",
+      "airGap": [
+        "export CASE_NAME=ibm-object-storage-plugin",
+        "export CASE_VERSION=2.2.20",
+        "export CASE_ARCHIVE=ibm-object-storage-plugin-2.2.20.tgz",
         "export CASE_INVENTORY_SETUP=ibmObjectStoragePlugin"
       ],
       "description": "A Helm chart for installing ibmcloud object storage plugin",

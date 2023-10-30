@@ -4,58 +4,202 @@
   "latestVersion": "1.0.23",
   "versions": {
     "1.0.5": {
-      "appVersion": "3.4"
+      "appVersion": "3.4",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.6": {
-      "appVersion": "1.1.16"
+      "appVersion": "1.1.16",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.6",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.7": {
-      "appVersion": "1.1.18"
+      "appVersion": "1.1.18",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.7",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.8": {
-      "appVersion": "1.1.27"
+      "appVersion": "1.1.27",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.8",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.9": {
-      "appVersion": "1.1.33"
+      "appVersion": "1.1.33",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.9",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.10": {
-      "appVersion": "1.1.39"
+      "appVersion": "1.1.39",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.10",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.11": {
-      "appVersion": "1.1.40"
+      "appVersion": "1.1.40",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.11",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.12": {
-      "appVersion": "1.1.42"
+      "appVersion": "1.1.42",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.12",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.13": {
-      "appVersion": "1.1.43"
+      "appVersion": "1.1.43",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.13",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.14": {
-      "appVersion": "1.1.45"
+      "appVersion": "1.1.45",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.14",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.15": {
-      "appVersion": "1.1.46"
+      "appVersion": "1.1.46",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.15",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.16": {
-      "appVersion": "1.1.47"
+      "appVersion": "1.1.47",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.16",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.17": {
-      "appVersion": "1.1.48"
+      "appVersion": "1.1.48",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.17",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.17.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.18": {
-      "appVersion": "1.1.50"
+      "appVersion": "1.1.50",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.18",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.18.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.19": {
-      "appVersion": "1.1.51"
+      "appVersion": "1.1.51",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.19",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.19.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.20": {
-      "appVersion": "1.1.52"
+      "appVersion": "1.1.52",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.20",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.20.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.21": {
-      "appVersion": "1.1.53"
+      "appVersion": "1.1.53",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.21",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.21.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.22": {
-      "appVersion": "1.1.55"
+      "appVersion": "1.1.55",
+      "airGap": [
+        "export CASE_NAME=ibm-minio-operator",
+        "export CASE_VERSION=1.0.22",
+        "export CASE_ARCHIVE=ibm-minio-operator-1.0.22.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMinioOperatorSetup"
+      ],
+      "description": "MinIO is a distributed object storage. Redhat certified by IBM",
+      "displayName": ""
     },
     "1.0.23": {
       "appVersion": "1.1.56",

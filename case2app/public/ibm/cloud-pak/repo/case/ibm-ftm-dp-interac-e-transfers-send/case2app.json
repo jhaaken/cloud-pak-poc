@@ -4,25 +4,81 @@
   "latestVersion": "4.0.10",
   "versions": {
     "4.0.3": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.3",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.4": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.4",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.5": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.5",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.6": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.6",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.7": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.7",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.8": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.8",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.9": {
-      "appVersion": "4.0.3.0"
+      "appVersion": "4.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-dp-interac-e-transfers-send",
+        "export CASE_VERSION=4.0.9",
+        "export CASE_ARCHIVE=ibm-ftm-dp-interac-e-transfers-send-4.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmInteracETransfersOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Interac E-Transfers",
+      "displayName": "IBM Financial Transaction Manager for Interac E-Transfers"
     },
     "4.0.10": {
       "appVersion": "4.0.3.1",

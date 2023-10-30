@@ -4,22 +4,64 @@
   "latestVersion": "1.0.6",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.5.5"
+      "appVersion": "1.5.5",
+      "airGap": [
+        "export CASE_NAME=ibm-ucv-prod",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-ucv-prod-1.0.0.tgz"
+      ],
+      "description": "IBM UrbanCode Velocity",
+      "displayName": "IBM UrbanCode Velocity"
     },
     "1.0.1": {
-      "appVersion": "2.1.0"
+      "appVersion": "2.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucv-prod",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-ucv-prod-1.0.1.tgz"
+      ],
+      "description": "IBM UrbanCode Velocity",
+      "displayName": "IBM UrbanCode Velocity"
     },
     "1.0.2": {
-      "appVersion": "2.3.0"
+      "appVersion": "2.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucv-prod",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-ucv-prod-1.0.2.tgz"
+      ],
+      "description": "IBM UrbanCode Velocity",
+      "displayName": "IBM UrbanCode Velocity"
     },
     "1.0.3": {
-      "appVersion": "2.4.2"
+      "appVersion": "2.4.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucv-prod",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-ucv-prod-1.0.3.tgz"
+      ],
+      "description": "IBM UrbanCode Velocity",
+      "displayName": "IBM UrbanCode Velocity"
     },
     "1.0.4": {
-      "appVersion": "2.4.2"
+      "appVersion": "2.4.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucv-prod",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-ucv-prod-1.0.4.tgz"
+      ],
+      "description": "IBM UrbanCode Velocity",
+      "displayName": "IBM UrbanCode Velocity"
     },
     "1.0.5": {
-      "appVersion": "4.0.11"
+      "appVersion": "4.0.11",
+      "airGap": [
+        "export CASE_NAME=ibm-ucv-prod",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-ucv-prod-1.0.5.tgz"
+      ],
+      "description": "IBM UrbanCode Velocity",
+      "displayName": "IBM UrbanCode Velocity"
     },
     "1.0.6": {
       "appVersion": "4.0.14",

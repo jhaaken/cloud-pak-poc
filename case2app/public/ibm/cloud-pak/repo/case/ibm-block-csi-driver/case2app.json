@@ -4,28 +4,84 @@
   "latestVersion": "1.8.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.0.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.0.1": {
-      "appVersion": "1.1.0"
+      "appVersion": "1.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.0.1.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.2.0": {
-      "appVersion": "1.2.0"
+      "appVersion": "1.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.2.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.3.0": {
-      "appVersion": "1.3.0"
+      "appVersion": "1.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.3.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.4.0": {
-      "appVersion": "1.4.0"
+      "appVersion": "1.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.4.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.5.0": {
-      "appVersion": "1.5.0"
+      "appVersion": "1.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.5.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.5.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.6.0": {
-      "appVersion": "1.6.0"
+      "appVersion": "1.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.6.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.6.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.7.0": {
-      "appVersion": "1.7.0"
+      "appVersion": "1.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-block-csi-driver",
+        "export CASE_VERSION=1.7.0",
+        "export CASE_ARCHIVE=ibm-block-csi-driver-1.7.0.tgz"
+      ],
+      "description": "A CASE for an operator which deploys ibm block csi driver",
+      "displayName": "IBM Block CSI Driver CASE"
     },
     "1.8.0": {
       "appVersion": "1.8.0",

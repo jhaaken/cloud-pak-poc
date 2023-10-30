@@ -4,25 +4,81 @@
   "latestVersion": "4.2.4",
   "versions": {
     "4.1.0": {
-      "appVersion": "4.0.4.0"
+      "appVersion": "4.0.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.1.0",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.1.1": {
-      "appVersion": "4.0.4.0"
+      "appVersion": "4.0.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.1.1",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.1.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.1.2": {
-      "appVersion": "4.0.4.1"
+      "appVersion": "4.0.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.1.2",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.1.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.2.0": {
-      "appVersion": "4.0.5.0"
+      "appVersion": "4.0.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.2.0",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.2.1": {
-      "appVersion": "4.0.5.1"
+      "appVersion": "4.0.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.2.1",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.2.2": {
-      "appVersion": "4.0.5.1_iFix1"
+      "appVersion": "4.0.5.1_iFix1",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.2.2",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.2.3": {
-      "appVersion": "4.0.5.1_iFix2"
+      "appVersion": "4.0.5.1_iFix2",
+      "airGap": [
+        "export CASE_NAME=ibm-ftm-check",
+        "export CASE_VERSION=4.2.3",
+        "export CASE_ARCHIVE=ibm-ftm-check-4.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmFtmCheckOperatorSetup"
+      ],
+      "description": "The case bundle for FTM Check",
+      "displayName": "Financial Transaction Manager for Check"
     },
     "4.2.4": {
       "appVersion": "4.0.5.1_iFix3",

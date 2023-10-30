@@ -4,7 +4,14 @@
   "latestVersion": "3.5.1",
   "versions": {
     "3.0.1": {
-      "appVersion": "3.0.1"
+      "appVersion": "3.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mongodb-cp4d",
+        "export CASE_VERSION=3.0.1",
+        "export CASE_ARCHIVE=ibm-mongodb-cp4d-3.0.1.tgz"
+      ],
+      "description": "Object-relational database management system (ORDBMS) with an emphasis on extensibility and on standards-compliance.",
+      "displayName": ""
     },
     "3.5.1": {
       "appVersion": "3.5.0",

@@ -4,40 +4,136 @@
   "latestVersion": "1.14.0",
   "versions": {
     "1.3.8": {
-      "appVersion": "36.2.4"
+      "appVersion": "36.2.4",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.3.8",
+        "export CASE_ARCHIVE=mantaflow-1.3.8.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.4.2": {
-      "appVersion": "37.1.0"
+      "appVersion": "37.1.0",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.4.2",
+        "export CASE_ARCHIVE=mantaflow-1.4.2.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.5.0": {
-      "appVersion": "37.1.2"
+      "appVersion": "37.1.2",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.5.0",
+        "export CASE_ARCHIVE=mantaflow-1.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.5.1": {
-      "appVersion": "37.1.2"
+      "appVersion": "37.1.2",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.5.1",
+        "export CASE_ARCHIVE=mantaflow-1.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.6.2": {
-      "appVersion": "37.2.3"
+      "appVersion": "37.2.3",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.6.2",
+        "export CASE_ARCHIVE=mantaflow-1.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.7.0": {
-      "appVersion": "38.1.3"
+      "appVersion": "38.1.3",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.7.0",
+        "export CASE_ARCHIVE=mantaflow-1.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.8.0": {
-      "appVersion": "39.1.5"
+      "appVersion": "39.1.5",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.8.0",
+        "export CASE_ARCHIVE=mantaflow-1.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.9.0": {
-      "appVersion": "39.1.7"
+      "appVersion": "39.1.7",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.9.0",
+        "export CASE_ARCHIVE=mantaflow-1.9.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.10.0": {
-      "appVersion": "39.1.12"
+      "appVersion": "39.1.12",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.10.0",
+        "export CASE_ARCHIVE=mantaflow-1.10.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.11.0": {
-      "appVersion": "40.1.5"
+      "appVersion": "40.1.5",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.11.0",
+        "export CASE_ARCHIVE=mantaflow-1.11.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.12.0": {
-      "appVersion": "40.1.7"
+      "appVersion": "40.1.7",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.12.0",
+        "export CASE_ARCHIVE=mantaflow-1.12.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.13.0": {
-      "appVersion": "41.0.5"
+      "appVersion": "41.0.5",
+      "airGap": [
+        "export CASE_NAME=mantaflow",
+        "export CASE_VERSION=1.13.0",
+        "export CASE_ARCHIVE=mantaflow-1.13.0.tgz",
+        "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
+      ],
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
+      "displayName": "MANTA Flow"
     },
     "1.14.0": {
       "appVersion": "41.1.0",
@@ -47,7 +143,7 @@
         "export CASE_ARCHIVE=mantaflow-1.14.0.tgz",
         "export CASE_INVENTORY_SETUP=mantaflowOperatorSetup"
       ],
-      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA, everyone gets full visibility and control of their data pipeline.",
+      "description": "MANTA is a world-class data lineage platform that automatically scans your data environment to build a powerful map of all data flows and deliver it through a native UI and other channels to both technical and non-technical users. With MANTA  everyone gets full visibility and control of their data pipeline.",
       "displayName": "MANTA Flow"
     }
   }

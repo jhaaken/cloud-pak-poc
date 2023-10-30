@@ -4,97 +4,352 @@
   "latestVersion": "1.4.16",
   "versions": {
     "1.0.0": {
-      "appVersion": "7.0.4"
+      "appVersion": "7.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.0.0.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.0.1": {
-      "appVersion": "7.0.4"
+      "appVersion": "7.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.0.1.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.0.2": {
-      "appVersion": "7.0.5"
+      "appVersion": "7.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.0.2.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.0.3": {
-      "appVersion": "7.0.5"
+      "appVersion": "7.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.0.3.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.0.4": {
-      "appVersion": "7.0.5"
+      "appVersion": "7.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.0.4.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.1.0": {
-      "appVersion": "7.1.0"
+      "appVersion": "7.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.1.0.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.1.1": {
-      "appVersion": "7.1.0"
+      "appVersion": "7.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.1.1",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.1.1.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.1.2": {
-      "appVersion": "7.1.0"
+      "appVersion": "7.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.1.2",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.1.2.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.1.3": {
-      "appVersion": "7.1.0"
+      "appVersion": "7.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.1.3",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.1.3.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.1.4": {
-      "appVersion": "7.1.0"
+      "appVersion": "7.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.1.4",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.1.4.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.2.0": {
-      "appVersion": "7.1.1"
+      "appVersion": "7.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.2.0.tgz"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.2.1": {
-      "appVersion": "7.1.1"
+      "appVersion": "7.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.2.2": {
-      "appVersion": "7.1.1"
+      "appVersion": "7.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.3.0": {
-      "appVersion": "7.1.2"
+      "appVersion": "7.1.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.3.1": {
-      "appVersion": "7.1.2"
+      "appVersion": "7.1.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.0": {
-      "appVersion": "7.2.0"
+      "appVersion": "7.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.1": {
-      "appVersion": "7.2.0"
+      "appVersion": "7.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.1",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.2": {
-      "appVersion": "7.2.0"
+      "appVersion": "7.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.2",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.3": {
-      "appVersion": "7.2.1"
+      "appVersion": "7.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.3",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.4": {
-      "appVersion": "7.2.1"
+      "appVersion": "7.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.4",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.5": {
-      "appVersion": "7.2.1"
+      "appVersion": "7.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.5",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.6": {
-      "appVersion": "7.2.2"
+      "appVersion": "7.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.6",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.7": {
-      "appVersion": "7.2.2"
+      "appVersion": "7.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.7",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.8": {
-      "appVersion": "7.2.3"
+      "appVersion": "7.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.8",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.9": {
-      "appVersion": "7.2.3"
+      "appVersion": "7.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.9",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.10": {
-      "appVersion": "7.3.0"
+      "appVersion": "7.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.10",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.11": {
-      "appVersion": "7.3.0"
+      "appVersion": "7.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.11",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.12": {
-      "appVersion": "7.3.1"
+      "appVersion": "7.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.12",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.13": {
-      "appVersion": "7.3.1"
+      "appVersion": "7.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.13",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.14": {
-      "appVersion": "7.3.2"
+      "appVersion": "7.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.14",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.15": {
-      "appVersion": "7.3.2"
+      "appVersion": "7.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-ucdr-case",
+        "export CASE_VERSION=1.4.15",
+        "export CASE_ARCHIVE=ibm-ucdr-case-1.4.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmUcdrProd",
+        "export CASE_INVENTORY_SETUP=ucdrOperatorSetup"
+      ],
+      "description": "IBM UrbanCode Deploy agent relay",
+      "displayName": ""
     },
     "1.4.16": {
       "appVersion": "7.3.2",

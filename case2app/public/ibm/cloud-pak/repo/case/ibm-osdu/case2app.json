@@ -4,13 +4,36 @@
   "latestVersion": "4.1.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "3.5.0+20200813.164319.128"
+      "appVersion": "3.5.0+20200813.164319.128",
+      "airGap": [
+        "export CASE_NAME=ibm-osdu",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-osdu-1.0.0.tgz"
+      ],
+      "description": "",
+      "displayName": ""
     },
     "3.0.0": {
-      "appVersion": "3.0.0"
+      "appVersion": "3.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-osdu",
+        "export CASE_VERSION=3.0.0",
+        "export CASE_ARCHIVE=ibm-osdu-3.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=osduOperatorSetup"
+      ],
+      "description": "IBM Open Data for Industries Cartridge for IBM Cloud Pak for Data",
+      "displayName": ""
     },
     "4.0.0": {
-      "appVersion": "4.0.0"
+      "appVersion": "4.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-osdu",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-osdu-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=osduOperatorSetup"
+      ],
+      "description": "IBM Open Data for Industries Cartridge for IBM Cloud Pak for Data",
+      "displayName": ""
     },
     "4.1.0": {
       "appVersion": "4.1.0",

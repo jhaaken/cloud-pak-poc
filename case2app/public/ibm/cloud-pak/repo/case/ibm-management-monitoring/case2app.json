@@ -4,37 +4,114 @@
   "latestVersion": "1.3.7",
   "versions": {
     "1.0.0": {
-      "appVersion": "2020.2.0"
+      "appVersion": "2020.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.0.0.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.1.0": {
-      "appVersion": "2020.2.1"
+      "appVersion": "2020.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.1.0.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.2.0": {
-      "appVersion": "2020.2.2"
+      "appVersion": "2020.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.2.0.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.2.1": {
-      "appVersion": "2020.2.2.1"
+      "appVersion": "2020.2.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.2.1.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.0": {
-      "appVersion": "2021.0.0"
+      "appVersion": "2021.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.0.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.1": {
-      "appVersion": "2021.0.1"
+      "appVersion": "2021.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.1.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.2": {
-      "appVersion": "2021.0.2"
+      "appVersion": "2021.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.2.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.3": {
-      "appVersion": "2021.0.3"
+      "appVersion": "2021.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.3",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.3.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.4": {
-      "appVersion": "2022.0.0"
+      "appVersion": "2022.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.4",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.4.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.5": {
-      "appVersion": "2022.0.1"
+      "appVersion": "2022.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.5",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.5.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.6": {
-      "appVersion": "2022.0.2"
+      "appVersion": "2022.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-management-monitoring",
+        "export CASE_VERSION=1.3.6",
+        "export CASE_ARCHIVE=ibm-management-monitoring-1.3.6.tgz"
+      ],
+      "description": "IBM Cloudpak for Management Monitoring",
+      "displayName": "CP4M Monitoring"
     },
     "1.3.7": {
       "appVersion": "2022.0.3",

@@ -4,76 +4,268 @@
   "latestVersion": "3.2.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.1": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.48": {
-      "appVersion": "1.0.48"
+      "appVersion": "1.0.48",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.48",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.48.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.115": {
-      "appVersion": "1.0.115"
+      "appVersion": "1.0.115",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.115",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.115.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.144": {
-      "appVersion": "1.0.144"
+      "appVersion": "1.0.144",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.144",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.144.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.165": {
-      "appVersion": "1.0.165"
+      "appVersion": "1.0.165",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.165",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.165.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.166": {
-      "appVersion": "1.0.166"
+      "appVersion": "1.0.166",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.166",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.166.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.177": {
-      "appVersion": "1.0.177"
+      "appVersion": "1.0.177",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.177",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.177.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.182": {
-      "appVersion": "1.0.182"
+      "appVersion": "1.0.182",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.182",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.182.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.191": {
-      "appVersion": "1.0.191"
+      "appVersion": "1.0.191",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.191",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.191.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.202": {
-      "appVersion": "1.0.202"
+      "appVersion": "1.0.202",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.202",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.202.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.0.209": {
-      "appVersion": "1.0.209"
+      "appVersion": "1.0.209",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.0.209",
+        "export CASE_ARCHIVE=ibm-mdm-1.0.209.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.1.45": {
-      "appVersion": "1.2.86"
+      "appVersion": "1.2.86",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.1.45",
+        "export CASE_ARCHIVE=ibm-mdm-1.1.45.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.2.9": {
-      "appVersion": "1.3.31"
+      "appVersion": "1.3.31",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.2.9",
+        "export CASE_ARCHIVE=ibm-mdm-1.2.9.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.3.12": {
-      "appVersion": "1.4.38"
+      "appVersion": "1.4.38",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.3.12",
+        "export CASE_ARCHIVE=ibm-mdm-1.3.12.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "1.4.11": {
-      "appVersion": "1.5.26"
+      "appVersion": "1.5.26",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=1.4.11",
+        "export CASE_ARCHIVE=ibm-mdm-1.4.11.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "2.0.16": {
-      "appVersion": "2.0.27"
+      "appVersion": "2.0.27",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=2.0.16",
+        "export CASE_ARCHIVE=ibm-mdm-2.0.16.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "2.1.10": {
-      "appVersion": "2.1.41"
+      "appVersion": "2.1.41",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=2.1.10",
+        "export CASE_ARCHIVE=ibm-mdm-2.1.10.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "2.2.13": {
-      "appVersion": "2.2.33"
+      "appVersion": "2.2.33",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=2.2.13",
+        "export CASE_ARCHIVE=ibm-mdm-2.2.13.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "2.3.10": {
-      "appVersion": "2.3.28"
+      "appVersion": "2.3.28",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=2.3.10",
+        "export CASE_ARCHIVE=ibm-mdm-2.3.10.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "2.3.11": {
-      "appVersion": "2.3.29"
+      "appVersion": "2.3.29",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=2.3.11",
+        "export CASE_ARCHIVE=ibm-mdm-2.3.11.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "3.0.18": {
-      "appVersion": "3.0.55"
+      "appVersion": "3.0.55",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=3.0.18",
+        "export CASE_ARCHIVE=ibm-mdm-3.0.18.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "3.1.0": {
-      "appVersion": "3.1.0"
+      "appVersion": "3.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=3.1.0",
+        "export CASE_ARCHIVE=ibm-mdm-3.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "3.1.10": {
-      "appVersion": "3.1.25"
+      "appVersion": "3.1.25",
+      "airGap": [
+        "export CASE_NAME=ibm-mdm",
+        "export CASE_VERSION=3.1.10",
+        "export CASE_ARCHIVE=ibm-mdm-3.1.10.tgz",
+        "export CASE_INVENTORY_SETUP=mdmOperator"
+      ],
+      "description": "IBM Match360 with Watson",
+      "displayName": ""
     },
     "3.2.0": {
       "appVersion": "3.2.0",

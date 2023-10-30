@@ -4,43 +4,143 @@
   "latestVersion": "8.9.0",
   "versions": {
     "8.0.0": {
-      "appVersion": "8.0.0"
+      "appVersion": "8.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.0.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.0.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite - Visual Inspection",
+      "displayName": "IBM Maximo Application Suite - VisualInspection"
     },
     "8.1.0": {
-      "appVersion": "8.1.0"
+      "appVersion": "8.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.1.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite - Visual Inspection",
+      "displayName": "IBM Maximo Application Suite - VisualInspection"
     },
     "8.2.0": {
-      "appVersion": "8.2.0"
+      "appVersion": "8.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.2.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite - Visual Inspection",
+      "displayName": "IBM Maximo Application Suite - VisualInspection"
     },
     "8.3.0": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.3.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.3.0.tgz"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.4.0": {
-      "appVersion": "8.4.0"
+      "appVersion": "8.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.4.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.5.0": {
-      "appVersion": "8.5.0"
+      "appVersion": "8.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.5.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.6.0": {
-      "appVersion": "8.6.0"
+      "appVersion": "8.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.6.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.6.1": {
-      "appVersion": "8.6.1"
+      "appVersion": "8.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.6.1",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.6.1+20220908.000000": {
-      "appVersion": "8.6.1"
+      "appVersion": "8.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.6.1+20220908.000000",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.6.1+20220908.000000.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.7.0": {
-      "appVersion": "8.7.0"
+      "appVersion": "8.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.7.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.7.1": {
-      "appVersion": "8.7.1"
+      "appVersion": "8.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.7.1",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.7.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.8.0": {
-      "appVersion": "8.8.0"
+      "appVersion": "8.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.8.0",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.8.1": {
-      "appVersion": "8.8.1"
+      "appVersion": "8.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-visualinspection",
+        "export CASE_VERSION=8.8.1",
+        "export CASE_ARCHIVE=ibm-mas-visualinspection-8.8.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasVisualInspectionSetup"
+      ],
+      "description": "IBM Maximo Visual Inspection",
+      "displayName": "IBM Maximo Visual Inspection"
     },
     "8.9.0": {
       "appVersion": "8.9.0",

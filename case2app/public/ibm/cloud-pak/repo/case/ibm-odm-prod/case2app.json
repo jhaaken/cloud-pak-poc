@@ -4,67 +4,231 @@
   "latestVersion": "1.6.5",
   "versions": {
     "1.0.0": {
-      "appVersion": "8.10.3.0"
+      "appVersion": "8.10.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.0.0.tgz"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.1.0": {
-      "appVersion": "8.10.4.0"
+      "appVersion": "8.10.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.1.0.tgz"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.2.0": {
-      "appVersion": "8.10.5.0"
+      "appVersion": "8.10.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.2.0.tgz"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.2.1": {
-      "appVersion": "8.10.5.0"
+      "appVersion": "8.10.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.2.1.tgz"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.2.2": {
-      "appVersion": "8.10.5.1"
+      "appVersion": "8.10.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.3.0": {
-      "appVersion": "8.11.0.0"
+      "appVersion": "8.11.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.4.0": {
-      "appVersion": "8.11.0.1"
+      "appVersion": "8.11.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.0": {
-      "appVersion": "8.11.1.0"
+      "appVersion": "8.11.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.5": {
-      "appVersion": "8.11.1.0-IF005"
+      "appVersion": "8.11.1.0-IF005",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.5",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.8": {
-      "appVersion": "8.11.1.0-IF008"
+      "appVersion": "8.11.1.0-IF008",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.8",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.9": {
-      "appVersion": "8.11.1.0-IF009"
+      "appVersion": "8.11.1.0-IF009",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.9",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.10": {
-      "appVersion": "8.11.1.0-IF010"
+      "appVersion": "8.11.1.0-IF010",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.10",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.11": {
-      "appVersion": "8.11.1.0-IF011"
+      "appVersion": "8.11.1.0-IF011",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.11",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.12": {
-      "appVersion": "8.11.1.0-IF012"
+      "appVersion": "8.11.1.0-IF012",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.12",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.13": {
-      "appVersion": "8.11.1.0-IF013"
+      "appVersion": "8.11.1.0-IF013",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.13",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.5.14": {
-      "appVersion": "8.11.1.0-IF014"
+      "appVersion": "8.11.1.0-IF014",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.5.14",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.5.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.6.0": {
-      "appVersion": "8.12.0.0"
+      "appVersion": "8.12.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.6.0",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.6.1": {
-      "appVersion": "8.12.0.0-IF001"
+      "appVersion": "8.12.0.0-IF001",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.6.1",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.6.2": {
-      "appVersion": "8.12.0.0-IF002"
+      "appVersion": "8.12.0.0-IF002",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.6.2",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.6.3": {
-      "appVersion": "8.12.0.0-IF003"
+      "appVersion": "8.12.0.0-IF003",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.6.3",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.6.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.6.4": {
-      "appVersion": "8.12.0.0-IF004"
+      "appVersion": "8.12.0.0-IF004",
+      "airGap": [
+        "export CASE_NAME=ibm-odm-prod",
+        "export CASE_VERSION=1.6.4",
+        "export CASE_ARCHIVE=ibm-odm-prod-1.6.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmOdmProd"
+      ],
+      "description": "IBM Operational Decision Manager",
+      "displayName": "IBM ODM CASE"
     },
     "1.6.5": {
       "appVersion": "8.12.0.0-IF005",

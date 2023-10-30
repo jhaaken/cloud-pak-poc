@@ -4,79 +4,279 @@
   "latestVersion": "1.1.1807",
   "versions": {
     "1.1.587": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.587",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.587.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.600": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.600",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.600.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.602": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.602",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.602.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.606": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.606",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.606.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.616": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.616",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.616.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.623": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.623",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.623.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.689": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.689",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.689.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.734": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.734",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.734.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.757": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.757",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.757.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.809": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.809",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.809.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.880": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.880",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.880.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.882": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.882",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.882.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.929": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.929",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.929.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.949": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.949",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.949.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.969": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.969",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.969.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1019": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1019",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1019.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1042": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1042",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1042.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1080": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1080",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1080.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1190": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1190",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1190.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1255": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1255",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1255.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1301": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1301",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1301.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1322": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1322",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1322.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1336": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1336",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1336.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1541": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1541",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1541.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1654": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-elasticsearch-operator",
+        "export CASE_VERSION=1.1.1654",
+        "export CASE_ARCHIVE=ibm-elasticsearch-operator-1.1.1654.tgz",
+        "export CASE_INVENTORY_SETUP=ibmElasticsearchOperatorSetup"
+      ],
+      "description": "IBM Operator for Elasticsearch",
+      "displayName": "IBM Operator for Elasticsearch"
     },
     "1.1.1807": {
       "appVersion": "1.0.0",

@@ -4,178 +4,629 @@
   "latestVersion": "8.11.1",
   "versions": {
     "8.0.0": {
-      "appVersion": "8.0.0"
+      "appVersion": "8.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.0.0",
+        "export CASE_ARCHIVE=ibm-mas-8.0.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite is a program that offers a single point of access to the full suite of Maximo asset lifecycle management capabilities. This robust offering is built to accelerate digital transformation and provide AI-driven maintenance. - Maximo Application Suite V8.0 offers: - A focused  integrated platform where the Maximo asset management and monitoring components work together seamlessly - The capability to begin or accelerate the digital transformation journey - End-to-end asset management toolset in one suite  designed for insight to action",
+      "displayName": "Maximo Application Suite"
     },
     "8.0.1": {
-      "appVersion": "8.0.1"
+      "appVersion": "8.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.0.1",
+        "export CASE_ARCHIVE=ibm-mas-8.0.1.tgz"
+      ],
+      "description": "IBM Maximo Application Suite is a program that offers a single point of access to the full suite of Maximo asset lifecycle management capabilities. This robust offering is built to accelerate digital transformation and provide AI-driven maintenance. - Maximo Application Suite V8.0 offers: - A focused  integrated platform where the Maximo asset management and monitoring components work together seamlessly - The capability to begin or accelerate the digital transformation journey - End-to-end asset management toolset in one suite  designed for insight to action",
+      "displayName": "Maximo Application Suite"
     },
     "8.0.2": {
-      "appVersion": "8.0.2"
+      "appVersion": "8.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.0.2",
+        "export CASE_ARCHIVE=ibm-mas-8.0.2.tgz"
+      ],
+      "description": "IBM Maximo Application Suite is a program that offers a single point of access to the full suite of Maximo asset lifecycle management capabilities. This robust offering is built to accelerate digital transformation and provide AI-driven maintenance. - Maximo Application Suite V8.0 offers: - A focused  integrated platform where the Maximo asset management and monitoring components work together seamlessly - The capability to begin or accelerate the digital transformation journey - End-to-end asset management toolset in one suite  designed for insight to action",
+      "displayName": "Maximo Application Suite"
     },
     "8.1.0": {
-      "appVersion": "8.1.0"
+      "appVersion": "8.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-mas-8.1.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.2.0": {
-      "appVersion": "8.2.0"
+      "appVersion": "8.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-mas-8.2.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.2.1": {
-      "appVersion": "8.2.1"
+      "appVersion": "8.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.2.1",
+        "export CASE_ARCHIVE=ibm-mas-8.2.1.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.3.0": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.3.0",
+        "export CASE_ARCHIVE=ibm-mas-8.3.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.3.1": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.3.1",
+        "export CASE_ARCHIVE=ibm-mas-8.3.1.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.3.2": {
-      "appVersion": "8.3.1"
+      "appVersion": "8.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.3.2",
+        "export CASE_ARCHIVE=ibm-mas-8.3.2.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.4.0": {
-      "appVersion": "8.4.0"
+      "appVersion": "8.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.4.0",
+        "export CASE_ARCHIVE=ibm-mas-8.4.0.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.4.1": {
-      "appVersion": "8.4.1"
+      "appVersion": "8.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.4.1",
+        "export CASE_ARCHIVE=ibm-mas-8.4.1.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.4.2": {
-      "appVersion": "8.4.2"
+      "appVersion": "8.4.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.4.2",
+        "export CASE_ARCHIVE=ibm-mas-8.4.2.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.4.3": {
-      "appVersion": "8.4.3"
+      "appVersion": "8.4.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.4.3",
+        "export CASE_ARCHIVE=ibm-mas-8.4.3.tgz"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.5.0": {
-      "appVersion": "8.5.0"
+      "appVersion": "8.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.5.0",
+        "export CASE_ARCHIVE=ibm-mas-8.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.5.1": {
-      "appVersion": "8.5.1"
+      "appVersion": "8.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.5.1",
+        "export CASE_ARCHIVE=ibm-mas-8.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.5.2": {
-      "appVersion": "8.5.2"
+      "appVersion": "8.5.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.5.2",
+        "export CASE_ARCHIVE=ibm-mas-8.5.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.6.0": {
-      "appVersion": "8.6.0"
+      "appVersion": "8.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.6.0",
+        "export CASE_ARCHIVE=ibm-mas-8.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.6.1": {
-      "appVersion": "8.6.1"
+      "appVersion": "8.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.6.1",
+        "export CASE_ARCHIVE=ibm-mas-8.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.6.2": {
-      "appVersion": "8.6.2"
+      "appVersion": "8.6.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.6.2",
+        "export CASE_ARCHIVE=ibm-mas-8.6.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.6.3": {
-      "appVersion": "8.6.3"
+      "appVersion": "8.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.6.3",
+        "export CASE_ARCHIVE=ibm-mas-8.6.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.6.4": {
-      "appVersion": "8.6.4"
+      "appVersion": "8.6.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.6.4",
+        "export CASE_ARCHIVE=ibm-mas-8.6.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.0": {
-      "appVersion": "8.7.0"
+      "appVersion": "8.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.0",
+        "export CASE_ARCHIVE=ibm-mas-8.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.1": {
-      "appVersion": "8.7.1"
+      "appVersion": "8.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.1",
+        "export CASE_ARCHIVE=ibm-mas-8.7.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.2": {
-      "appVersion": "8.7.2"
+      "appVersion": "8.7.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.2",
+        "export CASE_ARCHIVE=ibm-mas-8.7.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.3": {
-      "appVersion": "8.7.3"
+      "appVersion": "8.7.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.3",
+        "export CASE_ARCHIVE=ibm-mas-8.7.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.4": {
-      "appVersion": "8.7.4"
+      "appVersion": "8.7.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.4",
+        "export CASE_ARCHIVE=ibm-mas-8.7.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.5": {
-      "appVersion": "8.7.5"
+      "appVersion": "8.7.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.5",
+        "export CASE_ARCHIVE=ibm-mas-8.7.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.7.6": {
-      "appVersion": "8.7.6"
+      "appVersion": "8.7.6",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.7.6",
+        "export CASE_ARCHIVE=ibm-mas-8.7.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.0": {
-      "appVersion": "8.8.0"
+      "appVersion": "8.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.0",
+        "export CASE_ARCHIVE=ibm-mas-8.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.1": {
-      "appVersion": "8.8.1"
+      "appVersion": "8.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.1",
+        "export CASE_ARCHIVE=ibm-mas-8.8.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.2": {
-      "appVersion": "8.8.2"
+      "appVersion": "8.8.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.2",
+        "export CASE_ARCHIVE=ibm-mas-8.8.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.3": {
-      "appVersion": "8.8.3"
+      "appVersion": "8.8.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.3",
+        "export CASE_ARCHIVE=ibm-mas-8.8.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.4": {
-      "appVersion": "8.8.4"
+      "appVersion": "8.8.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.4",
+        "export CASE_ARCHIVE=ibm-mas-8.8.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.5": {
-      "appVersion": "8.8.5"
+      "appVersion": "8.8.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.5",
+        "export CASE_ARCHIVE=ibm-mas-8.8.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.6": {
-      "appVersion": "8.8.6"
+      "appVersion": "8.8.6",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.6",
+        "export CASE_ARCHIVE=ibm-mas-8.8.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.7": {
-      "appVersion": "8.8.7"
+      "appVersion": "8.8.7",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.7",
+        "export CASE_ARCHIVE=ibm-mas-8.8.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.8": {
-      "appVersion": "8.8.8"
+      "appVersion": "8.8.8",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.8",
+        "export CASE_ARCHIVE=ibm-mas-8.8.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.9": {
-      "appVersion": "8.8.9"
+      "appVersion": "8.8.9",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.9",
+        "export CASE_ARCHIVE=ibm-mas-8.8.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.10": {
-      "appVersion": "8.8.10"
+      "appVersion": "8.8.10",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.10",
+        "export CASE_ARCHIVE=ibm-mas-8.8.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.8.11": {
-      "appVersion": "8.8.11"
+      "appVersion": "8.8.11",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.8.11",
+        "export CASE_ARCHIVE=ibm-mas-8.8.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.0": {
-      "appVersion": "8.9.0"
+      "appVersion": "8.9.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.0",
+        "export CASE_ARCHIVE=ibm-mas-8.9.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.1": {
-      "appVersion": "8.9.1"
+      "appVersion": "8.9.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.1",
+        "export CASE_ARCHIVE=ibm-mas-8.9.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.2": {
-      "appVersion": "8.9.2"
+      "appVersion": "8.9.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.2",
+        "export CASE_ARCHIVE=ibm-mas-8.9.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.3": {
-      "appVersion": "8.9.3"
+      "appVersion": "8.9.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.3",
+        "export CASE_ARCHIVE=ibm-mas-8.9.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.4": {
-      "appVersion": "8.9.4"
+      "appVersion": "8.9.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.4",
+        "export CASE_ARCHIVE=ibm-mas-8.9.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.5": {
-      "appVersion": "8.9.5"
+      "appVersion": "8.9.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.5",
+        "export CASE_ARCHIVE=ibm-mas-8.9.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.6": {
-      "appVersion": "8.9.6"
+      "appVersion": "8.9.6",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.6",
+        "export CASE_ARCHIVE=ibm-mas-8.9.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.7": {
-      "appVersion": "8.9.7"
+      "appVersion": "8.9.7",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.7",
+        "export CASE_ARCHIVE=ibm-mas-8.9.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.8": {
-      "appVersion": "8.9.8"
+      "appVersion": "8.9.8",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.8",
+        "export CASE_ARCHIVE=ibm-mas-8.9.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.9": {
-      "appVersion": "8.9.9"
+      "appVersion": "8.9.9",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.9",
+        "export CASE_ARCHIVE=ibm-mas-8.9.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.9.10": {
-      "appVersion": "8.9.10"
+      "appVersion": "8.9.10",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.9.10",
+        "export CASE_ARCHIVE=ibm-mas-8.9.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.10.0": {
-      "appVersion": "8.10.0"
+      "appVersion": "8.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.10.0",
+        "export CASE_ARCHIVE=ibm-mas-8.10.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.10.1": {
-      "appVersion": "8.10.1"
+      "appVersion": "8.10.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.10.1",
+        "export CASE_ARCHIVE=ibm-mas-8.10.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.10.2": {
-      "appVersion": "8.10.2"
+      "appVersion": "8.10.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.10.2",
+        "export CASE_ARCHIVE=ibm-mas-8.10.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.10.3": {
-      "appVersion": "8.10.3"
+      "appVersion": "8.10.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.10.3",
+        "export CASE_ARCHIVE=ibm-mas-8.10.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.10.4": {
-      "appVersion": "8.10.4"
+      "appVersion": "8.10.4",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.10.4",
+        "export CASE_ARCHIVE=ibm-mas-8.10.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.10.5": {
-      "appVersion": "8.10.5"
+      "appVersion": "8.10.5",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.10.5",
+        "export CASE_ARCHIVE=ibm-mas-8.10.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.11.0": {
-      "appVersion": "8.11.0"
+      "appVersion": "8.11.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas",
+        "export CASE_VERSION=8.11.0",
+        "export CASE_ARCHIVE=ibm-mas-8.11.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasSetup"
+      ],
+      "description": "IBM Maximo Application Suite",
+      "displayName": "IBM Maximo Application Suite"
     },
     "8.11.1": {
       "appVersion": "8.11.1",

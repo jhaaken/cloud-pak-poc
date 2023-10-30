@@ -4,31 +4,103 @@
   "latestVersion": "4.7.4+20230928.163635.109",
   "versions": {
     "4.6.0+20221107.174639.384": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.6.0+20221107.174639.384",
+        "export CASE_ARCHIVE=ibm-replication-4.6.0+20221107.174639.384.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.6.1+20221205.213336.407": {
-      "appVersion": "4.6.1"
+      "appVersion": "4.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.6.1+20221205.213336.407",
+        "export CASE_ARCHIVE=ibm-replication-4.6.1+20221205.213336.407.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.6.3+20230126.204516.455": {
-      "appVersion": "4.6.3"
+      "appVersion": "4.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.6.3+20230126.204516.455",
+        "export CASE_ARCHIVE=ibm-replication-4.6.3+20230126.204516.455.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.6.4+20230223.184248.486": {
-      "appVersion": "4.6.4"
+      "appVersion": "4.6.4",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.6.4+20230223.184248.486",
+        "export CASE_ARCHIVE=ibm-replication-4.6.4+20230223.184248.486.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.6.5+20230327.211436.526": {
-      "appVersion": "4.6.5"
+      "appVersion": "4.6.5",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.6.5+20230327.211436.526",
+        "export CASE_ARCHIVE=ibm-replication-4.6.5+20230327.211436.526.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.6.6+20230502.175839.561": {
-      "appVersion": "4.6.6"
+      "appVersion": "4.6.6",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.6.6+20230502.175839.561",
+        "export CASE_ARCHIVE=ibm-replication-4.6.6+20230502.175839.561.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.7.0+20230605.194445.727": {
-      "appVersion": "4.7.0"
+      "appVersion": "4.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.7.0+20230605.194445.727",
+        "export CASE_ARCHIVE=ibm-replication-4.7.0+20230605.194445.727.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.7.1+20230627.215620.30": {
-      "appVersion": "4.7.1"
+      "appVersion": "4.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.7.1+20230627.215620.30",
+        "export CASE_ARCHIVE=ibm-replication-4.7.1+20230627.215620.30.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.7.3+20230905.204252.83": {
-      "appVersion": "4.7.3"
+      "appVersion": "4.7.3",
+      "airGap": [
+        "export CASE_NAME=ibm-replication",
+        "export CASE_VERSION=4.7.3+20230905.204252.83",
+        "export CASE_ARCHIVE=ibm-replication-4.7.3+20230905.204252.83.tgz",
+        "export CASE_INVENTORY_SETUP=replicationSetup"
+      ],
+      "description": "IBM Cloud Pak for Data - Data Replication Services",
+      "displayName": "IBM Data Replication"
     },
     "4.7.4+20230928.163635.109": {
       "appVersion": "4.7.4",

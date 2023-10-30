@@ -4,19 +4,54 @@
   "latestVersion": "1.0.6",
   "versions": {
     "1.0.0": {
-      "appVersion": "5.0.9"
+      "appVersion": "5.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-redis",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-redis-1.0.0.tgz"
+      ],
+      "description": "This Helm chart provides a highly available Redis implementation with a master/slave configuration and uses Sentinel sidecars for failover management. Based on version 3.1.3 in stable/redis-ha.",
+      "displayName": "ibm-redis"
     },
     "1.0.1": {
-      "appVersion": "5.0.9"
+      "appVersion": "5.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-redis",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-redis-1.0.1.tgz"
+      ],
+      "description": "This Helm chart provides a highly available Redis implementation with a master/slave configuration and uses Sentinel sidecars for failover management. Based on version 3.1.3 in stable/redis-ha.",
+      "displayName": "ibm-redis"
     },
     "1.0.2": {
-      "appVersion": "5.0.9"
+      "appVersion": "5.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-redis",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-redis-1.0.2.tgz"
+      ],
+      "description": "This Helm chart provides a highly available Redis implementation with a master/slave configuration and uses Sentinel sidecars for failover management. Based on version 3.1.3 in stable/redis-ha.",
+      "displayName": "ibm-redis"
     },
     "1.0.3": {
-      "appVersion": "5.0.9"
+      "appVersion": "5.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-redis",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-redis-1.0.3.tgz"
+      ],
+      "description": "This Helm chart provides a highly available Redis implementation with a master/slave configuration and uses Sentinel sidecars for failover management. Based on version 3.1.3 in stable/redis-ha.",
+      "displayName": "ibm-redis"
     },
     "1.0.4": {
-      "appVersion": "5.0.9"
+      "appVersion": "5.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-redis",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-redis-1.0.4.tgz"
+      ],
+      "description": "This Helm chart provides a highly available Redis implementation with a master/slave configuration and uses Sentinel sidecars for failover management. Based on version 3.1.3 in stable/redis-ha.",
+      "displayName": "ibm-redis"
     },
     "1.0.6": {
       "appVersion": "5.0.9",

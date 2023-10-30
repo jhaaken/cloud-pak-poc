@@ -4,55 +4,190 @@
   "latestVersion": "5.1.0+20230907.115725.900009102",
   "versions": {
     "1.0.0": {
-      "appVersion": "8.2.0+20201119.194142.8.2.0.1.B137"
+      "appVersion": "8.2.0+20201119.194142.8.2.0.1.B137",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-openpages-1.0.0.tgz"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.0.0+20210615.125604.820387": {
-      "appVersion": "8.203.0"
+      "appVersion": "8.203.0",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.0.0+20210615.125604.820387",
+        "export CASE_ARCHIVE=ibm-openpages-2.0.0+20210615.125604.820387.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.0.1+20210715.004828.82030714": {
-      "appVersion": "8.203.1"
+      "appVersion": "8.203.1",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.0.1+20210715.004828.82030714",
+        "export CASE_ARCHIVE=ibm-openpages-2.0.1+20210715.004828.82030714.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.0.2+20210910.011848.82030838": {
-      "appVersion": "8.203.2"
+      "appVersion": "8.203.2",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.0.2+20210910.011848.82030838",
+        "export CASE_ARCHIVE=ibm-openpages-2.0.2+20210910.011848.82030838.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.1.0+20211108.235306.8204136": {
-      "appVersion": "8.204.0"
+      "appVersion": "8.204.0",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.1.0+20211108.235306.8204136",
+        "export CASE_ARCHIVE=ibm-openpages-2.1.0+20211108.235306.8204136.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.1.1+20211213.164652.82041218": {
-      "appVersion": "8.204.1"
+      "appVersion": "8.204.1",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.1.1+20211213.164652.82041218",
+        "export CASE_ARCHIVE=ibm-openpages-2.1.1+20211213.164652.82041218.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.1.2+20220118.140731.82040128": {
-      "appVersion": "8.204.2"
+      "appVersion": "8.204.2",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.1.2+20220118.140731.82040128",
+        "export CASE_ARCHIVE=ibm-openpages-2.1.2+20220118.140731.82040128.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.1.3+20220205.003421.82040223": {
-      "appVersion": "8.204.3"
+      "appVersion": "8.204.3",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.1.3+20220205.003421.82040223",
+        "export CASE_ARCHIVE=ibm-openpages-2.1.3+20220205.003421.82040223.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.1.4+20220304.003659.82040314": {
-      "appVersion": "8.204.4"
+      "appVersion": "8.204.4",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.1.4+20220304.003659.82040314",
+        "export CASE_ARCHIVE=ibm-openpages-2.1.4+20220304.003659.82040314.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "2.1.5+20220414.030441.82040426": {
-      "appVersion": "8.204.5"
+      "appVersion": "8.204.5",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=2.1.5+20220414.030441.82040426",
+        "export CASE_ARCHIVE=ibm-openpages-2.1.5+20220414.030441.82040426.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "3.0.0+20220610.135808.83000674": {
-      "appVersion": "8.300.0"
+      "appVersion": "8.300.0",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=3.0.0+20220610.135808.83000674",
+        "export CASE_ARCHIVE=ibm-openpages-3.0.0+20220610.135808.83000674.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "3.1.0+20220708.111328.83000723": {
-      "appVersion": "8.300.1"
+      "appVersion": "8.300.1",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=3.1.0+20220708.111328.83000723",
+        "export CASE_ARCHIVE=ibm-openpages-3.1.0+20220708.111328.83000723.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "3.2.0+20220809.123631.83000818": {
-      "appVersion": "8.300.2"
+      "appVersion": "8.300.2",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=3.2.0+20220809.123631.83000818",
+        "export CASE_ARCHIVE=ibm-openpages-3.2.0+20220809.123631.83000818.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "4.0.0+20221107.010644.830111107": {
-      "appVersion": "8.301.0"
+      "appVersion": "8.301.0",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=4.0.0+20221107.010644.830111107",
+        "export CASE_ARCHIVE=ibm-openpages-4.0.0+20221107.010644.830111107.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "4.1.0+20230209.160434.83020281": {
-      "appVersion": "8.302.0"
+      "appVersion": "8.302.0",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=4.1.0+20230209.160434.83020281",
+        "export CASE_ARCHIVE=ibm-openpages-4.1.0+20230209.160434.83020281.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "4.2.0+20230306.100340.83020322": {
-      "appVersion": "8.302.1"
+      "appVersion": "8.302.1",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=4.2.0+20230306.100340.83020322",
+        "export CASE_ARCHIVE=ibm-openpages-4.2.0+20230306.100340.83020322.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "5.0.0+20230530.031520.830206112": {
-      "appVersion": "8.302.2"
+      "appVersion": "8.302.2",
+      "airGap": [
+        "export CASE_NAME=ibm-openpages",
+        "export CASE_VERSION=5.0.0+20230530.031520.830206112",
+        "export CASE_ARCHIVE=ibm-openpages-5.0.0+20230530.031520.830206112.tgz",
+        "export CASE_INVENTORY_SETUP=operatorSetup"
+      ],
+      "description": "IBM OpenPages Extension for IBM Cloud Pak for Data",
+      "displayName": "IBM OpenPages"
     },
     "5.1.0+20230907.115725.900009102": {
       "appVersion": "9.000.0",

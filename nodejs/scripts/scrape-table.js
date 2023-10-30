@@ -1,24 +1,25 @@
 // 
 // prereq setup
-// -- checkout repo limiting to only .yaml files for the script to find them
+// -- checkout repo limiting to only .yaml files & /doc dir for the script to find them
 //  > git clone --filter=blob:none --no-checkout git@github.com:IBM/cloud-pak.git
 //  > git sparse-checkout set --cone "/repo/case/**/*.yaml"
+//  > git sparse-checkout add --cone "/docs"
 //  > git checkout
 // -- then change the OUTPUT_PATH & REPO_PATH variables below
 
+// CHANGE THESE
+const REPO_PATH = '/Users/jhaaken/github/IBM/cloud-pak'
+const OUTPUT_PATH = '/Users/jhaaken/github/jhaaken/cloud-pak-poc/case2app/public/ibm/cloud-pak'
+
 const cheerio = require('cheerio');
 const axios = require('axios');
-const { Octokit } = require("@octokit/core");
+// const { Octokit } = require("@octokit/core");  // not used
 const fse = require('fs-extra');
 const yaml = require('js-yaml');
 const path = require('path');
 
 // removed this as it causes rate limiting bu left the logic in 
 // const octokitClient = new Octokit( { auth: '' } );
-
-// CHANGE THESE
-const REPO_PATH = '/Users/jhaaken/github/IBM/cloud-pak'
-const OUTPUT_PATH = '/Users/jhaaken/github/jhaaken/cloud-pak-poc/case2app/public/ibm/cloud-pak'
 
 async function main() {
   const result = await axios.get("https://ibm.github.io/cloud-pak/");
@@ -54,6 +55,32 @@ async function main() {
       caseIndexYaml.versions[caseVersion].description = versionYaml.case.description;
       caseIndexYaml.versions[caseVersion].displayName = versionYaml.case.displayName;
 
+      const assetTablePath = path.resolve(REPO_PATH, 'docs', 'assets', 'html', `${caseName}-table.html`);
+      const assetTable = cheerio.load(fse.readFileSync(assetTablePath));
+      // /html/body/table/tbody/tr[1]
+      let assetIndex=0;
+      for (const assetElement of assetTable("html > body > table > tbody > tr")) {
+
+        if (assetIndex != 0) {
+          const tdsAsset = assetTable(assetElement).find("td");
+          const caseNameAsset = assetTable(tdsAsset[0]).text();
+          const appVersionAsset = assetTable(tdsAsset[1]).text(); // the /repo/case/<case-name>/<case-version>/index.yaml already has appVersion so no reason to overwrite
+          const caseVersionAsset = assetTable(tdsAsset[2]).text();
+          const descriptionAsset = assetTable(tdsAsset[3]).text();
+          const airGapAsset = assetTable(tdsAsset[4]).text().split("export ").filter(x => x).map(x => `export ${x}`);
+
+          const vpAsset = path.resolve(REPO_PATH, 'repo', 'case', caseNameAsset, caseVersionAsset, 'version.yaml');
+          const versionYamlAsset = yaml.load(fse.readFileSync(vpAsset))
+
+          caseIndexYaml.versions[caseVersionAsset].airGap = airGapAsset;
+          caseIndexYaml.versions[caseVersionAsset].description = descriptionAsset;
+          caseIndexYaml.versions[caseVersionAsset].displayName = versionYamlAsset.case.displayName;
+        }
+        assetIndex++;
+
+      }
+
+
       await fse.ensureDir(`${OUTPUT_PATH}/repo/case/${caseName}`)
       fse.writeJSONSync(`${OUTPUT_PATH}/repo/case/${caseName}/case2app.json`, caseIndexYaml, { spaces: 2 })
       const tableRow = { caseName, appVersion, caseVersion, description, airGap };
@@ -63,7 +90,7 @@ async function main() {
   }
   // );
 
-  console.log(scrapedData);
+  // console.log(scrapedData);
 }
 
 main();

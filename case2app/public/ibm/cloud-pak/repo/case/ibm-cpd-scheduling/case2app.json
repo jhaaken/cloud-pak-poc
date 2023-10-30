@@ -4,82 +4,288 @@
   "latestVersion": "1.17.0+20230920.000433.f585316",
   "versions": {
     "1.0.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.0.0.tgz"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.0.2": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.0.2.tgz"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.2.0": {
-      "appVersion": "1.2.0"
+      "appVersion": "1.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.2.1": {
-      "appVersion": "1.2.1"
+      "appVersion": "1.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.2.2": {
-      "appVersion": "1.2.2"
+      "appVersion": "1.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.2.3": {
-      "appVersion": "1.2.3"
+      "appVersion": "1.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.2.3",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.0": {
-      "appVersion": "1.3.0"
+      "appVersion": "1.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.1": {
-      "appVersion": "1.3.1"
+      "appVersion": "1.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.2": {
-      "appVersion": "1.3.2"
+      "appVersion": "1.3.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.3": {
-      "appVersion": "1.3.3"
+      "appVersion": "1.3.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.3",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.4": {
-      "appVersion": "1.3.4"
+      "appVersion": "1.3.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.4",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.4.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.5": {
-      "appVersion": "1.3.5"
+      "appVersion": "1.3.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.5",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.5.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.3.6": {
-      "appVersion": "4.5.0"
+      "appVersion": "4.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.3.6",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.3.6.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.4.0": {
-      "appVersion": "4.5.1"
+      "appVersion": "4.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.5.0+20220809.001936.5c06b0f": {
-      "appVersion": "4.5.2"
+      "appVersion": "4.5.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.5.0+20220809.001936.5c06b0f",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.5.0+20220809.001936.5c06b0f.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.6.0+20220915.002042.2129117": {
-      "appVersion": "4.5.3"
+      "appVersion": "4.5.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.6.0+20220915.002042.2129117",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.6.0+20220915.002042.2129117.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.7.0+20221028.002154.73bec3f": {
-      "appVersion": "4.6.0"
+      "appVersion": "4.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.7.0+20221028.002154.73bec3f",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.7.0+20221028.002154.73bec3f.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.8.0+20221209.002257.0383513": {
-      "appVersion": "4.6.1"
+      "appVersion": "4.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.8.0+20221209.002257.0383513",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.8.0+20221209.002257.0383513.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.9.0+20230131.002448.53710bf": {
-      "appVersion": "4.6.3"
+      "appVersion": "4.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.9.0+20230131.002448.53710bf",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.9.0+20230131.002448.53710bf.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.10.0+20230307.002712.c334806": {
-      "appVersion": "4.6.4"
+      "appVersion": "4.6.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.10.0+20230307.002712.c334806",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.10.0+20230307.002712.c334806.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.11.0+20230331.002826.b345534": {
-      "appVersion": "4.6.5"
+      "appVersion": "4.6.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.11.0+20230331.002826.b345534",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.11.0+20230331.002826.b345534.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.12.0+20230427.000027.88408ec": {
-      "appVersion": "4.6.6"
+      "appVersion": "4.6.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.12.0+20230427.000027.88408ec",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.12.0+20230427.000027.88408ec.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.13.0+20230517.000055.16cc8b8": {
-      "appVersion": "4.7.0"
+      "appVersion": "4.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.13.0+20230517.000055.16cc8b8",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.13.0+20230517.000055.16cc8b8.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.14.0+20230627.000225.8764838": {
-      "appVersion": "4.7.1"
+      "appVersion": "4.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.14.0+20230627.000225.8764838",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.14.0+20230627.000225.8764838.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.15.0+20230804.000303.8f5465e": {
-      "appVersion": "4.7.2"
+      "appVersion": "4.7.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.15.0+20230804.000303.8f5465e",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.15.0+20230804.000303.8f5465e.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.16.0+20230831.000400.f86dcb4": {
-      "appVersion": "4.7.3"
+      "appVersion": "4.7.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cpd-scheduling",
+        "export CASE_VERSION=1.16.0+20230831.000400.f86dcb4",
+        "export CASE_ARCHIVE=ibm-cpd-scheduling-1.16.0+20230831.000400.f86dcb4.tgz",
+        "export CASE_INVENTORY_SETUP=schedulerSetup"
+      ],
+      "description": "Advanced scheduling and Resource Management for Kubernetes",
+      "displayName": "IBM Cloud Pak for Data Scheduling"
     },
     "1.17.0+20230920.000433.f585316": {
       "appVersion": "4.7.4",

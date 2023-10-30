@@ -4,7 +4,14 @@
   "latestVersion": "1.0.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-catalog-ui-operator",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-catalog-ui-operator-1.0.0.tgz"
+      ],
+      "description": "Used to deploy Catalog UI microservice into K8s cluster",
+      "displayName": "IBM Catalog UI Operator Case Bundle"
     },
     "1.0.1": {
       "appVersion": "3.6.4",

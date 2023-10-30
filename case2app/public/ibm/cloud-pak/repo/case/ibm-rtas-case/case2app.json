@@ -4,43 +4,143 @@
   "latestVersion": "13.1054.0",
   "versions": {
     "1.101.0": {
-      "appVersion": "10.1.0-202006171245-8b7986d"
+      "appVersion": "10.1.0-202006171245-8b7986d",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=1.101.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-1.101.0.tgz"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "2.1011.0": {
-      "appVersion": "10.1.1-202009081405-a691de9"
+      "appVersion": "10.1.1-202009081405-a691de9",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=2.1011.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-2.1011.0.tgz"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "3.1012.0": {
-      "appVersion": "10.1.2-202012081329-07aed00"
+      "appVersion": "10.1.2-202012081329-07aed00",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=3.1012.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-3.1012.0.tgz"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "4.1013.0": {
-      "appVersion": "10.1.3-202103151645-a1f6613"
+      "appVersion": "10.1.3-202103151645-a1f6613",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=4.1013.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-4.1013.0.tgz"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "5.1020.0": {
-      "appVersion": "10.2.0-202106181252-e8d314c3d"
+      "appVersion": "10.2.0-202106181252-e8d314c3d",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=5.1020.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-5.1020.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "6.1021.0": {
-      "appVersion": "10.2.1-202109140923-a65454145"
+      "appVersion": "10.2.1-202109140923-a65454145",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=6.1021.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-6.1021.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "6.1021.1": {
-      "appVersion": "10.2.1.1-202109140923-a65454145"
+      "appVersion": "10.2.1.1-202109140923-a65454145",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=6.1021.1",
+        "export CASE_ARCHIVE=ibm-rtas-case-6.1021.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "7.1022.0": {
-      "appVersion": "10.2.2-202201251108-b281a44898"
+      "appVersion": "10.2.2-202201251108-b281a44898",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=7.1022.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-7.1022.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "8.1023.0": {
-      "appVersion": "10.2.3-202205241552-77a64686c0"
+      "appVersion": "10.2.3-202205241552-77a64686c0",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=8.1023.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-8.1023.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "9.1050.0": {
-      "appVersion": "10.5.0-202209071439-624e6a4266"
+      "appVersion": "10.5.0-202209071439-624e6a4266",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=9.1050.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-9.1050.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "10.1051.0": {
-      "appVersion": "10.5.1-202211291112-df7d90fcfe"
+      "appVersion": "10.5.1-202211291112-df7d90fcfe",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=10.1051.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-10.1051.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "11.1052.0": {
-      "appVersion": "10.5.2-202303131819-3ed60a4924"
+      "appVersion": "10.5.2-202303131819-3ed60a4924",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=11.1052.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-11.1052.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "12.1053.0": {
-      "appVersion": "10.5.3-202306121955-3153a7cd19"
+      "appVersion": "10.5.3-202306121955-3153a7cd19",
+      "airGap": [
+        "export CASE_NAME=ibm-rtas-case",
+        "export CASE_VERSION=12.1053.0",
+        "export CASE_ARCHIVE=ibm-rtas-case-12.1053.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmRtasProd"
+      ],
+      "description": "IBM Rational Test Automation Server",
+      "displayName": "IBM RTAS"
     },
     "13.1054.0": {
       "appVersion": "10.5.4-202309061322-916d52b6cc",

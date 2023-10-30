@@ -4,16 +4,44 @@
   "latestVersion": "2.0.2",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0"
+      "appVersion": "1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-aiops-prod-case",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-watson-aiops-prod-case-1.0.0.tgz"
+      ],
+      "description": "IBM Watson AIOps",
+      "displayName": "Watson AIOps"
     },
     "1.0.1": {
-      "appVersion": "1.0"
+      "appVersion": "1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-aiops-prod-case",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-watson-aiops-prod-case-1.0.1.tgz"
+      ],
+      "description": "IBM Watson AIOps",
+      "displayName": "Watson AIOps"
     },
     "2.0.0": {
-      "appVersion": "2.0.0"
+      "appVersion": "2.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-aiops-prod-case",
+        "export CASE_VERSION=2.0.0",
+        "export CASE_ARCHIVE=ibm-watson-aiops-prod-case-2.0.0.tgz"
+      ],
+      "description": "IBM Watson AIOps",
+      "displayName": "Watson AIOps"
     },
     "2.0.1": {
-      "appVersion": "2.0.0"
+      "appVersion": "2.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-watson-aiops-prod-case",
+        "export CASE_VERSION=2.0.1",
+        "export CASE_ARCHIVE=ibm-watson-aiops-prod-case-2.0.1.tgz"
+      ],
+      "description": "IBM Watson AIOps",
+      "displayName": "Watson AIOps"
     },
     "2.0.2": {
       "appVersion": "2.0.0",

@@ -11,7 +11,7 @@
         "export CASE_ARCHIVE=ibm-integration-demos-operator-1.0.0.tgz",
         "export CASE_INVENTORY_SETUP=ibmIntegrationDemosOperator"
       ],
-      "description": "A simplified solution to integration demos, allowing the enterprise to modernize its processes while positioning itself for future innovation.",
+      "description": "A simplified solution to integration demos  allowing the enterprise to modernize its processes while positioning itself for future innovation.",
       "displayName": "Integration Demos Operator"
     }
   }

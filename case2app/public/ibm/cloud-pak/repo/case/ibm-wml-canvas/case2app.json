@@ -4,10 +4,24 @@
   "latestVersion": "3.5.2",
   "versions": {
     "3.5.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-canvas",
+        "export CASE_VERSION=3.5.0",
+        "export CASE_ARCHIVE=ibm-wml-canvas-3.5.0.tgz"
+      ],
+      "description": "A CASE for Spss-Modeler helm charts",
+      "displayName": "A CASE for Spss-Modeler helm charts"
     },
     "3.5.1": {
-      "appVersion": "3.5.1"
+      "appVersion": "3.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-wml-canvas",
+        "export CASE_VERSION=3.5.1",
+        "export CASE_ARCHIVE=ibm-wml-canvas-3.5.1.tgz"
+      ],
+      "description": "A CASE for Spss-Modeler helm charts",
+      "displayName": "A CASE for Spss-Modeler helm charts"
     },
     "3.5.2": {
       "appVersion": "3.5.1",

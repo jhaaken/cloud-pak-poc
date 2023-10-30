@@ -4,25 +4,81 @@
   "latestVersion": "11.5.0",
   "versions": {
     "11.0.0": {
-      "appVersion": "11.0.0"
+      "appVersion": "11.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.0.0",
+        "export CASE_ARCHIVE=ibm-tas-11.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.0.1": {
-      "appVersion": "11.0.1"
+      "appVersion": "11.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.0.1",
+        "export CASE_ARCHIVE=ibm-tas-11.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.1.0": {
-      "appVersion": "11.1.0"
+      "appVersion": "11.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.1.0",
+        "export CASE_ARCHIVE=ibm-tas-11.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.1.1": {
-      "appVersion": "11.1.1"
+      "appVersion": "11.1.1",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.1.1",
+        "export CASE_ARCHIVE=ibm-tas-11.1.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.2.0": {
-      "appVersion": "11.2.0"
+      "appVersion": "11.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.2.0",
+        "export CASE_ARCHIVE=ibm-tas-11.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.3.0": {
-      "appVersion": "11.3.0"
+      "appVersion": "11.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.3.0",
+        "export CASE_ARCHIVE=ibm-tas-11.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.4.0": {
-      "appVersion": "11.4.0"
+      "appVersion": "11.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-tas",
+        "export CASE_VERSION=11.4.0",
+        "export CASE_ARCHIVE=ibm-tas-11.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmTasSetup"
+      ],
+      "description": "IBM TRIRIGA Application Suite",
+      "displayName": "IBM TRIRIGA Application Suite"
     },
     "11.5.0": {
       "appVersion": "11.5.0",

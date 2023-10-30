@@ -10,7 +10,7 @@
         "export CASE_VERSION=1.0.0",
         "export CASE_ARCHIVE=ibm-security-edr-1.0.0.tgz"
       ],
-      "description": "",
+      "description": "IBM Security QRadar EDR",
       "displayName": "IBM Security QRadar EDR"
     }
   }

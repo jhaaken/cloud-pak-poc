@@ -4,217 +4,785 @@
   "latestVersion": "4.2.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "3.4.0"
+      "appVersion": "3.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.0.1": {
-      "appVersion": "3.4.3"
+      "appVersion": "3.4.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.1.0": {
-      "appVersion": "3.5.1"
+      "appVersion": "3.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.1.3": {
-      "appVersion": "3.5.3"
+      "appVersion": "3.5.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.1.3",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.1.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.1.12": {
-      "appVersion": "3.5.4"
+      "appVersion": "3.5.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.1.12",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.1.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.1.14": {
-      "appVersion": "3.5.5"
+      "appVersion": "3.5.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.1.14",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.1.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.1.15": {
-      "appVersion": "3.5.6"
+      "appVersion": "3.5.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.1.15",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.1.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.1.16": {
-      "appVersion": "3.5.6"
+      "appVersion": "3.5.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.1.16",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.1.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.2": {
-      "appVersion": "3.6.2"
+      "appVersion": "3.6.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.3": {
-      "appVersion": "3.6.3"
+      "appVersion": "3.6.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.3",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.4": {
-      "appVersion": "3.6.4"
+      "appVersion": "3.6.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.4",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.5": {
-      "appVersion": "3.6.5"
+      "appVersion": "3.6.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.5",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.6": {
-      "appVersion": "3.6.6"
+      "appVersion": "3.6.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.6",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.7": {
-      "appVersion": "3.6.7"
+      "appVersion": "3.6.7",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.7",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.2.8": {
-      "appVersion": "3.6.8"
+      "appVersion": "3.6.8",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.2.8",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.2.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.3.1": {
-      "appVersion": "3.7.1"
+      "appVersion": "3.7.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.3.2": {
-      "appVersion": "3.7.2"
+      "appVersion": "3.7.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.3.3": {
-      "appVersion": "3.7.3"
+      "appVersion": "3.7.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.3.3",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.3.4": {
-      "appVersion": "3.7.4"
+      "appVersion": "3.7.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.3.4",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.3.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.4.0": {
-      "appVersion": "3.8.0"
+      "appVersion": "3.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.4.1": {
-      "appVersion": "3.8.1"
+      "appVersion": "3.8.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.4.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.5.0": {
-      "appVersion": "3.9.0"
+      "appVersion": "3.9.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.5.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.5.1": {
-      "appVersion": "3.9.1"
+      "appVersion": "3.9.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.5.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.6.0": {
-      "appVersion": "3.10.0"
+      "appVersion": "3.10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.6.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.7.0": {
-      "appVersion": "3.11.0"
+      "appVersion": "3.11.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.7.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.8.0": {
-      "appVersion": "3.12.0"
+      "appVersion": "3.12.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.8.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.8.1": {
-      "appVersion": "3.12.1"
+      "appVersion": "3.12.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.8.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.8.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.9.0": {
-      "appVersion": "3.13.0"
+      "appVersion": "3.13.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.9.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.9.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.10.0": {
-      "appVersion": "3.14.0"
+      "appVersion": "3.14.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.10.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.10.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.10.1": {
-      "appVersion": "3.14.1"
+      "appVersion": "3.14.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.10.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.10.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.10.2": {
-      "appVersion": "3.14.2"
+      "appVersion": "3.14.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.10.2",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.10.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.11.0": {
-      "appVersion": "3.15.0"
+      "appVersion": "3.15.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.11.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.11.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.11.1": {
-      "appVersion": "3.15.1"
+      "appVersion": "3.15.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.11.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.11.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.12.0": {
-      "appVersion": "3.16.1"
+      "appVersion": "3.16.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.12.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.12.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.12.2": {
-      "appVersion": "3.16.2"
+      "appVersion": "3.16.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.12.2",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.12.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.12.3": {
-      "appVersion": "3.16.3"
+      "appVersion": "3.16.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.12.3",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.12.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.13.0": {
-      "appVersion": "3.17.0"
+      "appVersion": "3.17.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.13.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.13.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.14.0": {
-      "appVersion": "3.18.0"
+      "appVersion": "3.18.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.14.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.14.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.0": {
-      "appVersion": "3.19.0"
+      "appVersion": "3.19.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.1": {
-      "appVersion": "3.19.1"
+      "appVersion": "3.19.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.2": {
-      "appVersion": "3.19.2"
+      "appVersion": "3.19.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.2",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.3": {
-      "appVersion": "3.19.3"
+      "appVersion": "3.19.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.3",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.4": {
-      "appVersion": "3.19.4"
+      "appVersion": "3.19.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.4",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.5": {
-      "appVersion": "3.19.5"
+      "appVersion": "3.19.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.5",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.6": {
-      "appVersion": "3.19.6"
+      "appVersion": "3.19.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.6",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.7": {
-      "appVersion": "3.19.7"
+      "appVersion": "3.19.7",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.7",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.8": {
-      "appVersion": "3.19.8"
+      "appVersion": "3.19.8",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.8",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.9": {
-      "appVersion": "3.19.9"
+      "appVersion": "3.19.9",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.9",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.10": {
-      "appVersion": "3.19.10"
+      "appVersion": "3.19.10",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.10",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.11": {
-      "appVersion": "3.19.11"
+      "appVersion": "3.19.11",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.11",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.12": {
-      "appVersion": "3.19.12"
+      "appVersion": "3.19.12",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.12",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.13": {
-      "appVersion": "3.19.13"
+      "appVersion": "3.19.13",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.13",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.13.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.14": {
-      "appVersion": "3.19.14"
+      "appVersion": "3.19.14",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.14",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.14.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.15": {
-      "appVersion": "3.19.15"
+      "appVersion": "3.19.15",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.15",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.15.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.15.16": {
-      "appVersion": "3.19.16"
+      "appVersion": "3.19.16",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.15.16",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.15.16.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.16.0": {
-      "appVersion": "3.20.0"
+      "appVersion": "3.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.16.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.16.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.16.1": {
-      "appVersion": "3.20.1"
+      "appVersion": "3.20.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.16.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.16.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.17.0": {
-      "appVersion": "3.21.0"
+      "appVersion": "3.21.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.17.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.17.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.18.0": {
-      "appVersion": "3.22.0"
+      "appVersion": "3.22.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.18.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.18.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.0": {
-      "appVersion": "3.23.0"
+      "appVersion": "3.23.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.1": {
-      "appVersion": "3.23.1"
+      "appVersion": "3.23.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.2": {
-      "appVersion": "3.23.2"
+      "appVersion": "3.23.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.2",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.3": {
-      "appVersion": "3.23.3"
+      "appVersion": "3.23.3",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.3",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.4": {
-      "appVersion": "3.23.4"
+      "appVersion": "3.23.4",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.4",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.5": {
-      "appVersion": "3.23.5"
+      "appVersion": "3.23.5",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.5",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.6": {
-      "appVersion": "3.23.6"
+      "appVersion": "3.23.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.6",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.7": {
-      "appVersion": "3.23.7"
+      "appVersion": "3.23.7",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.7",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "1.19.8": {
-      "appVersion": "3.23.8"
+      "appVersion": "3.23.8",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=1.19.8",
+        "export CASE_ARCHIVE=ibm-cp-common-services-1.19.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "4.0.0": {
-      "appVersion": "4.0.0"
+      "appVersion": "4.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "4.0.1": {
-      "appVersion": "4.0.1"
+      "appVersion": "4.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=4.0.1",
+        "export CASE_ARCHIVE=ibm-cp-common-services-4.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "4.1.0": {
-      "appVersion": "4.1.0"
+      "appVersion": "4.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-common-services",
+        "export CASE_VERSION=4.1.0",
+        "export CASE_ARCHIVE=ibm-cp-common-services-4.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCommonServiceOperatorSetup"
+      ],
+      "description": "IBM Common Services CASE",
+      "displayName": "IBM Common Services CASE"
     },
     "4.2.0": {
       "appVersion": "4.2.0",

@@ -4,25 +4,75 @@
   "latestVersion": "2.3.25",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-1.0.0.tgz"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "1.1.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-1.1.0.tgz"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "2.1.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=2.1.0",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-2.1.0.tgz"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "2.2.0": {
-      "appVersion": "2.2.0"
+      "appVersion": "2.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=2.2.0",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-2.2.0.tgz"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "2.3.0": {
-      "appVersion": "2.3.0"
+      "appVersion": "2.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=2.3.0",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-2.3.0.tgz"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "2.3.4": {
-      "appVersion": "2.3.4"
+      "appVersion": "2.3.4",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=2.3.4",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-2.3.4.tgz"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "2.3.11": {
-      "appVersion": "2.3.11"
+      "appVersion": "2.3.11",
+      "airGap": [
+        "export CASE_NAME=ibm-management-sre-chatops",
+        "export CASE_VERSION=2.3.11",
+        "export CASE_ARCHIVE=ibm-management-sre-chatops-2.3.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSreChatopsOperatorSetup"
+      ],
+      "description": "The IBM SRE ChatOps provides an iFTTT platform",
+      "displayName": "IBM Management SRE ChatOps"
     },
     "2.3.25": {
       "appVersion": "2.3.25",

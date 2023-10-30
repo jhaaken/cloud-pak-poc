@@ -4,49 +4,167 @@
   "latestVersion": "8.6.2",
   "versions": {
     "8.0.0": {
-      "appVersion": "8.0.0"
+      "appVersion": "8.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.0.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.0.0.tgz"
+      ],
+      "description": "Maximo Health and Predict - Utilities is an application in Maximo Application Suite from IBM for assessing the current and future performance of assets in the utilities industry  and plan for actions to reduce risk.",
+      "displayName": "Maximo Application Suite - Health and Predict - Utilities"
     },
     "8.1.0": {
-      "appVersion": "8.1.0"
+      "appVersion": "8.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.1.0.tgz"
+      ],
+      "description": "Maximo Health and Predict - Utilities is an application in Maximo Application Suite from IBM for assessing the current and future performance of assets in the utilities industry  and plan for actions to reduce risk.",
+      "displayName": "Maximo Application Suite - Health and Predict - Utilities"
     },
     "8.2.0": {
-      "appVersion": "8.2.0"
+      "appVersion": "8.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.2.1": {
-      "appVersion": "8.2.1"
+      "appVersion": "8.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.2.1",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.2.2": {
-      "appVersion": "8.2.2"
+      "appVersion": "8.2.2",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.2.2",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.2.3": {
-      "appVersion": "8.2.3"
+      "appVersion": "8.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.2.3",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.3.0": {
-      "appVersion": "8.3.0"
+      "appVersion": "8.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.3.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.3.1": {
-      "appVersion": "8.3.1"
+      "appVersion": "8.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.3.1",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.4.0": {
-      "appVersion": "8.4.0"
+      "appVersion": "8.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.4.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.4.1": {
-      "appVersion": "8.4.1"
+      "appVersion": "8.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.4.1",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.5.0": {
-      "appVersion": "8.5.0"
+      "appVersion": "8.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.5.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.5.1": {
-      "appVersion": "8.5.1"
+      "appVersion": "8.5.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.5.1",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.5.3": {
-      "appVersion": "8.5.3"
+      "appVersion": "8.5.3",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.5.3",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.5.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.6.0": {
-      "appVersion": "8.6.0"
+      "appVersion": "8.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.6.0",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.6.1": {
-      "appVersion": "8.6.1"
+      "appVersion": "8.6.1",
+      "airGap": [
+        "export CASE_NAME=ibm-mas-hputilities",
+        "export CASE_VERSION=8.6.1",
+        "export CASE_ARCHIVE=ibm-mas-hputilities-8.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmMasHPUtilitiesSetup"
+      ],
+      "description": "IBM Maximo Health and Predict - Utilities",
+      "displayName": "IBM Maximo Health and Predict - Utilities"
     },
     "8.6.2": {
       "appVersion": "8.6.2",

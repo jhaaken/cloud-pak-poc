@@ -4,40 +4,136 @@
   "latestVersion": "3.1.4+20230802.143749.1",
   "versions": {
     "1.0.3": {
-      "appVersion": "1.0.3"
+      "appVersion": "1.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-fdb-1.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "1.1.13": {
-      "appVersion": "1.1.13"
+      "appVersion": "1.1.13",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=1.1.13",
+        "export CASE_ARCHIVE=ibm-fdb-1.1.13.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "1.2.7": {
-      "appVersion": "1.2.7"
+      "appVersion": "1.2.7",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=1.2.7",
+        "export CASE_ARCHIVE=ibm-fdb-1.2.7.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "1.3.6": {
-      "appVersion": "1.3.6"
+      "appVersion": "1.3.6",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=1.3.6",
+        "export CASE_ARCHIVE=ibm-fdb-1.3.6.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "2.0.3": {
-      "appVersion": "2.0.3"
+      "appVersion": "2.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=2.0.3",
+        "export CASE_ARCHIVE=ibm-fdb-2.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "2.1.9": {
-      "appVersion": "2.1.9"
+      "appVersion": "2.1.9",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=2.1.9",
+        "export CASE_ARCHIVE=ibm-fdb-2.1.9.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "2.2.18": {
-      "appVersion": "2.2.18"
+      "appVersion": "2.2.18",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=2.2.18",
+        "export CASE_ARCHIVE=ibm-fdb-2.2.18.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "2.3.5": {
-      "appVersion": "2.3.5"
+      "appVersion": "2.3.5",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=2.3.5",
+        "export CASE_ARCHIVE=ibm-fdb-2.3.5.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "2.4.5": {
-      "appVersion": "2.4.5"
+      "appVersion": "2.4.5",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=2.4.5",
+        "export CASE_ARCHIVE=ibm-fdb-2.4.5.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "3.0.3": {
-      "appVersion": "3.0.3"
+      "appVersion": "3.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=3.0.3",
+        "export CASE_ARCHIVE=ibm-fdb-3.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "3.1.2": {
-      "appVersion": "3.1.2"
+      "appVersion": "3.1.2",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=3.1.2",
+        "export CASE_ARCHIVE=ibm-fdb-3.1.2.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "3.1.3+20230802.143749.2": {
-      "appVersion": "3.1.3+20230802.143749.2"
+      "appVersion": "3.1.3+20230802.143749.2",
+      "airGap": [
+        "export CASE_NAME=ibm-fdb",
+        "export CASE_VERSION=3.1.3+20230802.143749.2",
+        "export CASE_ARCHIVE=ibm-fdb-3.1.3+20230802.143749.2.tgz",
+        "export CASE_INVENTORY_SETUP=fdbOperator"
+      ],
+      "description": "IBM FoundationDB",
+      "displayName": ""
     },
     "3.1.4+20230802.143749.1": {
       "appVersion": "3.1.4+20230802.143749.1",

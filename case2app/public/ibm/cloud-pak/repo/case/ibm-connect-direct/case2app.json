@@ -4,52 +4,177 @@
   "latestVersion": "1.4.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "6.0.0"
+      "appVersion": "6.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.0.0.tgz"
+      ],
+      "description": "A CASE for IBM Connect Direct Unix on a containerized platform",
+      "displayName": "IBM Connect Direct Unix CASE"
     },
     "1.2.0": {
-      "appVersion": "6.1.0"
+      "appVersion": "6.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.2.0.tgz"
+      ],
+      "description": "A CASE for IBM Connect Direct for Unix on a containerized platform",
+      "displayName": "IBM Connect Direct for Unix CASE"
     },
     "1.2.1": {
-      "appVersion": "6.1.0"
+      "appVersion": "6.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.2.1.tgz"
+      ],
+      "description": "A CASE for IBM Connect Direct for Unix on a containerized platform",
+      "displayName": "IBM Connect Direct for Unix CASE"
     },
     "1.2.2": {
-      "appVersion": "6.1.0.4_iFix000"
+      "appVersion": "6.1.0.4_iFix000",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case which deploy Helm chart",
+      "displayName": "IBM Connect:Direct for Unix Helm chart"
     },
     "1.2.3": {
-      "appVersion": "6.1.0.4_iFix011"
+      "appVersion": "6.1.0.4_iFix011",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.2.3",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case which deploy Helm chart",
+      "displayName": "IBM Connect:Direct for Unix Helm chart"
     },
     "1.3.0": {
-      "appVersion": "6.2.0.0_ifix000"
+      "appVersion": "6.2.0.0_ifix000",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.1": {
-      "appVersion": "6.2.0.1_ifix018"
+      "appVersion": "6.2.0.1_ifix018",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.2": {
-      "appVersion": "6.2.0.2_ifix000"
+      "appVersion": "6.2.0.2_ifix000",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.3": {
-      "appVersion": "6.2.0.3_ifix014"
+      "appVersion": "6.2.0.3_ifix014",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.3",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.4": {
-      "appVersion": "6.2.0.4_ifix015"
+      "appVersion": "6.2.0.4_ifix015",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.4",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.5": {
-      "appVersion": "6.2.0.4_ifix022"
+      "appVersion": "6.2.0.4_ifix022",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.5",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.6": {
-      "appVersion": "6.2.0.5_ifix000"
+      "appVersion": "6.2.0.5_ifix000",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.6",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.7": {
-      "appVersion": "6.2.0.6_ifix000"
+      "appVersion": "6.2.0.6_ifix000",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.7",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.8": {
-      "appVersion": "6.2.0.6_ifix009"
+      "appVersion": "6.2.0.6_ifix009",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.8",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.3.9": {
-      "appVersion": "6.2.0.6_ifix014"
+      "appVersion": "6.2.0.6_ifix014",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.3.9",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.3.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.4.0": {
-      "appVersion": "6.3.0.0_ifix000"
+      "appVersion": "6.3.0.0_ifix000",
+      "airGap": [
+        "export CASE_NAME=ibm-connect-direct",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-connect-direct-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmConnectDirect"
+      ],
+      "description": "IBM Connect:Direct for Unix Case bundle",
+      "displayName": "IBM Connect:Direct for Unix Case bundle"
     },
     "1.4.1": {
       "appVersion": "6.3.0.0_ifix016",

@@ -4,46 +4,157 @@
   "latestVersion": "3.8.1",
   "versions": {
     "3.0.1": {
-      "appVersion": "3.0.1"
+      "appVersion": "3.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.0.1",
+        "export CASE_ARCHIVE=ibm-sls-3.0.1.tgz"
+      ],
+      "description": "IBM Suite Licensing Service",
+      "displayName": "IBM Suite Licensing Service"
     },
     "3.1.0": {
-      "appVersion": "3.1.0"
+      "appVersion": "3.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.1.0",
+        "export CASE_ARCHIVE=ibm-sls-3.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.2.0": {
-      "appVersion": "3.2.0"
+      "appVersion": "3.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.2.0",
+        "export CASE_ARCHIVE=ibm-sls-3.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.2.1": {
-      "appVersion": "3.2.1"
+      "appVersion": "3.2.1",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.2.1",
+        "export CASE_ARCHIVE=ibm-sls-3.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.2.3": {
-      "appVersion": "3.2.3"
+      "appVersion": "3.2.3",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.2.3",
+        "export CASE_ARCHIVE=ibm-sls-3.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.2.4": {
-      "appVersion": "3.2.4"
+      "appVersion": "3.2.4",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.2.4",
+        "export CASE_ARCHIVE=ibm-sls-3.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.3.0": {
-      "appVersion": "3.3.0"
+      "appVersion": "3.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.3.0",
+        "export CASE_ARCHIVE=ibm-sls-3.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.3.1": {
-      "appVersion": "3.3.1"
+      "appVersion": "3.3.1",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.3.1",
+        "export CASE_ARCHIVE=ibm-sls-3.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.4.0": {
-      "appVersion": "3.4.0"
+      "appVersion": "3.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.4.0",
+        "export CASE_ARCHIVE=ibm-sls-3.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.4.1": {
-      "appVersion": "3.4.1"
+      "appVersion": "3.4.1",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.4.1",
+        "export CASE_ARCHIVE=ibm-sls-3.4.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.5.0": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.5.0",
+        "export CASE_ARCHIVE=ibm-sls-3.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.6.0": {
-      "appVersion": "3.6.0"
+      "appVersion": "3.6.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.6.0",
+        "export CASE_ARCHIVE=ibm-sls-3.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.7.0": {
-      "appVersion": "3.7.0"
+      "appVersion": "3.7.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.7.0",
+        "export CASE_ARCHIVE=ibm-sls-3.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.8.0": {
-      "appVersion": "3.8.0"
+      "appVersion": "3.8.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sls",
+        "export CASE_VERSION=3.8.0",
+        "export CASE_ARCHIVE=ibm-sls-3.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSlsSetup"
+      ],
+      "description": "IBM Suite License Service",
+      "displayName": "IBM Suite License Service"
     },
     "3.8.1": {
       "appVersion": "3.8.1",

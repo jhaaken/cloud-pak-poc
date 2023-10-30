@@ -4,7 +4,14 @@
   "latestVersion": "1.0.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-sysflow",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-sysflow-1.0.0.tgz"
+      ],
+      "description": "IBM SysFlow Operator",
+      "displayName": "IBM SysFlow Operator"
     },
     "1.0.1": {
       "appVersion": "1.0.1",

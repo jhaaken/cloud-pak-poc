@@ -4,28 +4,86 @@
   "latestVersion": "4.0.4",
   "versions": {
     "1.0.0": {
-      "appVersion": "10.0"
+      "appVersion": "10.0",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-cpq-case-1.0.0.tgz"
+      ],
+      "description": "Chart for deploying IBM Cost Price Quote Enterprise Edition",
+      "displayName": ""
     },
     "2.0.0": {
-      "appVersion": "10.0.0.6"
+      "appVersion": "10.0.0.6",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=2.0.0",
+        "export CASE_ARCHIVE=ibm-cpq-case-2.0.0.tgz"
+      ],
+      "description": "Chart for deploying IBM Cost Price Quote Enterprise Edition",
+      "displayName": ""
     },
     "3.0.0": {
-      "appVersion": "10.0.0.7"
+      "appVersion": "10.0.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=3.0.0",
+        "export CASE_ARCHIVE=ibm-cpq-case-3.0.0.tgz"
+      ],
+      "description": "Chart for deploying IBM Cost Price Quote Enterprise Edition",
+      "displayName": ""
     },
     "3.1.0": {
-      "appVersion": "10.0.0.10"
+      "appVersion": "10.0.0.10",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=3.1.0",
+        "export CASE_ARCHIVE=ibm-cpq-case-3.1.0.tgz"
+      ],
+      "description": "Chart for deploying IBM Cost Price Quote Software",
+      "displayName": ""
     },
     "4.0.0": {
-      "appVersion": "10.0.0.12"
+      "appVersion": "10.0.0.12",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-cpq-case-4.0.0.tgz"
+      ],
+      "description": "Chart for deploying IBM Cost Price Quote Software",
+      "displayName": ""
     },
     "4.0.1": {
-      "appVersion": "10.0.0.15"
+      "appVersion": "10.0.0.15",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=4.0.1",
+        "export CASE_ARCHIVE=ibm-cpq-case-4.0.1.tgz"
+      ],
+      "description": "Chart for deploying IBM Cost Price Quote Software",
+      "displayName": ""
     },
     "4.0.2": {
-      "appVersion": "10.0.0.20"
+      "appVersion": "10.0.0.20",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=4.0.2",
+        "export CASE_ARCHIVE=ibm-cpq-case-4.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCpqProd"
+      ],
+      "description": "Chart for deploying IBM Configure Price Quote Software",
+      "displayName": "IBM CPQ Case"
     },
     "4.0.3": {
-      "appVersion": "10.0.0.20"
+      "appVersion": "10.0.0.20",
+      "airGap": [
+        "export CASE_NAME=ibm-cpq-case",
+        "export CASE_VERSION=4.0.3",
+        "export CASE_ARCHIVE=ibm-cpq-case-4.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmCpqProd"
+      ],
+      "description": "Chart for deploying IBM Configure Price Quote Software",
+      "displayName": "IBM CPQ Case"
     },
     "4.0.4": {
       "appVersion": "10.0.0.22",

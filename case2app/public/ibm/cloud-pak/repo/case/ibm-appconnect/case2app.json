@@ -4,199 +4,718 @@
   "latestVersion": "10.1.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "11.0.0.9-r1"
+      "appVersion": "11.0.0.9-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.0.tgz"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.0.1": {
-      "appVersion": "11.0.0.9-r1"
+      "appVersion": "11.0.0.9-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.0.2": {
-      "appVersion": "11.0.0.9-r2"
+      "appVersion": "11.0.0.9-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.0.3": {
-      "appVersion": "11.0.0.9-r2"
+      "appVersion": "11.0.0.9-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.0.4": {
-      "appVersion": "11.0.0.10-r1"
+      "appVersion": "11.0.0.10-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.4",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.0.5": {
-      "appVersion": "11.0.0.10-r1"
+      "appVersion": "11.0.0.10-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.0.6": {
-      "appVersion": "11.0.0.10-r2"
+      "appVersion": "11.0.0.10-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.0.6",
+        "export CASE_ARCHIVE=ibm-appconnect-1.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.0": {
-      "appVersion": "11.0.0.10-r3-eus"
+      "appVersion": "11.0.0.10-r3-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.1": {
-      "appVersion": "11.0.0.12-r1-eus"
+      "appVersion": "11.0.0.12-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.1",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.2": {
-      "appVersion": "11.0.0.13-r1-eus"
+      "appVersion": "11.0.0.13-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.2",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.3": {
-      "appVersion": "11.0.0.13-r1-eus"
+      "appVersion": "11.0.0.13-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.3",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.4": {
-      "appVersion": "11.0.0.14-r1-eus"
+      "appVersion": "11.0.0.14-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.4",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.5": {
-      "appVersion": "11.0.0.15-r1-eus"
+      "appVersion": "11.0.0.15-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.5",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.6": {
-      "appVersion": "11.0.0.15-r2-eus"
+      "appVersion": "11.0.0.15-r2-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.6",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.7": {
-      "appVersion": "11.0.0.16-r1-eus"
+      "appVersion": "11.0.0.16-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.7",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.8": {
-      "appVersion": "11.0.0.17-r1-eus"
+      "appVersion": "11.0.0.17-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.8",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.9": {
-      "appVersion": "11.0.0.17-r2-eus"
+      "appVersion": "11.0.0.17-r2-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.9",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.1.10": {
-      "appVersion": "11.0.0.18-r1-eus"
+      "appVersion": "11.0.0.18-r1-eus",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.1.10",
+        "export CASE_ARCHIVE=ibm-appconnect-1.1.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.2.0": {
-      "appVersion": "11.0.0.11-r1"
+      "appVersion": "11.0.0.11-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.3.0": {
-      "appVersion": "11.0.0.11-r2"
+      "appVersion": "11.0.0.11-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-appconnect-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.3.1": {
-      "appVersion": "11.0.0.11-r2"
+      "appVersion": "11.0.0.11-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-appconnect-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.3.2": {
-      "appVersion": "11.0.0.11-r2"
+      "appVersion": "11.0.0.11-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-appconnect-1.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.4.0": {
-      "appVersion": "11.0.0.12-r1"
+      "appVersion": "11.0.0.12-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-appconnect-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.5.0": {
-      "appVersion": "12.0.1.0-r1"
+      "appVersion": "12.0.1.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.5.0",
+        "export CASE_ARCHIVE=ibm-appconnect-1.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.5.1": {
-      "appVersion": "12.0.1.0-r2"
+      "appVersion": "12.0.1.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.5.1",
+        "export CASE_ARCHIVE=ibm-appconnect-1.5.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "1.5.2": {
-      "appVersion": "12.0.1.0-r3"
+      "appVersion": "12.0.1.0-r3",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=1.5.2",
+        "export CASE_ARCHIVE=ibm-appconnect-1.5.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "2.0.0": {
-      "appVersion": "12.0.1.0-r4"
+      "appVersion": "12.0.1.0-r4",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=2.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-2.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "2.1.0": {
-      "appVersion": "12.0.2.0-r1"
+      "appVersion": "12.0.2.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=2.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-2.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "3.0.0": {
-      "appVersion": "12.0.2.0-r2"
+      "appVersion": "12.0.2.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=3.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-3.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "3.1.0": {
-      "appVersion": "12.0.3.0-r1"
+      "appVersion": "12.0.3.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=3.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-3.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "4.0.0": {
-      "appVersion": "12.0.3.0-r2"
+      "appVersion": "12.0.3.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "4.1.0": {
-      "appVersion": "12.0.4.0-r1"
+      "appVersion": "12.0.4.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=4.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-4.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "4.2.0": {
-      "appVersion": "12.0.4.0-r2"
+      "appVersion": "12.0.4.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=4.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-4.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.0": {
-      "appVersion": "12.0.5.0-r1-lts"
+      "appVersion": "12.0.5.0-r1-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.1": {
-      "appVersion": "12.0.6.0-r1-lts"
+      "appVersion": "12.0.6.0-r1-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.1",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.2": {
-      "appVersion": "12.0.6.0-r2-lts"
+      "appVersion": "12.0.6.0-r2-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.2",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.3": {
-      "appVersion": "12.0.7.0-r1-lts"
+      "appVersion": "12.0.7.0-r1-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.3",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.4": {
-      "appVersion": "12.0.7.0-r2-lts"
+      "appVersion": "12.0.7.0-r2-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.4",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.5": {
-      "appVersion": "12.0.7.0-r3-lts"
+      "appVersion": "12.0.7.0-r3-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.5",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.6": {
-      "appVersion": "12.0.8.0-r1-lts"
+      "appVersion": "12.0.8.0-r1-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.6",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.7": {
-      "appVersion": "12.0.8.0-r2-lts"
+      "appVersion": "12.0.8.0-r2-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.7",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.8": {
-      "appVersion": "12.0.8.0-r3-lts"
+      "appVersion": "12.0.8.0-r3-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.8",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.9": {
-      "appVersion": "12.0.9.0-r1-lts"
+      "appVersion": "12.0.9.0-r1-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.9",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.10": {
-      "appVersion": "12.0.9.0-r2-lts"
+      "appVersion": "12.0.9.0-r2-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.10",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.10.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.11": {
-      "appVersion": "12.0.9.0-r3-lts"
+      "appVersion": "12.0.9.0-r3-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.11",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.11.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.0.12": {
-      "appVersion": "12.0.10.0-r1-lts"
+      "appVersion": "12.0.10.0-r1-lts",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.0.12",
+        "export CASE_ARCHIVE=ibm-appconnect-5.0.12.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.1.0": {
-      "appVersion": "12.0.5.0-r2"
+      "appVersion": "12.0.5.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-5.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "5.2.0": {
-      "appVersion": "12.0.5.0-r3"
+      "appVersion": "12.0.5.0-r3",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=5.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-5.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "6.0.0": {
-      "appVersion": "12.0.5.0-r4"
+      "appVersion": "12.0.5.0-r4",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=6.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-6.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "6.1.0": {
-      "appVersion": "12.0.6.0-r1"
+      "appVersion": "12.0.6.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=6.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-6.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "6.1.1": {
-      "appVersion": "12.0.6.0-r1"
+      "appVersion": "12.0.6.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=6.1.1",
+        "export CASE_ARCHIVE=ibm-appconnect-6.1.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "6.2.0": {
-      "appVersion": "12.0.7.0-r1"
+      "appVersion": "12.0.7.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=6.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-6.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "7.0.0": {
-      "appVersion": "12.0.7.0-r2"
+      "appVersion": "12.0.7.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=7.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-7.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "7.1.0": {
-      "appVersion": "12.0.7.0-r3"
+      "appVersion": "12.0.7.0-r3",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=7.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-7.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "7.2.0": {
-      "appVersion": "12.0.7.0-r4"
+      "appVersion": "12.0.7.0-r4",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=7.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-7.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "8.0.0": {
-      "appVersion": "12.0.7.0-r5"
+      "appVersion": "12.0.7.0-r5",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=8.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-8.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "8.1.0": {
-      "appVersion": "12.0.8.0-r1"
+      "appVersion": "12.0.8.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=8.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-8.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "8.2.0": {
-      "appVersion": "12.0.8.0-r2"
+      "appVersion": "12.0.8.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=8.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-8.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "8.2.1": {
-      "appVersion": "12.0.8.0-r2"
+      "appVersion": "12.0.8.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=8.2.1",
+        "export CASE_ARCHIVE=ibm-appconnect-8.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "9.0.0": {
-      "appVersion": "12.0.8.0-r3"
+      "appVersion": "12.0.8.0-r3",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=9.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-9.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "9.1.0": {
-      "appVersion": "12.0.9.0-r1"
+      "appVersion": "12.0.9.0-r1",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=9.1.0",
+        "export CASE_ARCHIVE=ibm-appconnect-9.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "9.2.0": {
-      "appVersion": "12.0.9.0-r2"
+      "appVersion": "12.0.9.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=9.2.0",
+        "export CASE_ARCHIVE=ibm-appconnect-9.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "9.2.1": {
-      "appVersion": "12.0.9.0-r2"
+      "appVersion": "12.0.9.0-r2",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=9.2.1",
+        "export CASE_ARCHIVE=ibm-appconnect-9.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "10.0.0": {
-      "appVersion": "12.0.9.0-r3"
+      "appVersion": "12.0.9.0-r3",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=10.0.0",
+        "export CASE_ARCHIVE=ibm-appconnect-10.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "10.0.1": {
-      "appVersion": "12.0.9.0-r3"
+      "appVersion": "12.0.9.0-r3",
+      "airGap": [
+        "export CASE_NAME=ibm-appconnect",
+        "export CASE_VERSION=10.0.1",
+        "export CASE_ARCHIVE=ibm-appconnect-10.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmAppconnect"
+      ],
+      "description": "IBM AppConnect Operator",
+      "displayName": "IBM AppConnect Operator"
     },
     "10.1.0": {
       "appVersion": "12.0.10.0-r1",

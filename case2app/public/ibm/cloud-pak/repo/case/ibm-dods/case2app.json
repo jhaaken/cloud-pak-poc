@@ -4,73 +4,256 @@
   "latestVersion": "7.3.0",
   "versions": {
     "3.5.0+20201106.185552.b81": {
-      "appVersion": "3.5.0"
+      "appVersion": "3.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=3.5.0+20201106.185552.b81",
+        "export CASE_ARCHIVE=ibm-dods-3.5.0+20201106.185552.b81.tgz"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.0": {
-      "appVersion": "4.0.0"
+      "appVersion": "4.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-dods-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.1": {
-      "appVersion": "4.0.1"
+      "appVersion": "4.0.1",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.1",
+        "export CASE_ARCHIVE=ibm-dods-4.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.2": {
-      "appVersion": "4.0.2"
+      "appVersion": "4.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.2",
+        "export CASE_ARCHIVE=ibm-dods-4.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.3": {
-      "appVersion": "4.0.3"
+      "appVersion": "4.0.3",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.3",
+        "export CASE_ARCHIVE=ibm-dods-4.0.3.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.4": {
-      "appVersion": "4.0.4"
+      "appVersion": "4.0.4",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.4",
+        "export CASE_ARCHIVE=ibm-dods-4.0.4.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.5": {
-      "appVersion": "4.0.5"
+      "appVersion": "4.0.5",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.5",
+        "export CASE_ARCHIVE=ibm-dods-4.0.5.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.6": {
-      "appVersion": "4.0.6"
+      "appVersion": "4.0.6",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.6",
+        "export CASE_ARCHIVE=ibm-dods-4.0.6.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.7": {
-      "appVersion": "4.0.7"
+      "appVersion": "4.0.7",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.7",
+        "export CASE_ARCHIVE=ibm-dods-4.0.7.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.8": {
-      "appVersion": "4.0.8"
+      "appVersion": "4.0.8",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.8",
+        "export CASE_ARCHIVE=ibm-dods-4.0.8.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.9": {
-      "appVersion": "4.0.9"
+      "appVersion": "4.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.9",
+        "export CASE_ARCHIVE=ibm-dods-4.0.9.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "4.0.9+20220726.000000": {
-      "appVersion": "4.0.9"
+      "appVersion": "4.0.9",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=4.0.9+20220726.000000",
+        "export CASE_ARCHIVE=ibm-dods-4.0.9+20220726.000000.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "5.0.0": {
-      "appVersion": "5.0.0"
+      "appVersion": "5.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=5.0.0",
+        "export CASE_ARCHIVE=ibm-dods-5.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "5.1.0": {
-      "appVersion": "5.1.0"
+      "appVersion": "5.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=5.1.0",
+        "export CASE_ARCHIVE=ibm-dods-5.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "5.3.0": {
-      "appVersion": "5.3.0"
+      "appVersion": "5.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=5.3.0",
+        "export CASE_ARCHIVE=ibm-dods-5.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "6.0.0": {
-      "appVersion": "6.0.0"
+      "appVersion": "6.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=6.0.0",
+        "export CASE_ARCHIVE=ibm-dods-6.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "6.1.0": {
-      "appVersion": "6.1.0"
+      "appVersion": "6.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=6.1.0",
+        "export CASE_ARCHIVE=ibm-dods-6.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "6.3.0": {
-      "appVersion": "6.3.0"
+      "appVersion": "6.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=6.3.0",
+        "export CASE_ARCHIVE=ibm-dods-6.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "6.4.0": {
-      "appVersion": "6.4.0"
+      "appVersion": "6.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=6.4.0",
+        "export CASE_ARCHIVE=ibm-dods-6.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "6.5.0": {
-      "appVersion": "6.5.0"
+      "appVersion": "6.5.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=6.5.0",
+        "export CASE_ARCHIVE=ibm-dods-6.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "7.0.0": {
-      "appVersion": "7.0.0"
+      "appVersion": "7.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=7.0.0",
+        "export CASE_ARCHIVE=ibm-dods-7.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "7.1.0": {
-      "appVersion": "7.1.0"
+      "appVersion": "7.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=7.1.0",
+        "export CASE_ARCHIVE=ibm-dods-7.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "7.2.0": {
-      "appVersion": "7.2.0"
+      "appVersion": "7.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-dods",
+        "export CASE_VERSION=7.2.0",
+        "export CASE_ARCHIVE=ibm-dods-7.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=dodsOperatorSetup"
+      ],
+      "description": "IBM Decision Optimization is an add-on to Cloud Pack for Data that provides advanced decision capabilities.",
+      "displayName": "IBM Decision Optimization on IBM Cloud Pak for Data"
     },
     "7.3.0": {
       "appVersion": "7.3.0",

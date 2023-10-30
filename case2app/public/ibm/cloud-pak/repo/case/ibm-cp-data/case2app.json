@@ -4,13 +4,34 @@
   "latestVersion": "1.0.6",
   "versions": {
     "1.0.2": {
-      "appVersion": "2.1.0.2"
+      "appVersion": "2.1.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-data",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-cp-data-1.0.2.tgz"
+      ],
+      "description": "Cloud Pak for Data System is an all-in-one cloud-native Data and AI platform in a box  providing a preconfigured  governed  and secure environment to collect  organize and analyze data.",
+      "displayName": "IBM Cloud Pak for Data"
     },
     "1.0.3": {
-      "appVersion": "2.1.0.2"
+      "appVersion": "2.1.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-data",
+        "export CASE_VERSION=1.0.3",
+        "export CASE_ARCHIVE=ibm-cp-data-1.0.3.tgz"
+      ],
+      "description": "An all-in-one cloud-native Data and AI platform in a box  providing a preconfigured  governed  and secure environment to collect  organize and analyze data.",
+      "displayName": "Cloud Pak for Data"
     },
     "1.0.5": {
-      "appVersion": "2.1.0.2"
+      "appVersion": "2.1.0.2",
+      "airGap": [
+        "export CASE_NAME=ibm-cp-data",
+        "export CASE_VERSION=1.0.5",
+        "export CASE_ARCHIVE=ibm-cp-data-1.0.5.tgz"
+      ],
+      "description": "An all-in-one cloud-native Data and AI platform in a box  providing a preconfigured  governed  and secure environment to collect  organize and analyze data.",
+      "displayName": "Cloud Pak for Data"
     },
     "1.0.6": {
       "appVersion": "2.1.0.2",
@@ -19,7 +40,7 @@
         "export CASE_VERSION=1.0.6",
         "export CASE_ARCHIVE=ibm-cp-data-1.0.6.tgz"
       ],
-      "description": "An all-in-one cloud-native Data and AI platform in a box, providing a preconfigured, governed, and secure environment to collect, organize and analyze data.",
+      "description": "An all-in-one cloud-native Data and AI platform in a box  providing a preconfigured  governed  and secure environment to collect  organize and analyze data.",
       "displayName": "Cloud Pak for Data"
     }
   }

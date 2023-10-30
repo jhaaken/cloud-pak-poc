@@ -4,7 +4,15 @@
   "latestVersion": "10.18.1",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-spp-server",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-spp-server-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=sppserverSetup"
+      ],
+      "description": "IBM Spectrum Protect Plus is a modern data protection solution that provides near-instant recovery  replication  retention  and reuse for VMs  databases  and containers in hybrid multicloud environments",
+      "displayName": "IBM Spectrum Protect Plus"
     },
     "10.18.1": {
       "appVersion": "1.0.0",
@@ -14,7 +22,7 @@
         "export CASE_ARCHIVE=ibm-spp-server-10.18.1.tgz",
         "export CASE_INVENTORY_SETUP=sppserverSetup"
       ],
-      "description": "IBM Spectrum Protect Plus is a modern data protection solution that provides near-instant recovery, replication, retention, and reuse for VMs, databases, and containers in hybrid multicloud environments",
+      "description": "IBM Spectrum Protect Plus is a modern data protection solution that provides near-instant recovery  replication  retention  and reuse for VMs  databases  and containers in hybrid multicloud environments",
       "displayName": "IBM Spectrum Protect Plus"
     }
   }

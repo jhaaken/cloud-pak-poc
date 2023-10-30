@@ -4,43 +4,147 @@
   "latestVersion": "1.3.4",
   "versions": {
     "1.0.0": {
-      "appVersion": "6.0.2.0.01"
+      "appVersion": "6.0.2.0.01",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-seas-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.0.1": {
-      "appVersion": "6.0.2.0.02"
+      "appVersion": "6.0.2.0.02",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.0.1",
+        "export CASE_ARCHIVE=ibm-seas-1.0.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.0.2": {
-      "appVersion": "6.0.2.0.03"
+      "appVersion": "6.0.2.0.03",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.0.2",
+        "export CASE_ARCHIVE=ibm-seas-1.0.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.2.0": {
-      "appVersion": "6.0.3.0"
+      "appVersion": "6.0.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-seas-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.2.1": {
-      "appVersion": "6.0.3.0.01"
+      "appVersion": "6.0.3.0.01",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.2.1",
+        "export CASE_ARCHIVE=ibm-seas-1.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.2.2": {
-      "appVersion": "6.0.3.0.01plus"
+      "appVersion": "6.0.3.0.01plus",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.2.2",
+        "export CASE_ARCHIVE=ibm-seas-1.2.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.2.3": {
-      "appVersion": "6.0.3.0.02"
+      "appVersion": "6.0.3.0.02",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.2.3",
+        "export CASE_ARCHIVE=ibm-seas-1.2.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.2.4": {
-      "appVersion": "6.0.3.0.02plus"
+      "appVersion": "6.0.3.0.02plus",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.2.4",
+        "export CASE_ARCHIVE=ibm-seas-1.2.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.2.5": {
-      "appVersion": "6.0.3.0.04"
+      "appVersion": "6.0.3.0.04",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.2.5",
+        "export CASE_ARCHIVE=ibm-seas-1.2.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.3.0": {
-      "appVersion": "6.1.0.0"
+      "appVersion": "6.1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-seas-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.3.1": {
-      "appVersion": "6.1.0.0.01"
+      "appVersion": "6.1.0.0.01",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.3.1",
+        "export CASE_ARCHIVE=ibm-seas-1.3.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.3.2": {
-      "appVersion": "6.1.0.0.02"
+      "appVersion": "6.1.0.0.02",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.3.2",
+        "export CASE_ARCHIVE=ibm-seas-1.3.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.3.3": {
-      "appVersion": "6.1.0.0.03"
+      "appVersion": "6.1.0.0.03",
+      "airGap": [
+        "export CASE_NAME=ibm-seas",
+        "export CASE_VERSION=1.3.3",
+        "export CASE_ARCHIVE=ibm-seas-1.3.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmSeas"
+      ],
+      "description": "A CASE for Sterling External Authentication Server on a containerized platform",
+      "displayName": "IBM Sterling External Authentication Server CASE"
     },
     "1.3.4": {
       "appVersion": "6.1.0.0.04",

@@ -4,19 +4,64 @@
   "latestVersion": "1.5.0",
   "versions": {
     "1.0.0": {
-      "appVersion": "1.0.0"
+      "appVersion": "1.0.0",
+      "airGap": [
+        "export CASE_NAME=ibm-apicatalog",
+        "export CASE_VERSION=1.0.0",
+        "export CASE_ARCHIVE=ibm-apicatalog-1.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=apicatalogOperator",
+        "export CASE_INVENTORY_SETUP=apicatalogOperatorSetup"
+      ],
+      "description": "IBM® API Catalog operator",
+      "displayName": "IBM API Catalog"
     },
     "1.1.0": {
-      "appVersion": "1.1.0"
+      "appVersion": "1.1.0",
+      "airGap": [
+        "export CASE_NAME=ibm-apicatalog",
+        "export CASE_VERSION=1.1.0",
+        "export CASE_ARCHIVE=ibm-apicatalog-1.1.0.tgz",
+        "export CASE_INVENTORY_SETUP=apicatalogOperator",
+        "export CASE_INVENTORY_SETUP=apicatalogOperatorSetup"
+      ],
+      "description": "IBM® API Catalog operator",
+      "displayName": "IBM API Catalog"
     },
     "1.2.0": {
-      "appVersion": "1.2.0"
+      "appVersion": "1.2.0",
+      "airGap": [
+        "export CASE_NAME=ibm-apicatalog",
+        "export CASE_VERSION=1.2.0",
+        "export CASE_ARCHIVE=ibm-apicatalog-1.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=apicatalogOperator",
+        "export CASE_INVENTORY_SETUP=apicatalogOperatorSetup"
+      ],
+      "description": "IBM® API Catalog operator",
+      "displayName": "IBM API Catalog"
     },
     "1.3.0": {
-      "appVersion": "1.3.0"
+      "appVersion": "1.3.0",
+      "airGap": [
+        "export CASE_NAME=ibm-apicatalog",
+        "export CASE_VERSION=1.3.0",
+        "export CASE_ARCHIVE=ibm-apicatalog-1.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=apicatalogOperator",
+        "export CASE_INVENTORY_SETUP=apicatalogOperatorSetup"
+      ],
+      "description": "IBM® API Catalog operator",
+      "displayName": "IBM API Catalog"
     },
     "1.4.0": {
-      "appVersion": "1.4.0"
+      "appVersion": "1.4.0",
+      "airGap": [
+        "export CASE_NAME=ibm-apicatalog",
+        "export CASE_VERSION=1.4.0",
+        "export CASE_ARCHIVE=ibm-apicatalog-1.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=apicatalogOperator",
+        "export CASE_INVENTORY_SETUP=apicatalogOperatorSetup"
+      ],
+      "description": "IBM® API Catalog operator",
+      "displayName": "IBM API Catalog"
     },
     "1.5.0": {
       "appVersion": "1.5.0",

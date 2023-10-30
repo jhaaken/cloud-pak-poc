@@ -4,76 +4,268 @@
   "latestVersion": "4.8.0",
   "versions": {
     "0.20.2": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=0.20.2",
+        "export CASE_ARCHIVE=ibm-events-operator-0.20.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "0.20.3": {
-      "appVersion": "0.20.1"
+      "appVersion": "0.20.1",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=0.20.3",
+        "export CASE_ARCHIVE=ibm-events-operator-0.20.3.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "0.20.4": {
-      "appVersion": "0.20.1"
+      "appVersion": "0.20.1",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=0.20.4",
+        "export CASE_ARCHIVE=ibm-events-operator-0.20.4.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "0.20.5": {
-      "appVersion": "0.20.1"
+      "appVersion": "0.20.1",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=0.20.5",
+        "export CASE_ARCHIVE=ibm-events-operator-0.20.5.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "0.20.6": {
-      "appVersion": "0.20.1"
+      "appVersion": "0.20.1",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=0.20.6",
+        "export CASE_ARCHIVE=ibm-events-operator-0.20.6.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.7.1": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.7.1",
+        "export CASE_ARCHIVE=ibm-events-operator-3.7.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.8.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.8.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.8.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.9.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.9.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.9.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.10.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.10.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.10.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.11.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.11.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.11.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.13.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.13.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.13.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.14.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.14.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.14.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.14.1": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.14.1",
+        "export CASE_ARCHIVE=ibm-events-operator-3.14.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.14.2": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.14.2",
+        "export CASE_ARCHIVE=ibm-events-operator-3.14.2.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "3.15.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=3.15.0",
+        "export CASE_ARCHIVE=ibm-events-operator-3.15.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.0.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.0.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.0.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.2.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.2.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.2.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.2.1": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.2.1",
+        "export CASE_ARCHIVE=ibm-events-operator-4.2.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.3.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.3.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.3.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.4.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.4.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.4.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.5.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.5.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.5.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.6.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.6.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.6.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.6.1": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.6.1",
+        "export CASE_ARCHIVE=ibm-events-operator-4.6.1.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.7.0": {
-      "appVersion": "0.20.0"
+      "appVersion": "0.20.0",
+      "airGap": [
+        "export CASE_NAME=ibm-events-operator",
+        "export CASE_VERSION=4.7.0",
+        "export CASE_ARCHIVE=ibm-events-operator-4.7.0.tgz",
+        "export CASE_INVENTORY_SETUP=ibmEventsOperatorSetup"
+      ],
+      "description": "This case provides an IBM Events Operator and example custom resource which can be used to install instances of IBM Events Operator",
+      "displayName": "This case provides an IBM Events Operator and example custom resources which can be used to install instances of IBM Events Operator"
     },
     "4.8.0": {
       "appVersion": "0.20.0",
